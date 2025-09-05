@@ -1,0 +1,86 @@
+{
+  "user_name": "王睿",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "故事概括：在外星人试图抹去人类痕迹的绝望时刻，幸存者发现古老魔力重新觉醒，展开反击以拯救家园，最终通过牺牲与团结重建希望。\r\n\r\n第一幕：地球已被外星人侵占，环境遭到严重破坏，人类几乎灭绝，幸存者们在废墟中挣扎求生。一个幸存者意外发现古老魔力的秘密，意识到这种力量可以吸取外星人的能量为人类所用，但使用者会遭受反噬。随着外星人加紧消灭幸存者，内部冲突也开始显现，一些人为了活命不得不依赖他人使用魔力。\r\n\r\n第二幕：幸存者们开始组织反击，利用古老魔力对抗外星人，然而使用魔力的人逐渐被反噬，身体和精神受到严重损害。内部矛盾加剧，一些人为了生存选择牺牲他人，导致团队分裂。与此同时，外星人发现了幸存者的计划，开始针对性地猎杀拥有魔力的人，幸存者们面临着生死存亡的巨大压力。\r\n\r\n第三幕：在最终的决战中，幸存者们面临两难选择：要么与外星人同归于尽，要么保留最后的希望，只剩下刚出生的幼小人类。经过激烈的内心挣扎，幸存者们决定牺牲自己以保护地球的未来，最终成功击退外星人。故事以人类团结一致、珍惜家园的核心思想结束，留下了重建地球的希望。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 5,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of using ancient magic to fight alien invaders is compelling and poses a strong \"what if?\" question. It has the potential to sustain a long narrative with its rich thematic possibilities.",
+    "Memory Anchors & Sensory Specificity": "While the story hints at internal and external conflicts, the characters lack depth and multi-dimensionality. Their desires and motivations could be more clearly defined to drive the narrative more effectively.",
+    "Intergenerational Span & Long-term Causality": "The story has a clear direction centered on themes of sacrifice and unity. This is reflected in the plot, though it could be further refined to enhance its impact.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates as the story progresses, but the escalation could be more complex and nuanced. The internal and external pressures on the characters need to be more intricately woven.",
+    "Investigative Drive & Clue Architecture": "The story includes internal, interpersonal, and external conflicts, but these could be more deeply explored to add layers and complexity to the narrative.",
+    "Multi-layered Conflict": "The turning points are present but lack impact. The rhythm of tension and release could be more dynamic to maintain reader engagement.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a genuine dilemma in the climax, and their decision is consistent with the story's themes. However, the character's internal struggle could be more vividly portrayed.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is intense and meaningful, bringing about a significant value shift. It effectively conveys the story's themes, though it could be more emotionally resonant.",
+    "Emotional Punch & Aftershock": "The controlling idea of unity and sacrifice is clearly expressed in the climax, leaving the audience with a sense of hope and understanding.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are adequate but could be more refined and original. The dialogue and imagery could be more vivid and avoid clichés to enhance the story's expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of using ancient magic to fight alien invaders is compelling and poses a strong \"what if?\" question. It has the potential to sustain a long narrative with its rich thematic possibilities."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "While the story hints at internal and external conflicts, the characters lack depth and multi-dimensionality. Their desires and motivations could be more clearly defined to drive the narrative more effectively."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story has a clear direction centered on themes of sacrifice and unity. This is reflected in the plot, though it could be further refined to enhance its impact."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "The conflict escalates as the story progresses, but the escalation could be more complex and nuanced. The internal and external pressures on the characters need to be more intricately woven."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The story includes internal, interpersonal, and external conflicts, but these could be more deeply explored to add layers and complexity to the narrative."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 5,
+      "justification": "The turning points are present but lack impact. The rhythm of tension and release could be more dynamic to maintain reader engagement."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The protagonist faces a genuine dilemma in the climax, and their decision is consistent with the story's themes. However, the character's internal struggle could be more vividly portrayed."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The climax is intense and meaningful, bringing about a significant value shift. It effectively conveys the story's themes, though it could be more emotionally resonant."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "The controlling idea of unity and sacrifice is clearly expressed in the climax, leaving the audience with a sense of hope and understanding."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative details are adequate but could be more refined and original. The dialogue and imagery could be more vivid and avoid clichés to enhance the story's expression."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling post-apocalyptic scenario where human survivors discover ancient magic to combat alien invaders. The story effectively explores themes of sacrifice, unity, and hope, though it could benefit from deeper character development and more nuanced conflict escalation. The premise is intriguing, but the execution of certain elements, such as character depth and structural turning points, could be refined for greater impact.",
+  "total_score": 65,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling post-apocalyptic scenario where human survivors discover ancient magic to combat alien invaders. The story effectively explores themes of sacrifice, unity, and hope, though it could benefit from deeper character development and more nuanced conflict escalation. The premise is intriguing, but the execution of certain elements, such as character depth and structural turning points, could be refined for greater impact.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of using ancient magic to fight alien invaders is compelling and poses a strong \"what if?\" question. It has the potential to sustain a long narrative with its rich thematic possibilities.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|5|While the story hints at internal and external conflicts, the characters lack depth and multi-dimensionality. Their desires and motivations could be more clearly defined to drive the narrative more effectively.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story has a clear direction centered on themes of sacrifice and unity. This is reflected in the plot, though it could be further refined to enhance its impact.\nCRITERION_4|Progressive Escalation of Conflict|6|The conflict escalates as the story progresses, but the escalation could be more complex and nuanced. The internal and external pressures on the characters need to be more intricately woven.\nCRITERION_5|Breadth and Levels of Conflict|6|The story includes internal, interpersonal, and external conflicts, but these could be more deeply explored to add layers and complexity to the narrative.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|5|The turning points are present but lack impact. The rhythm of tension and release could be more dynamic to maintain reader engagement.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|7|The protagonist faces a genuine dilemma in the climax, and their decision is consistent with the story's themes. However, the character's internal struggle could be more vividly portrayed.\nCRITERION_8| Impact and Depth of Meaning in the Climax|7|The climax is intense and meaningful, bringing about a significant value shift. It effectively conveys the story's themes, though it could be more emotionally resonant.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|8|The controlling idea of unity and sacrifice is clearly expressed in the climax, leaving the audience with a sense of hope and understanding.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative details are adequate but could be more refined and original. The dialogue and imagery could be more vivid and avoid clichés to enhance the story's expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-05T02:15:14.639117+00:00"
+}

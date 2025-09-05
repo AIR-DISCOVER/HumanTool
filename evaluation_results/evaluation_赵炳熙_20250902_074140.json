@@ -1,0 +1,86 @@
+{
+  "user_name": "赵炳熙",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n在人类追求永生的时代，一位科学家在面临揭露永生药物副作用的道德困境中，选择了不替后代承受选择命运的责任，最终付出了生命的代价。\r\n\r\n第二部分：第一幕\r\n故事开始于科学家28岁时，永生药物的问世让他和同龄人被排除在外，成为“迷失的一代”。他在研究永生药物的过程中，逐渐意识到药物可能导致人类情感的冷漠化。随着时间的推移，他目睹了年轻一代逐渐失去对生命的热情和对他人的关爱，这让他陷入了深深的内心冲突，开始质疑自己是否有权替后代承受选择命运的责任。\r\n\r\n第三部分：第二幕\r\n科学家85岁时，永生药物的副作用开始显现，他面临着揭露真相与保护后代永生之间的两难选择。他与同龄人讨论，发现大家都对年轻一代的冷漠感到无奈和痛苦。最终，他决定揭露真相，认为每个人都应自己选择命运，而不是由他来承担后果，希望能唤醒人们对人性情感的重视。\r\n\r\n第四部分：第三幕\r\n真相的揭露引发了社会的巨大震动，年轻一代对科学家的行为感到愤怒，认为他剥夺了他们的永生权利。科学家在面对后代的憎恨时，依然坚持自己的选择，认为不应该替其他人承受选择命运的责任。然而，年轻一代的愤怒最终演变为暴力，科学家被他们杀害。临终前，他感到无悔，因为他相信自己的牺牲是为了更高尚的理想，故事在他对人性未来的希望与绝望交织中结束。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 8,
+    "Investigative Drive & Clue Architecture": 0,
+    "Multi-layered Conflict": 0,
+    "Value Turns & Causal Cohesion": 0,
+    "Hierarchy of Beats & Midpoint/Climax Design": 0,
+    "Emotional Punch & Aftershock": 0,
+    "Dual Resonance of Ending: Personal & Public": 0
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The core concept of immortality and its ethical implications is compelling and thought-provoking. The scientist's internal conflict and moral dilemma are well-developed, driving the narrative forward with depth and complexity.",
+    "Memory Anchors & Sensory Specificity": "The setting is clearly established in a future where immortality is possible, creating a coherent backdrop for the story. The inciting incident—the realization of the drug's emotional side effects—effectively sets the protagonist's journey in motion.",
+    "Intergenerational Span & Long-term Causality": "The narrative follows a clear structure, with escalating conflict as the protagonist grapples with his decision. The antagonistic forces, both internal and societal, are multidimensional, adding depth to the story.",
+    "Institutional & Tech Ethical Complexity": "The crisis and climax are powerful, with the protagonist facing a genuine dilemma and making a choice consistent with his character. The climax results in an irreversible shift, and the ending provides a meaningful exploration of the story's themes.",
+    "Investigative Drive & Clue Architecture": "",
+    "Multi-layered Conflict": "",
+    "Value Turns & Causal Cohesion": "",
+    "Hierarchy of Beats & Midpoint/Climax Design": "",
+    "Emotional Punch & Aftershock": "",
+    "Dual Resonance of Ending: Personal & Public": ""
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The core concept of immortality and its ethical implications is compelling and thought-provoking. The scientist's internal conflict and moral dilemma are well-developed, driving the narrative forward with depth and complexity."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The setting is clearly established in a future where immortality is possible, creating a coherent backdrop for the story. The inciting incident—the realization of the drug's emotional side effects—effectively sets the protagonist's journey in motion."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The narrative follows a clear structure, with escalating conflict as the protagonist grapples with his decision. The antagonistic forces, both internal and societal, are multidimensional, adding depth to the story."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 8,
+      "justification": "The crisis and climax are powerful, with the protagonist facing a genuine dilemma and making a choice consistent with his character. The climax results in an irreversible shift, and the ending provides a meaningful exploration of the story's themes."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 0,
+      "justification": ""
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 0,
+      "justification": ""
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 0,
+      "justification": ""
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 0,
+      "justification": ""
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 0,
+      "justification": ""
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 0,
+      "justification": ""
+    }
+  ],
+  "overall_summary": "The narrative explores the ethical dilemma faced by a scientist in a world where immortality is achievable through a drug. The story is structured around the scientist's internal conflict and ultimate decision to reveal the drug's side effects, leading to his tragic demise. The text effectively examines themes of responsibility, choice, and the impact of immortality on human emotions.",
+  "total_score": 30,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative explores the ethical dilemma faced by a scientist in a world where immortality is achievable through a drug. The story is structured around the scientist's internal conflict and ultimate decision to reveal the drug's side effects, leading to his tragic demise. The text effectively examines themes of responsibility, choice, and the impact of immortality on human emotions.\n\nCRITERION_SCORES:\nCRITERION_1|Phase one -- Core Concept & Character Drive|8|The core concept of immortality and its ethical implications is compelling and thought-provoking. The scientist's internal conflict and moral dilemma are well-developed, driving the narrative forward with depth and complexity.\nCRITERION_2|Phase two -- World Setting & Inciting Incident|7|The setting is clearly established in a future where immortality is possible, creating a coherent backdrop for the story. The inciting incident—the realization of the drug's emotional side effects—effectively sets the protagonist's journey in motion.\nCRITERION_3|Phase three -- Structural Development & Conflict Escalation)|7|The narrative follows a clear structure, with escalating conflict as the protagonist grapples with his decision. The antagonistic forces, both internal and societal, are multidimensional, adding depth to the story.\nCRITERION_4|Phase four -- Crisis, Climax & Controlling Idea Confirmation|8|The crisis and climax are powerful, with the protagonist facing a genuine dilemma and making a choice consistent with his character. The climax results in an irreversible shift, and the ending provides a meaningful exploration of the story's themes.\nCRITERION_5| |[SCORE_1-10]|[Your justification here]\nCRITERION_6| |[SCORE_1-10]|[Your justification here]\nCRITERION_7||[SCORE_1-10]|[Your justification here]\nCRITERION_8| |[SCORE_1-10]|[Your justification here]\nCRITERION_9| |[SCORE_1-10]|[Your justification here]\nCRITERION_10| |[SCORE_1-10]|[Your justification here]\n===EVALUATION_END===",
+  "created_at": "2025-09-02T07:41:40.382252+00:00"
+}

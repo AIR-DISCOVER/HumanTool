@@ -1,0 +1,86 @@
+{
+  "user_name": "张悦湫",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个长生不老药物被发现的世界里，一位被排除在外的老人试图揭示药物导致创造力消失的副作用，但他的努力在社会动荡中被忽视。\r\n第二部分：第一幕\r\n\r\n故事开始于主角28岁时，科学界宣布发现了一种可以阻止衰老的药物，但政府决定只给25岁以下的人使用，认为主角这一代风险过高。年轻一代的生活方式发生了巨大变化，他们开始追求永生的生活方式，而主角感到自己被时代抛弃，生活在一个与年轻人截然不同的世界中，社会上充满了对长生不老的狂热。\r\n第三部分：第二幕\r\n\r\n时间快进到主角85岁时，长生不老药的副作用开始显现，年轻一代的创造力逐渐消失，社会变得单调乏味。主角偶然发现了一些关于药物副作用的秘密文件，决定揭露真相，但由于年老体衰，他的行动缓慢而无力，他的声音在年轻一代的喧嚣中被淹没。他试图联系媒体和政府，但都被忽视，社会对长生不老的狂热让他感到无奈。\r\n第四部分：第三幕\r\n\r\n主角努力说服政府和公众注意药物的危害，但他的声音被忽视。最终，药物的副作用变得无法掩盖，社会陷入混乱，年轻一代开始质疑他们的永生生活。主角在最后时刻感到无奈和孤独，故事在他对未来的忧虑中结束，没有任何明确的解决方案。年轻一代的反思和动荡让社会面临新的挑战，但主角的努力似乎没有带来实质性的改变。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 5,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of a world transformed by a longevity drug is compelling and raises intriguing questions about the cost of immortality, particularly the loss of creativity. This \"what if?\" scenario is rich with potential for exploration.",
+    "Memory Anchors & Sensory Specificity": "The protagonist is portrayed with a clear sense of exclusion and determination, but the narrative does not delve deeply into his multi-dimensionality or unconscious desires, limiting the character's complexity.",
+    "Intergenerational Span & Long-term Causality": "The story has a clear direction, focusing on the societal obsession with immortality and its consequences. However, the controlling idea could be more explicitly developed throughout the narrative.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates from societal changes to the protagonist's personal struggle to reveal the truth. However, the escalation feels somewhat linear and lacks unexpected twists that could heighten tension.",
+    "Investigative Drive & Clue Architecture": "The narrative addresses internal conflict (the protagonist's sense of exclusion), interpersonal conflict (his ignored warnings), and societal conflict (the drug's impact), providing a well-rounded exploration of opposing forces.",
+    "Multi-layered Conflict": "The story has clear turning points, such as the discovery of the drug's side effects, but the rhythm could be more dynamic, with more varied pacing to enhance engagement.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a dilemma in trying to reveal the truth, but his decisions lack depth and complexity, and his character consistency is not fully explored.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax, where society begins to question immortality, is impactful but lacks profound meaning or resolution, leaving the narrative feeling somewhat incomplete.",
+    "Emotional Punch & Aftershock": "The controlling idea is hinted at but not fully confirmed or expressed in the conclusion, which ends on an ambiguous note without a clear resolution or message.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are generally effective, with a unique premise and setting. However, the dialogue and imagery could be more refined and original to enhance the story's expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of a world transformed by a longevity drug is compelling and raises intriguing questions about the cost of immortality, particularly the loss of creativity. This \"what if?\" scenario is rich with potential for exploration."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "The protagonist is portrayed with a clear sense of exclusion and determination, but the narrative does not delve deeply into his multi-dimensionality or unconscious desires, limiting the character's complexity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story has a clear direction, focusing on the societal obsession with immortality and its consequences. However, the controlling idea could be more explicitly developed throughout the narrative."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "The conflict escalates from societal changes to the protagonist's personal struggle to reveal the truth. However, the escalation feels somewhat linear and lacks unexpected twists that could heighten tension."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The narrative addresses internal conflict (the protagonist's sense of exclusion), interpersonal conflict (his ignored warnings), and societal conflict (the drug's impact), providing a well-rounded exploration of opposing forces."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The story has clear turning points, such as the discovery of the drug's side effects, but the rhythm could be more dynamic, with more varied pacing to enhance engagement."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 5,
+      "justification": "The protagonist faces a dilemma in trying to reveal the truth, but his decisions lack depth and complexity, and his character consistency is not fully explored."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The climax, where society begins to question immortality, is impactful but lacks profound meaning or resolution, leaving the narrative feeling somewhat incomplete."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "The controlling idea is hinted at but not fully confirmed or expressed in the conclusion, which ends on an ambiguous note without a clear resolution or message."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative details are generally effective, with a unique premise and setting. However, the dialogue and imagery could be more refined and original to enhance the story's expression."
+    }
+  ],
+  "overall_summary": "The narrative presents a thought-provoking premise about the societal implications of a longevity drug, focusing on the generational divide and the loss of creativity. While the story effectively explores the protagonist's struggles and the societal consequences, it lacks a strong resolution and depth in character development, leaving some potential untapped.",
+  "total_score": 61,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a thought-provoking premise about the societal implications of a longevity drug, focusing on the generational divide and the loss of creativity. While the story effectively explores the protagonist's struggles and the societal consequences, it lacks a strong resolution and depth in character development, leaving some potential untapped.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of a world transformed by a longevity drug is compelling and raises intriguing questions about the cost of immortality, particularly the loss of creativity. This \"what if?\" scenario is rich with potential for exploration.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|5|The protagonist is portrayed with a clear sense of exclusion and determination, but the narrative does not delve deeply into his multi-dimensionality or unconscious desires, limiting the character's complexity.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story has a clear direction, focusing on the societal obsession with immortality and its consequences. However, the controlling idea could be more explicitly developed throughout the narrative.\nCRITERION_4|Progressive Escalation of Conflict|6|The conflict escalates from societal changes to the protagonist's personal struggle to reveal the truth. However, the escalation feels somewhat linear and lacks unexpected twists that could heighten tension.\nCRITERION_5|Breadth and Levels of Conflict|7|The narrative addresses internal conflict (the protagonist's sense of exclusion), interpersonal conflict (his ignored warnings), and societal conflict (the drug's impact), providing a well-rounded exploration of opposing forces.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|6|The story has clear turning points, such as the discovery of the drug's side effects, but the rhythm could be more dynamic, with more varied pacing to enhance engagement.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|5|The protagonist faces a dilemma in trying to reveal the truth, but his decisions lack depth and complexity, and his character consistency is not fully explored.\nCRITERION_8| Impact and Depth of Meaning in the Climax|6|The climax, where society begins to question immortality, is impactful but lacks profound meaning or resolution, leaving the narrative feeling somewhat incomplete.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|5|The controlling idea is hinted at but not fully confirmed or expressed in the conclusion, which ends on an ambiguous note without a clear resolution or message.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative details are generally effective, with a unique premise and setting. However, the dialogue and imagery could be more refined and original to enhance the story's expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-05T13:06:35.531473+00:00"
+}

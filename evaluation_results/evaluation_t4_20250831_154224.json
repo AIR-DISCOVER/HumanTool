@@ -1,0 +1,86 @@
+{
+  "user_name": "t4",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括 在一个科学发现永生药物的世界中，28岁的陈嘉如被排除在外，成为“迷失的一代”。随着时间推移，她发现药物的副作用和背后的阴谋，最终在85岁时，她揭露真相并找到预防副作用的方法，重新定义生命的意义。\r\n\r\n第二部分：第一幕 在28岁时，陈嘉如得知政府将永生药物提供给26岁以下的公民，她感到震惊和失落。她努力争取机会，却被告知风险过高而被拒绝。随着时间的推移，她开始怀疑药物的真正效果，并发现科学家们隐藏了一个关于药物副作用的秘密。她的生活在这个秘密的阴影下逐渐失去平衡。\r\n\r\n第三部分：第二幕 陈嘉如开始深入调查药物的真相，结识了一群同样被排除在外的“迷失的一代”成员，他们共同发现药物的副作用正在悄然显现。她面临着内心的挣扎和社会的压力，逐渐揭开政府和科学家之间的阴谋。随着调查的深入，她发现了一种可能预防副作用的方法，但这需要她做出艰难的选择。\r\n\r\n第四部分：第三幕 在85岁时，陈嘉如面临着最终的对决，她必须在揭露真相和保护自己之间做出选择。她决定公开药物的副作用和阴谋，冒着生命危险将真相公之于众。最终，她成功地揭露了真相，并通过自己的研究找到了预防副作用的方法，帮助“迷失的一代”重新获得对生命的掌控，世界也因此发生了改变",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 4,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "Chen Jiaru's journey from exclusion to revelation provides a clear arc, but her internal motivations and moral dilemmas could be more deeply explored. The choice between revealing the truth and personal safety is present but lacks detailed internal conflict and transformation.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks specific sensory details or recurring memory anchors that drive the plot or character decisions. The focus is more on plot progression than sensory or emotional triggers.",
+    "Intergenerational Span & Long-term Causality": "The story spans from Chen's youth to old age, effectively showing the long-term consequences of the drug's exclusion. However, more explicit contrasts between her younger and older self could enhance this aspect.",
+    "Institutional & Tech Ethical Complexity": "The government and scientific institutions are portrayed as antagonistic forces, but their motivations are not deeply explored, reducing the complexity of their ethical portrayal.",
+    "Investigative Drive & Clue Architecture": "The investigation into the drug's effects provides a solid narrative drive, though the clues and risks involved could be more intricately layered to heighten suspense and engagement.",
+    "Multi-layered Conflict": "The story includes internal, interpersonal, and institutional conflicts, but these layers could be more intricately connected to amplify the protagonist's challenges and choices.",
+    "Value Turns & Causal Cohesion": "The narrative has clear value shifts, such as from ignorance to revelation, but the causal links between scenes could be more explicitly connected to enhance cohesion.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The structure follows a clear progression, but the midpoint and climax could be more dramatically defined to increase their impact and inevitability.",
+    "Emotional Punch & Aftershock": "While the story has moments of emotional impact, these could be more deeply explored and echoed throughout the narrative to create lasting aftershocks.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and societal changes, with Chen's actions leading to a broader impact. However, the resolution could retain more moral ambiguity to avoid a simplistic conclusion."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "Chen Jiaru's journey from exclusion to revelation provides a clear arc, but her internal motivations and moral dilemmas could be more deeply explored. The choice between revealing the truth and personal safety is present but lacks detailed internal conflict and transformation."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 4,
+      "justification": "The narrative lacks specific sensory details or recurring memory anchors that drive the plot or character decisions. The focus is more on plot progression than sensory or emotional triggers."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story spans from Chen's youth to old age, effectively showing the long-term consequences of the drug's exclusion. However, more explicit contrasts between her younger and older self could enhance this aspect."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The government and scientific institutions are portrayed as antagonistic forces, but their motivations are not deeply explored, reducing the complexity of their ethical portrayal."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The investigation into the drug's effects provides a solid narrative drive, though the clues and risks involved could be more intricately layered to heighten suspense and engagement."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The story includes internal, interpersonal, and institutional conflicts, but these layers could be more intricately connected to amplify the protagonist's challenges and choices."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The narrative has clear value shifts, such as from ignorance to revelation, but the causal links between scenes could be more explicitly connected to enhance cohesion."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The structure follows a clear progression, but the midpoint and climax could be more dramatically defined to increase their impact and inevitability."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "While the story has moments of emotional impact, these could be more deeply explored and echoed throughout the narrative to create lasting aftershocks."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The ending addresses both personal and societal changes, with Chen's actions leading to a broader impact. However, the resolution could retain more moral ambiguity to avoid a simplistic conclusion."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling story set in a world where a drug for immortality creates societal divides. The protagonist, Chen Jiaru, is excluded from its benefits, leading her to uncover its dark secrets. The story effectively explores themes of exclusion, ethical dilemmas, and the quest for truth, though it could benefit from deeper character development and more nuanced institutional portrayals.",
+  "total_score": 59,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling story set in a world where a drug for immortality creates societal divides. The protagonist, Chen Jiaru, is excluded from its benefits, leading her to uncover its dark secrets. The story effectively explores themes of exclusion, ethical dilemmas, and the quest for truth, though it could benefit from deeper character development and more nuanced institutional portrayals.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|6|Chen Jiaru's journey from exclusion to revelation provides a clear arc, but her internal motivations and moral dilemmas could be more deeply explored. The choice between revealing the truth and personal safety is present but lacks detailed internal conflict and transformation.\nCRITERION_2|Memory Anchors & Sensory Specificity|4|The narrative lacks specific sensory details or recurring memory anchors that drive the plot or character decisions. The focus is more on plot progression than sensory or emotional triggers.\nCRITERION_3|Intergenerational Span & Long-term Causality|7|The story spans from Chen's youth to old age, effectively showing the long-term consequences of the drug's exclusion. However, more explicit contrasts between her younger and older self could enhance this aspect.\nCRITERION_4|Institutional & Tech Ethical Complexity|5|The government and scientific institutions are portrayed as antagonistic forces, but their motivations are not deeply explored, reducing the complexity of their ethical portrayal.\nCRITERION_5|Investigative Drive & Clue Architecture|6|The investigation into the drug's effects provides a solid narrative drive, though the clues and risks involved could be more intricately layered to heighten suspense and engagement.\nCRITERION_6|Multi-layered Conflict|6|The story includes internal, interpersonal, and institutional conflicts, but these layers could be more intricately connected to amplify the protagonist's challenges and choices.\nCRITERION_7|Value Turns & Causal Cohesion|7|The narrative has clear value shifts, such as from ignorance to revelation, but the causal links between scenes could be more explicitly connected to enhance cohesion.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|6|The structure follows a clear progression, but the midpoint and climax could be more dramatically defined to increase their impact and inevitability.\nCRITERION_9|Emotional Punch & Aftershock|5|While the story has moments of emotional impact, these could be more deeply explored and echoed throughout the narrative to create lasting aftershocks.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|7|The ending addresses both personal and societal changes, with Chen's actions leading to a broader impact. However, the resolution could retain more moral ambiguity to avoid a simplistic conclusion.\n===EVALUATION_END===",
+  "created_at": "2025-08-31T15:42:24.199853+00:00"
+}

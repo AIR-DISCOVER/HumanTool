@@ -1,0 +1,86 @@
+{
+  "user_name": "老师test",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个科技高度发达但环境恶化的未来世界，随着人类数量锐减，古老的魔法力量重新觉醒，底层超能力者联合起来反抗资本家的压迫，最终在共同理想下建立一个公平的社会。\r\n第二部分：第一幕\r\n\r\n在未来的地球，科技发达但环境恶化，人类只能在少数科技保护区生存。年轻的底层居民艾伦意外觉醒了强大的超能力“时间冻结”，这引起了资本家阶级的注意，他们试图通过威逼利诱来控制他。艾伦起初相信法律和道德能够保护他，但很快发现这些在权势面前毫无用处。\r\n第三部分：第二幕\r\n\r\n失望的艾伦决定联合其他底层超能力者和普通群众，利用他们的特殊能力揭露社会的不公。拥有“心灵感应”能力的莉娜和“元素操控”能力的马克帮助艾伦通过取证和公开揭露资本家的罪行，逐渐唤醒了更多人的觉醒和反抗意识。与此同时，艾伦与资本家阵营中善良的角色艾米莉产生了爱情，但他们的关系因阶级对立而充满矛盾。\r\n第四部分：第三幕\r\n\r\n在反抗运动的高潮中，艾伦和艾米莉面临着情感与阶级的两难选择，他们最终认清内心，决定为了建立一个公平的社会而共同奋斗，打破阶级压迫。通过团结和努力，他们成功地推翻了资本家的统治，迎来了一个新的社会秩序，并在共同理想下相爱相守。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 9,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 8,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 0,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The core concept of a technologically advanced yet environmentally degraded world where magic resurfaces is intriguing and original. The protagonist, Allen, is multidimensional, driven by both conscious desires for justice and unconscious desires for belonging. The characters' motivations are clear and compelling, providing a strong foundation for the narrative.",
+    "Memory Anchors & Sensory Specificity": "The setting is richly detailed, with a clear depiction of a dystopian future where technology and environment are at odds. The inciting incident, Allen's awakening of his powers, is a pivotal moment that effectively sets the story in motion, posing the main dramatic question and engaging the audience's curiosity.",
+    "Intergenerational Span & Long-term Causality": "The narrative follows a clear three-act structure, with escalating conflicts as Allen and his allies confront the oppressive capitalist forces. The antagonistic forces are well-developed, and the stakes are high, driving the plot forward through progressive complications and character development.",
+    "Institutional & Tech Ethical Complexity": "The climax presents a genuine dilemma for Allen and Emily, forcing them to choose between personal desires and the greater good. The resolution is meaningful, with an irreversible shift in societal values, leaving the audience with a satisfying understanding of the story's controlling idea of unity and justice.",
+    "Investigative Drive & Clue Architecture": "The narrative effectively balances character development with plot progression, ensuring that both elements are interwoven and contribute to the overall impact of the story.",
+    "Multi-layered Conflict": "Dialogue and interactions between characters are well-crafted, revealing their personalities and advancing the plot while maintaining engagement.",
+    "Value Turns & Causal Cohesion": "",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The pacing is well-managed, with a steady build-up of tension and stakes that maintain the audience's interest throughout the narrative.",
+    "Emotional Punch & Aftershock": "The use of magical elements is imaginative and enhances the story's uniqueness, providing a fresh take on the dystopian genre.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative concludes with a hopeful and satisfying resolution, effectively tying together the story's themes and character arcs."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The core concept of a technologically advanced yet environmentally degraded world where magic resurfaces is intriguing and original. The protagonist, Allen, is multidimensional, driven by both conscious desires for justice and unconscious desires for belonging. The characters' motivations are clear and compelling, providing a strong foundation for the narrative."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 9,
+      "justification": "The setting is richly detailed, with a clear depiction of a dystopian future where technology and environment are at odds. The inciting incident, Allen's awakening of his powers, is a pivotal moment that effectively sets the story in motion, posing the main dramatic question and engaging the audience's curiosity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The narrative follows a clear three-act structure, with escalating conflicts as Allen and his allies confront the oppressive capitalist forces. The antagonistic forces are well-developed, and the stakes are high, driving the plot forward through progressive complications and character development."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 8,
+      "justification": "The climax presents a genuine dilemma for Allen and Emily, forcing them to choose between personal desires and the greater good. The resolution is meaningful, with an irreversible shift in societal values, leaving the audience with a satisfying understanding of the story's controlling idea of unity and justice."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The narrative effectively balances character development with plot progression, ensuring that both elements are interwoven and contribute to the overall impact of the story."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "Dialogue and interactions between characters are well-crafted, revealing their personalities and advancing the plot while maintaining engagement."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 0,
+      "justification": ""
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The pacing is well-managed, with a steady build-up of tension and stakes that maintain the audience's interest throughout the narrative."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "The use of magical elements is imaginative and enhances the story's uniqueness, providing a fresh take on the dystopian genre."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The narrative concludes with a hopeful and satisfying resolution, effectively tying together the story's themes and character arcs."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling vision of a future world where technology and magic intersect, driving a story of rebellion against oppressive capitalist forces. The characters are well-defined, with clear motivations and development arcs. The setting is vividly depicted, and the plot unfolds through a structured three-act format, culminating in a satisfying resolution that reinforces the story's themes of unity and justice.",
+  "total_score": 69,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling vision of a future world where technology and magic intersect, driving a story of rebellion against oppressive capitalist forces. The characters are well-defined, with clear motivations and development arcs. The setting is vividly depicted, and the plot unfolds through a structured three-act format, culminating in a satisfying resolution that reinforces the story's themes of unity and justice.\n\nCRITERION_SCORES:\nCRITERION_1|Phase one -- Core Concept & Character Drive|8|The core concept of a technologically advanced yet environmentally degraded world where magic resurfaces is intriguing and original. The protagonist, Allen, is multidimensional, driven by both conscious desires for justice and unconscious desires for belonging. The characters' motivations are clear and compelling, providing a strong foundation for the narrative.\nCRITERION_2|Phase two -- World Setting & Inciting Incident|9|The setting is richly detailed, with a clear depiction of a dystopian future where technology and environment are at odds. The inciting incident, Allen's awakening of his powers, is a pivotal moment that effectively sets the story in motion, posing the main dramatic question and engaging the audience's curiosity.\nCRITERION_3|Phase three -- Structural Development & Conflict Escalation)|8|The narrative follows a clear three-act structure, with escalating conflicts as Allen and his allies confront the oppressive capitalist forces. The antagonistic forces are well-developed, and the stakes are high, driving the plot forward through progressive complications and character development.\nCRITERION_4|Phase four -- Crisis, Climax & Controlling Idea Confirmation|8|The climax presents a genuine dilemma for Allen and Emily, forcing them to choose between personal desires and the greater good. The resolution is meaningful, with an irreversible shift in societal values, leaving the audience with a satisfying understanding of the story's controlling idea of unity and justice.\nCRITERION_5| |7|The narrative effectively balances character development with plot progression, ensuring that both elements are interwoven and contribute to the overall impact of the story.\nCRITERION_6| |7|Dialogue and interactions between characters are well-crafted, revealing their personalities and advancing the plot while maintaining engagement.\nCRITERION_7||8|The themes of social justice, unity, and resistance against oppression are consistently reinforced throughout the narrative, adding depth and resonance to the story.\nCRITERION_8| |7|The pacing is well-managed, with a steady build-up of tension and stakes that maintain the audience's interest throughout the narrative.\nCRITERION_9| |8|The use of magical elements is imaginative and enhances the story's uniqueness, providing a fresh take on the dystopian genre.\nCRITERION_10| |7|The narrative concludes with a hopeful and satisfying resolution, effectively tying together the story's themes and character arcs.\n===EVALUATION_END===",
+  "created_at": "2025-09-02T10:06:26.201730+00:00"
+}

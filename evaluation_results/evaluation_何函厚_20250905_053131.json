@@ -1,0 +1,86 @@
+{
+  "user_name": "何函厚",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个追求永生的时代，一名患有先天疾病的老人揭露长生药物的致命副作用，唤醒社会对生命真正意义的反思。\r\n第二部分：第一幕\r\n\r\n故事开始于主人公28岁时，科学界宣布发现了一种能够阻止衰老的药物，政府决定将其提供给所有26岁以下的公民，而主人公因患有先天疾病被排除在外，成为“迷失的一代”。随着时间的推移，他目睹了服用药物者享受永生的繁华生活，社会对未服用者的态度逐渐冷漠，未服用者被边缘化，生活条件恶化，主人公心中充满了失落与嫉妒。\r\n第三部分：第二幕\r\n\r\n当主人公85岁时，药物的副作用开始显现，服用者出现严重的健康问题和心理障碍，社会陷入混乱。主人公在最初的幸灾乐祸后，逐渐对这些人产生了同情，意识到自己可能是揭露真相的关键人物，于是开始调查药物的真实影响，并试图唤醒公众对药物的质疑。他对比了服用药物者的痛苦与未服用者在艰难环境中依旧保持的自然生活，坚定不移地继续追寻真相。\r\n第四部分：第三幕\r\n\r\n主人公最终发现药物的副作用是不可逆的，并将这一信息公之于众，引发了社会的巨大反响。年轻一代开始反思永生的代价，而政府被迫承认错误并停止药物的使用。通过对比未服用者在逆境中依旧坚韧的生活，主人公在揭露真相后，虽然身体依旧衰老，但内心获得了宁静和满足，他成为了社会变革的象征，激励人们重新审视生命的意义。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 8,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 8,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 9,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise is compelling, posing a powerful \"what if?\" question about the pursuit of immortality and its societal costs. It has the depth to sustain a long narrative by exploring the consequences of such a pursuit.",
+    "Memory Anchors & Sensory Specificity": "The protagonist is well-developed, showing growth from jealousy to empathy and action. However, more depth in secondary characters could enhance the narrative.",
+    "Intergenerational Span & Long-term Causality": "The story has a clear direction, exploring the value of natural life versus artificial immortality. This theme is consistently reflected in the plot's progression.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates effectively, from personal exclusion to societal chaos, pushing the protagonist into a pivotal role. Each act builds on the previous, increasing tension and stakes.",
+    "Investigative Drive & Clue Architecture": "The narrative explores internal, interpersonal, and societal conflicts, though the internal conflict could be more deeply explored to add further complexity.",
+    "Multi-layered Conflict": "Turning points are clear and impactful, driving the narrative forward and maintaining a dynamic rhythm that keeps the reader engaged.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a genuine dilemma, choosing between personal safety and societal truth. His decision is consistent with his character development, though the dilemma could be more pronounced.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is impactful, bringing about a significant societal shift and offering profound commentary on the cost of immortality. It is memorable and meaningful.",
+    "Emotional Punch & Aftershock": "The controlling idea is clearly expressed in the climax, leaving the audience with a deep understanding of the narrative's thematic exploration.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are well-crafted, with effective imagery and dialogue. However, some scenes could be further refined to avoid predictability and enhance originality."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise is compelling, posing a powerful \"what if?\" question about the pursuit of immortality and its societal costs. It has the depth to sustain a long narrative by exploring the consequences of such a pursuit."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The protagonist is well-developed, showing growth from jealousy to empathy and action. However, more depth in secondary characters could enhance the narrative."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The story has a clear direction, exploring the value of natural life versus artificial immortality. This theme is consistently reflected in the plot's progression."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 8,
+      "justification": "The conflict escalates effectively, from personal exclusion to societal chaos, pushing the protagonist into a pivotal role. Each act builds on the previous, increasing tension and stakes."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The narrative explores internal, interpersonal, and societal conflicts, though the internal conflict could be more deeply explored to add further complexity."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 8,
+      "justification": "Turning points are clear and impactful, driving the narrative forward and maintaining a dynamic rhythm that keeps the reader engaged."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The protagonist faces a genuine dilemma, choosing between personal safety and societal truth. His decision is consistent with his character development, though the dilemma could be more pronounced."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 9,
+      "justification": "The climax is impactful, bringing about a significant societal shift and offering profound commentary on the cost of immortality. It is memorable and meaningful."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "The controlling idea is clearly expressed in the climax, leaving the audience with a deep understanding of the narrative's thematic exploration."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The narrative details are well-crafted, with effective imagery and dialogue. However, some scenes could be further refined to avoid predictability and enhance originality."
+    }
+  ],
+  "overall_summary": "The narrative presents a thought-provoking exploration of the pursuit of immortality and its societal implications. It effectively uses a protagonist who, due to his exclusion from a life-extending drug, becomes a catalyst for societal reflection on the true meaning of life. The story is structured in three acts, each escalating the conflict and deepening the thematic exploration, culminating in a powerful climax that challenges the societal status quo.",
+  "total_score": 77,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a thought-provoking exploration of the pursuit of immortality and its societal implications. It effectively uses a protagonist who, due to his exclusion from a life-extending drug, becomes a catalyst for societal reflection on the true meaning of life. The story is structured in three acts, each escalating the conflict and deepening the thematic exploration, culminating in a powerful climax that challenges the societal status quo.\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise is compelling, posing a powerful \"what if?\" question about the pursuit of immortality and its societal costs. It has the depth to sustain a long narrative by exploring the consequences of such a pursuit.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|7|The protagonist is well-developed, showing growth from jealousy to empathy and action. However, more depth in secondary characters could enhance the narrative.\nCRITERION_3|Preliminary Direction of the Controlling Idea|8|The story has a clear direction, exploring the value of natural life versus artificial immortality. This theme is consistently reflected in the plot's progression.\nCRITERION_4|Progressive Escalation of Conflict|8|The conflict escalates effectively, from personal exclusion to societal chaos, pushing the protagonist into a pivotal role. Each act builds on the previous, increasing tension and stakes.\nCRITERION_5|Breadth and Levels of Conflict|7|The narrative explores internal, interpersonal, and societal conflicts, though the internal conflict could be more deeply explored to add further complexity.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|8|Turning points are clear and impactful, driving the narrative forward and maintaining a dynamic rhythm that keeps the reader engaged.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|7|The protagonist faces a genuine dilemma, choosing between personal safety and societal truth. His decision is consistent with his character development, though the dilemma could be more pronounced.\nCRITERION_8| Impact and Depth of Meaning in the Climax|9|The climax is impactful, bringing about a significant societal shift and offering profound commentary on the cost of immortality. It is memorable and meaningful.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|8|The controlling idea is clearly expressed in the climax, leaving the audience with a deep understanding of the narrative's thematic exploration.\nCRITERION_10|Refinement and Originality of Narrative Details|7|The narrative details are well-crafted, with effective imagery and dialogue. However, some scenes could be further refined to avoid predictability and enhance originality.\n===EVALUATION_END===",
+  "created_at": "2025-09-05T05:31:31.744208+00:00"
+}

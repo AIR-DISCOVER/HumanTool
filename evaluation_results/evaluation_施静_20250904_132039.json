@@ -1,0 +1,86 @@
+{
+  "user_name": "施静",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在外星人入侵导致人类数量骤减后，社会底层的幸存者发现自己体内的魔法力量觉醒，为了保护地球和心爱之人，他必须在大义与个人情感之间做出艰难选择。\r\n第二部分：第一幕\r\n\r\n故事开始于一个被外星人摧毁的城市，主角是一个生活在社会底层的普通人，他目睹了外星人对地球的无情攻击。在一次袭击中，他为了保护身边的人而身受重伤，意外激发了体内沉睡的魔法力量。随着魔法的觉醒，他意识到自己可能是人类反击的关键，但他首先需要学会如何掌控这股力量。\r\n第三部分：第二幕\r\n\r\n主角开始接受一系列严酷的挑战和考验，以适应和掌控体内的魔法力量。在这个过程中，他面临着自我利益与他人利益之间的抉择，逐渐明白魔法的真正力量源于善良和正义。与此同时，外星人的攻击愈演愈烈，主角意识到他必须做出一个决定：是为了保护心爱之人而放弃大义，还是为了地球的未来而牺牲个人幸福。\r\n第四部分：第三幕\r\n\r\n在故事的高潮部分，主角面临着保护心爱之人和拯救地球的两难选择。他最终选择了大义，决定全力以赴地对抗外星人，这一选择激发了他体内魔法的全部潜能。在最后的战斗中，他不仅成功地击退了外星人，还在魔法的帮助下拯救了自己的爱人。故事以主角的胜利和人类的重生结束，展现了大义与爱之间的和谐统一。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of an alien invasion awakening latent magical powers in a societal underdog is both imaginative and engaging, posing a strong \"what if?\" scenario that can sustain a long narrative.",
+    "Memory Anchors & Sensory Specificity": "The protagonist's journey from an ordinary person to a key figure in humanity's defense is compelling, but the character's internal struggles and multi-dimensionality could be further developed to enhance authenticity.",
+    "Intergenerational Span & Long-term Causality": "The story clearly aims to explore themes of sacrifice and the greater good, with a direction that is reflected in the protagonist's choices, though it could be more subtly woven into the narrative.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates with the increasing alien threat and the protagonist's internal struggle, but the progression could be more complex and layered to heighten tension.",
+    "Investigative Drive & Clue Architecture": "The narrative includes internal, interpersonal, and external conflicts, showcasing a variety of opposing forces, though the internal conflict could be more deeply explored.",
+    "Multi-layered Conflict": "The story's turning points, such as the awakening of magical powers and the final decision, are impactful and drive the plot, but the rhythm could be more dynamic.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a genuine dilemma between personal happiness and the greater good, and his decision is consistent with his character development, adding depth to the narrative.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is intense and meaningful, with the protagonist's choice leading to a significant value shift, though it could be more profound in its exploration of themes.",
+    "Emotional Punch & Aftershock": "The story concludes with a clear expression of the controlling idea, emphasizing the harmony between duty and love, leaving the audience with a satisfying resolution.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are purposeful and mostly avoid clichés, but the dialogue and imagery could be more original and rich with subtext to enhance expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of an alien invasion awakening latent magical powers in a societal underdog is both imaginative and engaging, posing a strong \"what if?\" scenario that can sustain a long narrative."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The protagonist's journey from an ordinary person to a key figure in humanity's defense is compelling, but the character's internal struggles and multi-dimensionality could be further developed to enhance authenticity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story clearly aims to explore themes of sacrifice and the greater good, with a direction that is reflected in the protagonist's choices, though it could be more subtly woven into the narrative."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "The conflict escalates with the increasing alien threat and the protagonist's internal struggle, but the progression could be more complex and layered to heighten tension."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The narrative includes internal, interpersonal, and external conflicts, showcasing a variety of opposing forces, though the internal conflict could be more deeply explored."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story's turning points, such as the awakening of magical powers and the final decision, are impactful and drive the plot, but the rhythm could be more dynamic."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The protagonist faces a genuine dilemma between personal happiness and the greater good, and his decision is consistent with his character development, adding depth to the narrative."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The climax is intense and meaningful, with the protagonist's choice leading to a significant value shift, though it could be more profound in its exploration of themes."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "The story concludes with a clear expression of the controlling idea, emphasizing the harmony between duty and love, leaving the audience with a satisfying resolution."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative details are purposeful and mostly avoid clichés, but the dialogue and imagery could be more original and rich with subtext to enhance expression."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling story of an ordinary individual discovering magical powers amidst an alien invasion, leading to a classic conflict between personal desires and greater good. The premise is intriguing, with a strong emotional core and a clear moral direction. However, the story could benefit from deeper character development and more nuanced conflict escalation.",
+  "total_score": 70,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling story of an ordinary individual discovering magical powers amidst an alien invasion, leading to a classic conflict between personal desires and greater good. The premise is intriguing, with a strong emotional core and a clear moral direction. However, the story could benefit from deeper character development and more nuanced conflict escalation.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of an alien invasion awakening latent magical powers in a societal underdog is both imaginative and engaging, posing a strong \"what if?\" scenario that can sustain a long narrative.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|6|The protagonist's journey from an ordinary person to a key figure in humanity's defense is compelling, but the character's internal struggles and multi-dimensionality could be further developed to enhance authenticity.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story clearly aims to explore themes of sacrifice and the greater good, with a direction that is reflected in the protagonist's choices, though it could be more subtly woven into the narrative.\nCRITERION_4|Progressive Escalation of Conflict|6|The conflict escalates with the increasing alien threat and the protagonist's internal struggle, but the progression could be more complex and layered to heighten tension.\nCRITERION_5|Breadth and Levels of Conflict|7|The narrative includes internal, interpersonal, and external conflicts, showcasing a variety of opposing forces, though the internal conflict could be more deeply explored.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|7|The story's turning points, such as the awakening of magical powers and the final decision, are impactful and drive the plot, but the rhythm could be more dynamic.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|8|The protagonist faces a genuine dilemma between personal happiness and the greater good, and his decision is consistent with his character development, adding depth to the narrative.\nCRITERION_8| Impact and Depth of Meaning in the Climax|7|The climax is intense and meaningful, with the protagonist's choice leading to a significant value shift, though it could be more profound in its exploration of themes.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|8|The story concludes with a clear expression of the controlling idea, emphasizing the harmony between duty and love, leaving the audience with a satisfying resolution.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative details are purposeful and mostly avoid clichés, but the dialogue and imagery could be more original and rich with subtext to enhance expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-04T13:20:39.916367+00:00"
+}

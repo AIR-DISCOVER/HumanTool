@@ -1,0 +1,86 @@
+{
+  "user_name": "t-n",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n在人类文明被外星入侵者摧毁的绝望时刻，一位专注于古代魔法研究的大学教授意外发现魔法力量正在复苏，他必须带领幸存者利用这股力量对抗强大的外星敌人，重建希望。\r\n\r\n第二部分：第一幕\r\n在地球上，人口过多导致魔法力量几乎消失，外星入侵者的到来使人类文明遭受毁灭性打击，幸存者们在绝望中挣扎。 主角，一位专注于古代魔法研究的大学教授，目睹了外星人强大的科技和心理压迫，感到无能为力。 然而，当他意外发现自己家族传承的古老魔法书籍开始发光时，他意识到魔法力量正在复苏，并开始探索这股力量的潜力。\r\n\r\n第三部分：第二幕\r\n教授和一群幸存者开始研究如何利用复苏的魔法力量对抗外星人，他们在废墟中寻找盟友，并逐渐掌握了初步的魔法技能。 随着他们的力量增强，他们开始对外星人展开小规模的反击，取得了一些胜利。 然而，外星人很快加强了攻势，教授面临着巨大的内心挣扎，怀疑自己是否有能力带领人类走向胜利。 在一次关键的战斗中，教授失去了重要的盟友，陷入至暗时刻，但他从中获得了新的洞察，决定利用魔法的真正潜力进行最后的反击。\r\n\r\n第四部分：第三幕\r\n教授重新聚集幸存者，制定了一个大胆的计划，利用魔法力量摧毁外星人的核心科技。 在最终对决中，教授和他的团队运用他们所学的魔法技能，与外星人展开激烈的战斗。 教授在关键时刻做出了牺牲，释放出强大的魔法力量，最终摧毁了外星人的主舰，解放了地球。 随着外星人撤退，幸存者们开始重建家园，魔法力量的复苏为人类带来了新的希望和未来。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 4,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 4,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 5,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The professor faces internal struggles and doubts about his ability to lead humanity, especially after losing an ally. However, the moral dilemma is somewhat underdeveloped, as the choice to use magic against aliens is straightforward without significant personal cost or transformation.",
+    "Memory Anchors & Sensory Specificity": "The narrative mentions the professor's family legacy and ancient magical books, but lacks recurring sensory details or memory anchors that drive emotional or cognitive changes. The magical book's glow is a singular event rather than a recurring motif.",
+    "Intergenerational Span & Long-term Causality": "While the story hints at the professor's family legacy, it doesn't effectively explore intergenerational dynamics or long-term consequences. The focus is more on immediate action rather than the impact of past decisions on future generations.",
+    "Institutional & Tech Ethical Complexity": "The aliens are depicted as technologically advanced and oppressive, but their motives are not deeply explored beyond being antagonistic. The narrative lacks a nuanced portrayal of institutional complexity or ethical dilemmas involving technology.",
+    "Investigative Drive & Clue Architecture": "The plot involves the discovery and exploration of magic, but lacks a structured investigative drive or layered clues. The progression is more linear, focusing on learning magic rather than uncovering mysteries or evidence.",
+    "Multi-layered Conflict": "The story includes internal doubts, interpersonal loss, and the external threat of aliens, creating multi-layered conflict. However, the connections between these layers could be stronger, with more emphasis on how they amplify each other.",
+    "Value Turns & Causal Cohesion": "The narrative includes shifts from despair to hope, especially with the resurgence of magic. However, the causal links between scenes are somewhat simplistic, lacking deeper exploration of motivations and consequences.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The story follows a clear three-act structure with escalating tension, leading to a climax where the professor sacrifices himself. The midpoint involves a significant loss, but the climax is somewhat predictable.",
+    "Emotional Punch & Aftershock": "The professor's sacrifice provides an emotional peak, but the aftershocks are limited to the immediate aftermath. The narrative could benefit from more exploration of long-term emotional impacts on characters and society.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal sacrifice and societal liberation, providing closure on multiple levels. However, the resolution is somewhat straightforward, lacking moral ambiguity or lingering societal issues."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "The professor faces internal struggles and doubts about his ability to lead humanity, especially after losing an ally. However, the moral dilemma is somewhat underdeveloped, as the choice to use magic against aliens is straightforward without significant personal cost or transformation."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "The narrative mentions the professor's family legacy and ancient magical books, but lacks recurring sensory details or memory anchors that drive emotional or cognitive changes. The magical book's glow is a singular event rather than a recurring motif."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 4,
+      "justification": "While the story hints at the professor's family legacy, it doesn't effectively explore intergenerational dynamics or long-term consequences. The focus is more on immediate action rather than the impact of past decisions on future generations."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The aliens are depicted as technologically advanced and oppressive, but their motives are not deeply explored beyond being antagonistic. The narrative lacks a nuanced portrayal of institutional complexity or ethical dilemmas involving technology."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 4,
+      "justification": "The plot involves the discovery and exploration of magic, but lacks a structured investigative drive or layered clues. The progression is more linear, focusing on learning magic rather than uncovering mysteries or evidence."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The story includes internal doubts, interpersonal loss, and the external threat of aliens, creating multi-layered conflict. However, the connections between these layers could be stronger, with more emphasis on how they amplify each other."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 5,
+      "justification": "The narrative includes shifts from despair to hope, especially with the resurgence of magic. However, the causal links between scenes are somewhat simplistic, lacking deeper exploration of motivations and consequences."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The story follows a clear three-act structure with escalating tension, leading to a climax where the professor sacrifices himself. The midpoint involves a significant loss, but the climax is somewhat predictable."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "The professor's sacrifice provides an emotional peak, but the aftershocks are limited to the immediate aftermath. The narrative could benefit from more exploration of long-term emotional impacts on characters and society."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The ending addresses both personal sacrifice and societal liberation, providing closure on multiple levels. However, the resolution is somewhat straightforward, lacking moral ambiguity or lingering societal issues."
+    }
+  ],
+  "overall_summary": "The narrative presents a classic science fiction story where a university professor discovers the resurgence of ancient magic to combat alien invaders. The plot follows a three-act structure, detailing the professor's journey from discovery to sacrifice, ultimately leading to the liberation of Earth. The story explores themes of hope, sacrifice, and the revival of lost powers, with a focus on personal and collective struggle against overwhelming odds.",
+  "total_score": 55,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a classic science fiction story where a university professor discovers the resurgence of ancient magic to combat alien invaders. The plot follows a three-act structure, detailing the professor's journey from discovery to sacrifice, ultimately leading to the liberation of Earth. The story explores themes of hope, sacrifice, and the revival of lost powers, with a focus on personal and collective struggle against overwhelming odds.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|6|The professor faces internal struggles and doubts about his ability to lead humanity, especially after losing an ally. However, the moral dilemma is somewhat underdeveloped, as the choice to use magic against aliens is straightforward without significant personal cost or transformation.\nCRITERION_2|Memory Anchors & Sensory Specificity|5|The narrative mentions the professor's family legacy and ancient magical books, but lacks recurring sensory details or memory anchors that drive emotional or cognitive changes. The magical book's glow is a singular event rather than a recurring motif.\nCRITERION_3|Intergenerational Span & Long-term Causality|4|While the story hints at the professor's family legacy, it doesn't effectively explore intergenerational dynamics or long-term consequences. The focus is more on immediate action rather than the impact of past decisions on future generations.\nCRITERION_4|Institutional & Tech Ethical Complexity|5|The aliens are depicted as technologically advanced and oppressive, but their motives are not deeply explored beyond being antagonistic. The narrative lacks a nuanced portrayal of institutional complexity or ethical dilemmas involving technology.\nCRITERION_5|Investigative Drive & Clue Architecture|4|The plot involves the discovery and exploration of magic, but lacks a structured investigative drive or layered clues. The progression is more linear, focusing on learning magic rather than uncovering mysteries or evidence.\nCRITERION_6|Multi-layered Conflict|6|The story includes internal doubts, interpersonal loss, and the external threat of aliens, creating multi-layered conflict. However, the connections between these layers could be stronger, with more emphasis on how they amplify each other.\nCRITERION_7|Value Turns & Causal Cohesion|5|The narrative includes shifts from despair to hope, especially with the resurgence of magic. However, the causal links between scenes are somewhat simplistic, lacking deeper exploration of motivations and consequences.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|7|The story follows a clear three-act structure with escalating tension, leading to a climax where the professor sacrifices himself. The midpoint involves a significant loss, but the climax is somewhat predictable.\nCRITERION_9|Emotional Punch & Aftershock|6|The professor's sacrifice provides an emotional peak, but the aftershocks are limited to the immediate aftermath. The narrative could benefit from more exploration of long-term emotional impacts on characters and society.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|7|The ending addresses both personal sacrifice and societal liberation, providing closure on multiple levels. However, the resolution is somewhat straightforward, lacking moral ambiguity or lingering societal issues.\n===EVALUATION_END===",
+  "created_at": "2025-08-31T15:28:49.018337+00:00"
+}

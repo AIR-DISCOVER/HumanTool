@@ -1,0 +1,86 @@
+{
+  "user_name": "唐苑容828",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个魔法力量曾经强大的世界中，随着人口的激增，魔力被稀释至无用。当外星人入侵并大幅减少人类数量后，幸存者中魔法力量重新觉醒。艾尔，一个曾经懦弱的年轻人，面对新获得的力量选择隐瞒，直到挚友为保护他而死，他在逃避与责任之间挣扎，最终选择继续隐匿在混乱中。\r\n\r\n第二部分：第一幕\r\n\r\n在一个魔法已被遗忘的现代世界，艾尔过着平淡无奇的生活，直到外星人入侵，导致人类数量骤减，魔法力量开始重新觉醒。艾尔发现自己拥有了强大的魔法，但由于过去的懦弱，他选择隐瞒这一事实。然而，当他的挚友为了保护他而被异能者杀害时，艾尔的内心被激励事件撼动，他开始质疑自己的选择和责任。\r\n\r\n第三部分：第二幕\r\n\r\n艾尔在失去挚友的痛苦中挣扎，逐渐意识到他不能再袖手旁观。他加入了一个由觉醒者组成的抵抗组织，开始学习如何控制和运用自己的力量。在与外星人和其他异能者的对抗中，艾尔经历了小胜利和惨痛的失败，逐渐成长为一名真正的战士。在一次关键的战斗中，他面临着是否牺牲自己以拯救他人的重大选择，这一选择将决定他未来的命运。\r\n\r\n第四部分：第三幕\r\n\r\n在最终的对决中，艾尔带领觉醒者们对抗外星人，运用他所学到的一切来保护地球。在这场战斗中，他做出了一个关键的价值选择，决定牺牲个人利益以拯救更多的人类。随着外星人被击退，艾尔和幸存者们开始重建一个新的世界，重新定义力量与责任的意义，达成了新的平衡。\r\n\r\n00:12:53",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 4,
+    "Institutional & Tech Ethical Complexity": 3,
+    "Investigative Drive & Clue Architecture": 4,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "El's journey from a cowardly individual to a responsible leader is well-drawn, with clear internal conflicts and a significant moral choice. However, the initial desire and internal conflict could be more deeply explored to enhance emotional impact.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks specific sensory details or recurring memory anchors that could deepen emotional resonance and character motivation. The focus remains on plot progression rather than sensory or memory-driven elements.",
+    "Intergenerational Span & Long-term Causality": "While the story spans significant events, it does not clearly establish intergenerational timelines or long-term consequences of actions, focusing instead on immediate conflicts and resolutions.",
+    "Institutional & Tech Ethical Complexity": "The depiction of institutions, such as the alien invaders or the resistance group, lacks complexity and depth. The narrative does not explore their motives or ethical dilemmas, presenting them as straightforward antagonists or allies.",
+    "Investigative Drive & Clue Architecture": "The story is driven more by character development and action than by an investigative plotline. Clues and evidence gathering are not central to the narrative structure, limiting suspense and rhythm.",
+    "Multi-layered Conflict": "The narrative presents internal, interpersonal, and extra-personal conflicts, particularly through El's personal growth and the battle against aliens. However, these conflicts could be more intricately woven to amplify tension and stakes.",
+    "Value Turns & Causal Cohesion": "The story effectively uses value shifts, such as El's transition from self-preservation to self-sacrifice. These shifts are causally linked to his experiences and choices, though some transitions could be more nuanced.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The narrative structure is clear, with a defined midpoint and climax. However, the escalation of stakes and the rule-changing midpoint could be more pronounced to enhance narrative tension.",
+    "Emotional Punch & Aftershock": "Key scenes, such as the death of El's friend and his final sacrifice, have emotional impact. Yet, the aftershocks of these events could be more thoroughly explored to deepen their effect on the narrative and character development.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and public resolutions, with El's sacrifice and the rebuilding of society. It retains some moral ambiguity, though the societal implications could be more fully explored to avoid a simplistic resolution."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "El's journey from a cowardly individual to a responsible leader is well-drawn, with clear internal conflicts and a significant moral choice. However, the initial desire and internal conflict could be more deeply explored to enhance emotional impact."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "The narrative lacks specific sensory details or recurring memory anchors that could deepen emotional resonance and character motivation. The focus remains on plot progression rather than sensory or memory-driven elements."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 4,
+      "justification": "While the story spans significant events, it does not clearly establish intergenerational timelines or long-term consequences of actions, focusing instead on immediate conflicts and resolutions."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 3,
+      "justification": "The depiction of institutions, such as the alien invaders or the resistance group, lacks complexity and depth. The narrative does not explore their motives or ethical dilemmas, presenting them as straightforward antagonists or allies."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 4,
+      "justification": "The story is driven more by character development and action than by an investigative plotline. Clues and evidence gathering are not central to the narrative structure, limiting suspense and rhythm."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The narrative presents internal, interpersonal, and extra-personal conflicts, particularly through El's personal growth and the battle against aliens. However, these conflicts could be more intricately woven to amplify tension and stakes."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The story effectively uses value shifts, such as El's transition from self-preservation to self-sacrifice. These shifts are causally linked to his experiences and choices, though some transitions could be more nuanced."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The narrative structure is clear, with a defined midpoint and climax. However, the escalation of stakes and the rule-changing midpoint could be more pronounced to enhance narrative tension."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "Key scenes, such as the death of El's friend and his final sacrifice, have emotional impact. Yet, the aftershocks of these events could be more thoroughly explored to deepen their effect on the narrative and character development."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The ending addresses both personal and public resolutions, with El's sacrifice and the rebuilding of society. It retains some moral ambiguity, though the societal implications could be more fully explored to avoid a simplistic resolution."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling story of personal growth and responsibility set against a backdrop of a world recovering its magical abilities after an alien invasion. The protagonist, El, undergoes a significant transformation from a timid individual to a leader who embraces his powers for the greater good. While the story effectively explores themes of sacrifice and responsibility, it could benefit from deeper exploration of institutional complexities and more nuanced character dilemmas.",
+  "total_score": 55,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling story of personal growth and responsibility set against a backdrop of a world recovering its magical abilities after an alien invasion. The protagonist, El, undergoes a significant transformation from a timid individual to a leader who embraces his powers for the greater good. While the story effectively explores themes of sacrifice and responsibility, it could benefit from deeper exploration of institutional complexities and more nuanced character dilemmas.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|7|El's journey from a cowardly individual to a responsible leader is well-drawn, with clear internal conflicts and a significant moral choice. However, the initial desire and internal conflict could be more deeply explored to enhance emotional impact.\nCRITERION_2|Memory Anchors & Sensory Specificity|5|The narrative lacks specific sensory details or recurring memory anchors that could deepen emotional resonance and character motivation. The focus remains on plot progression rather than sensory or memory-driven elements.\nCRITERION_3|Intergenerational Span & Long-term Causality|4|While the story spans significant events, it does not clearly establish intergenerational timelines or long-term consequences of actions, focusing instead on immediate conflicts and resolutions.\nCRITERION_4|Institutional & Tech Ethical Complexity|3|The depiction of institutions, such as the alien invaders or the resistance group, lacks complexity and depth. The narrative does not explore their motives or ethical dilemmas, presenting them as straightforward antagonists or allies.\nCRITERION_5|Investigative Drive & Clue Architecture|4|The story is driven more by character development and action than by an investigative plotline. Clues and evidence gathering are not central to the narrative structure, limiting suspense and rhythm.\nCRITERION_6|Multi-layered Conflict|6|The narrative presents internal, interpersonal, and extra-personal conflicts, particularly through El's personal growth and the battle against aliens. However, these conflicts could be more intricately woven to amplify tension and stakes.\nCRITERION_7|Value Turns & Causal Cohesion|7|The story effectively uses value shifts, such as El's transition from self-preservation to self-sacrifice. These shifts are causally linked to his experiences and choices, though some transitions could be more nuanced.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|6|The narrative structure is clear, with a defined midpoint and climax. However, the escalation of stakes and the rule-changing midpoint could be more pronounced to enhance narrative tension.\nCRITERION_9|Emotional Punch & Aftershock|6|Key scenes, such as the death of El's friend and his final sacrifice, have emotional impact. Yet, the aftershocks of these events could be more thoroughly explored to deepen their effect on the narrative and character development.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|7|The ending addresses both personal and public resolutions, with El's sacrifice and the rebuilding of society. It retains some moral ambiguity, though the societal implications could be more fully explored to avoid a simplistic resolution.\n===EVALUATION_END===",
+  "created_at": "2025-08-28T16:14:03.322160+00:00"
+}

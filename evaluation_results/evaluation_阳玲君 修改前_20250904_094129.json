@@ -1,0 +1,86 @@
+{
+  "user_name": "阳玲君 修改前",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "**第一部分：故事概括**\\n- 在外星人入侵后，人类发现失去已久的魔法力量开始觉醒，通过艰难的斗争重建家园。\\n\\n**第二部分：第一幕**\\n- 故事开始于一个混乱的地球，人类曾经拥有强大的魔法力量，但随着人口增长，魔力逐渐消失。男女主角李明和王晓在一个小镇上生活，外星人突然入侵，开始大规模屠杀人类。幸存者们在绝望中发现，随着人口减少，古老的魔法力量开始重新觉醒。李明和王晓决定联合其他幸存者，寻找恢复魔力的方法。\\n\\n**第三部分：第二幕**\\n- 在寻找魔力恢复的方法过程中，李明和王晓遇到了一位神秘的男配角张强，他声称自己知道如何唤醒古老的力量。张强带领他们穿越废墟，寻找传说中的魔法遗迹。然而，外星人将军阿尔法发现了他们的计划，开始追捕他们。张强在一次激烈的战斗中牺牲，激励李明和王晓继续前行。随着魔力逐渐恢复，李明和王晓开始掌握新的力量，准备与外星人展开最终对决。在这个过程中，李明和王晓的感情逐渐升温，他们意识到彼此的重要性。\\n\\n**第四部分：第三幕**\\n- 李明和王晓带领幸存者们与外星人展开决战，利用恢复的魔法力量击败了外星人将军阿尔法。虽然胜利来之不易，但他们意识到自然需要被好好保护，以防止未来的灾难。故事结尾，李明和王晓和幸存者们开始重建家园，承诺不再重蹈覆辙，珍惜自然与魔法的平衡。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 8,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 6,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 7,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of magic reawakening due to an alien invasion is intriguing and offers a strong \"what if?\" scenario. It combines elements of science fiction and fantasy, which can captivate a wide audience.",
+    "Memory Anchors & Sensory Specificity": "The characters are given clear roles and motivations, but they tend to follow familiar archetypes. More depth and complexity in their personalities and desires would enhance their authenticity.",
+    "Intergenerational Span & Long-term Causality": "The story hints at themes of balance between nature and technology, and the importance of unity in adversity. These ideas are present but could be more explicitly developed throughout the narrative.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates well, from the initial invasion to the final battle. Each act introduces new challenges and raises the stakes, maintaining tension and interest.",
+    "Investigative Drive & Clue Architecture": "The story includes external conflicts with the aliens and internal struggles as characters discover their powers. However, more focus on interpersonal dynamics could add depth.",
+    "Multi-layered Conflict": "The narrative has clear turning points, such as the discovery of magic and the sacrifice of Zhang Qiang. These moments effectively propel the story forward, though the rhythm could be more varied.",
+    "Value Turns & Causal Cohesion": "The characters face significant decisions, such as continuing their quest after Zhang Qiang's sacrifice. However, these dilemmas could be more complex to better reveal character depth.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is impactful, with the defeat of the alien general and the realization of the need to protect nature. It provides a satisfying resolution but could delve deeper into its thematic implications.",
+    "Emotional Punch & Aftershock": "The conclusion reinforces the controlling idea of balance and protection of nature. It leaves the audience with a sense of closure, though the expression of this idea could be more nuanced.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative includes some original elements, like the reawakening of magic, but relies on familiar tropes. More unique details and subtext in dialogue would enhance its originality."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of magic reawakening due to an alien invasion is intriguing and offers a strong \"what if?\" scenario. It combines elements of science fiction and fantasy, which can captivate a wide audience."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The characters are given clear roles and motivations, but they tend to follow familiar archetypes. More depth and complexity in their personalities and desires would enhance their authenticity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story hints at themes of balance between nature and technology, and the importance of unity in adversity. These ideas are present but could be more explicitly developed throughout the narrative."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 8,
+      "justification": "The conflict escalates well, from the initial invasion to the final battle. Each act introduces new challenges and raises the stakes, maintaining tension and interest."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The story includes external conflicts with the aliens and internal struggles as characters discover their powers. However, more focus on interpersonal dynamics could add depth."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The narrative has clear turning points, such as the discovery of magic and the sacrifice of Zhang Qiang. These moments effectively propel the story forward, though the rhythm could be more varied."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 6,
+      "justification": "The characters face significant decisions, such as continuing their quest after Zhang Qiang's sacrifice. However, these dilemmas could be more complex to better reveal character depth."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The climax is impactful, with the defeat of the alien general and the realization of the need to protect nature. It provides a satisfying resolution but could delve deeper into its thematic implications."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 7,
+      "justification": "The conclusion reinforces the controlling idea of balance and protection of nature. It leaves the audience with a sense of closure, though the expression of this idea could be more nuanced."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative includes some original elements, like the reawakening of magic, but relies on familiar tropes. More unique details and subtext in dialogue would enhance its originality."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling premise of magic reawakening in the face of an alien invasion, offering a blend of science fiction and fantasy. The characters, while somewhat archetypal, are given room to develop through the story's progression. The plot is structured with clear acts and escalating conflict, though it could benefit from deeper exploration of its themes and more nuanced character development.",
+  "total_score": 69,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling premise of magic reawakening in the face of an alien invasion, offering a blend of science fiction and fantasy. The characters, while somewhat archetypal, are given room to develop through the story's progression. The plot is structured with clear acts and escalating conflict, though it could benefit from deeper exploration of its themes and more nuanced character development.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of magic reawakening due to an alien invasion is intriguing and offers a strong \"what if?\" scenario. It combines elements of science fiction and fantasy, which can captivate a wide audience.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|6|The characters are given clear roles and motivations, but they tend to follow familiar archetypes. More depth and complexity in their personalities and desires would enhance their authenticity.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story hints at themes of balance between nature and technology, and the importance of unity in adversity. These ideas are present but could be more explicitly developed throughout the narrative.\nCRITERION_4|Progressive Escalation of Conflict|8|The conflict escalates well, from the initial invasion to the final battle. Each act introduces new challenges and raises the stakes, maintaining tension and interest.\nCRITERION_5|Breadth and Levels of Conflict|7|The story includes external conflicts with the aliens and internal struggles as characters discover their powers. However, more focus on interpersonal dynamics could add depth.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|7|The narrative has clear turning points, such as the discovery of magic and the sacrifice of Zhang Qiang. These moments effectively propel the story forward, though the rhythm could be more varied.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|6|The characters face significant decisions, such as continuing their quest after Zhang Qiang's sacrifice. However, these dilemmas could be more complex to better reveal character depth.\nCRITERION_8| Impact and Depth of Meaning in the Climax|7|The climax is impactful, with the defeat of the alien general and the realization of the need to protect nature. It provides a satisfying resolution but could delve deeper into its thematic implications.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|7|The conclusion reinforces the controlling idea of balance and protection of nature. It leaves the audience with a sense of closure, though the expression of this idea could be more nuanced.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative includes some original elements, like the reawakening of magic, but relies on familiar tropes. More unique details and subtext in dialogue would enhance its originality.\n===EVALUATION_END===",
+  "created_at": "2025-09-04T09:41:29.514737+00:00"
+}

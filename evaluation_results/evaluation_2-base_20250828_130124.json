@@ -1,0 +1,86 @@
+{
+  "user_name": "2-base",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n在一个永生药物改变人类命运的世界中，一位被排除在外的“迷失的一代”成员在85岁时发现药物的致命副作用，他在揭露真相的过程中，面临着保护自己享受永生药物的后代的艰难选择，最终揭示出人性复杂却充满希望的本质。\r\n\r\n第二部分：第一幕\r\n故事开始于主角28岁时，科学家宣布发现一种可以阻止衰老的药物，政府决定只提供给26岁以下的公民，主角和他的同龄人被称为“迷失的一代”，被排除在外。随着时间的推移，主角目睹自己的孩子享受永生的特权，而他自己则逐渐老去，心中充满不甘与失落。当他85岁时，主角偶然发现永生药物的副作用正在悄然显现，威胁着所有使用者的生命。\r\n\r\n第三部分：第二幕\r\n主角开始调查药物的真相，发现政府早已知晓副作用却选择隐瞒，为了保护自己的利益。随着调查的深入，他结识了一群同样被排除在外的“迷失的一代”成员，他们决定联手揭露真相。在这个过程中，主角面临来自政府的威胁和内心的挣扎，他必须在揭露真相和保护自己享受永生药物的后代之间做出艰难选择。随着时间的推移，药物的副作用愈发明显，社会开始动荡不安，而他的后代也因担心而与他产生冲突，但最终选择支持他的决定。\r\n\r\n第四部分：第三幕\r\n在最终对决中，主角和他的盟友们成功揭露了药物的真相，迫使政府公开承认错误并停止药物的分发。已经使用药物的人面临着逐渐失去永生效果的恐慌和健康问题的威胁，社会陷入混乱。尽管这一胜利来之不易，但主角意识到人类对永生的追求终究无法逃避自然规律。他选择回归平凡的生活，珍惜有限的时光，与家人和朋友共度余生。主角与后代在经历了风雨后更加珍惜彼此，故事以主角的内心平和结束，展现出在复杂的人性中仍然存在希望与爱的力量。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 9,
+    "Institutional & Tech Ethical Complexity": 8,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 8,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 9
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist faces a profound moral dilemma, choosing between revealing the truth about the drug and protecting his descendants. His internal transformation is well-documented, with clear motivations and emotional struggles depicted throughout the narrative.",
+    "Memory Anchors & Sensory Specificity": "While the narrative includes recurring themes of aging and generational divide, specific sensory details or memory anchors are less emphasized. The emotional impact is present but could benefit from more sensory specificity.",
+    "Intergenerational Span & Long-term Causality": "The narrative spans multiple generations, highlighting the protagonist's aging process and the societal changes resulting from early decisions. The consequences of the drug's distribution are effectively shown through intergenerational conflict and societal unrest.",
+    "Institutional & Tech Ethical Complexity": "The government is portrayed with multifaceted motives, balancing self-interest and public deception. The protagonist's fate is directly influenced by institutional actions, creating a complex ethical landscape.",
+    "Investigative Drive & Clue Architecture": "The investigation into the drug's side effects drives the plot, with logical connections and rising tension. However, the narrative could further develop the risks and costs associated with evidence gathering.",
+    "Multi-layered Conflict": "The story presents internal, interpersonal, and institutional conflicts, all interconnected and amplifying the protagonist's dilemma. The diverse antagonistic forces contribute to a rich narrative landscape.",
+    "Value Turns & Causal Cohesion": "Each scene brings significant value shifts, such as trust turning to suspicion and societal chaos. The causal chain is well-maintained, with motivations and actions logically connected.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The narrative structure is clear, with escalating pressure and a climactic revelation. While the climax delivers irreversible change, the midpoint could offer a more pronounced rule-changing moment.",
+    "Emotional Punch & Aftershock": "Key scenes deliver strong emotional impacts, particularly in the protagonist's internal struggles and family dynamics. These emotions resonate throughout the narrative, affecting subsequent actions and relationships.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal reconciliation and societal upheaval, maintaining moral ambiguity. The protagonist's personal closure is balanced with ongoing public issues, avoiding simplistic resolutions."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The protagonist faces a profound moral dilemma, choosing between revealing the truth about the drug and protecting his descendants. His internal transformation is well-documented, with clear motivations and emotional struggles depicted throughout the narrative."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "While the narrative includes recurring themes of aging and generational divide, specific sensory details or memory anchors are less emphasized. The emotional impact is present but could benefit from more sensory specificity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 9,
+      "justification": "The narrative spans multiple generations, highlighting the protagonist's aging process and the societal changes resulting from early decisions. The consequences of the drug's distribution are effectively shown through intergenerational conflict and societal unrest."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 8,
+      "justification": "The government is portrayed with multifaceted motives, balancing self-interest and public deception. The protagonist's fate is directly influenced by institutional actions, creating a complex ethical landscape."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The investigation into the drug's side effects drives the plot, with logical connections and rising tension. However, the narrative could further develop the risks and costs associated with evidence gathering."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 8,
+      "justification": "The story presents internal, interpersonal, and institutional conflicts, all interconnected and amplifying the protagonist's dilemma. The diverse antagonistic forces contribute to a rich narrative landscape."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "Each scene brings significant value shifts, such as trust turning to suspicion and societal chaos. The causal chain is well-maintained, with motivations and actions logically connected."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The narrative structure is clear, with escalating pressure and a climactic revelation. While the climax delivers irreversible change, the midpoint could offer a more pronounced rule-changing moment."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "Key scenes deliver strong emotional impacts, particularly in the protagonist's internal struggles and family dynamics. These emotions resonate throughout the narrative, affecting subsequent actions and relationships."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 9,
+      "justification": "The ending addresses both personal reconciliation and societal upheaval, maintaining moral ambiguity. The protagonist's personal closure is balanced with ongoing public issues, avoiding simplistic resolutions."
+    }
+  ],
+  "overall_summary": "The narrative explores a dystopian world where a drug granting eternal life has societal and ethical repercussions. The protagonist, part of the \"lost generation,\" uncovers the drug's deadly side effects and faces a moral dilemma between revealing the truth and protecting his descendants. The story effectively addresses themes of human complexity and hope, with a focus on intergenerational conflict and institutional corruption.",
+  "total_score": 78,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative explores a dystopian world where a drug granting eternal life has societal and ethical repercussions. The protagonist, part of the \"lost generation,\" uncovers the drug's deadly side effects and faces a moral dilemma between revealing the truth and protecting his descendants. The story effectively addresses themes of human complexity and hope, with a focus on intergenerational conflict and institutional corruption.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|8|The protagonist faces a profound moral dilemma, choosing between revealing the truth about the drug and protecting his descendants. His internal transformation is well-documented, with clear motivations and emotional struggles depicted throughout the narrative.\nCRITERION_2|Memory Anchors & Sensory Specificity|6|While the narrative includes recurring themes of aging and generational divide, specific sensory details or memory anchors are less emphasized. The emotional impact is present but could benefit from more sensory specificity.\nCRITERION_3|Intergenerational Span & Long-term Causality|9|The narrative spans multiple generations, highlighting the protagonist's aging process and the societal changes resulting from early decisions. The consequences of the drug's distribution are effectively shown through intergenerational conflict and societal unrest.\nCRITERION_4|Institutional & Tech Ethical Complexity|8|The government is portrayed with multifaceted motives, balancing self-interest and public deception. The protagonist's fate is directly influenced by institutional actions, creating a complex ethical landscape.\nCRITERION_5|Investigative Drive & Clue Architecture|7|The investigation into the drug's side effects drives the plot, with logical connections and rising tension. However, the narrative could further develop the risks and costs associated with evidence gathering.\nCRITERION_6|Multi-layered Conflict|8|The story presents internal, interpersonal, and institutional conflicts, all interconnected and amplifying the protagonist's dilemma. The diverse antagonistic forces contribute to a rich narrative landscape.\nCRITERION_7|Value Turns & Causal Cohesion|8|Each scene brings significant value shifts, such as trust turning to suspicion and societal chaos. The causal chain is well-maintained, with motivations and actions logically connected.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|7|The narrative structure is clear, with escalating pressure and a climactic revelation. While the climax delivers irreversible change, the midpoint could offer a more pronounced rule-changing moment.\nCRITERION_9|Emotional Punch & Aftershock|8|Key scenes deliver strong emotional impacts, particularly in the protagonist's internal struggles and family dynamics. These emotions resonate throughout the narrative, affecting subsequent actions and relationships.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|9|The ending addresses both personal reconciliation and societal upheaval, maintaining moral ambiguity. The protagonist's personal closure is balanced with ongoing public issues, avoiding simplistic resolutions.\n===EVALUATION_END===",
+  "created_at": "2025-08-28T13:01:23.661581+00:00"
+}

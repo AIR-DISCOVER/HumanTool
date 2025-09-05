@@ -1,0 +1,103 @@
+{% extends 'base.html' %}
+
+{% block title %}TATA评估系统 - 文本提交{% endblock %}
+
+{% block content %}
+<div class="container d-flex flex-column align-items-center justify-content-center" style="min-height: 80vh;">
+    <div class="card shadow-sm p-4" style="max-width: 600px; width: 100%;">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h2 class="mb-0">
+                <i class="fas fa-edit me-2"></i>
+                TATA协作文本评估系统
+            </h2>
+            <a href="/management/dashboard/" class="btn btn-outline-primary btn-sm">
+                <i class="fas fa-cogs me-1"></i>管理后台
+            </a>
+        </div>
+        <p class="mb-4 text-center text-muted">请填写您的信息并提交与TATA协作生成的文本内容</p>
+        {% if messages %}
+            {% for message in messages %}
+                <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+                    {{ message }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            {% endfor %}
+        {% endif %}
+        <form method="post" id="evaluationForm">
+            {% csrf_token %}
+            <div class="mb-3">
+                <label for="{{ form.user_name.id_for_label }}" class="form-label">{{ form.user_name.label }} <span class="text-danger">*</span></label>
+                {{ form.user_name }}
+                {% if form.user_name.errors %}
+                    <div class="text-danger small mt-1">
+                        {% for error in form.user_name.errors %}{{ error }}{% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+            <div class="mb-3">
+                <label for="{{ form.user_group.id_for_label }}" class="form-label">{{ form.user_group.label }} <span class="text-danger">*</span></label>
+                {{ form.user_group }}
+                {% if form.user_group.errors %}
+                    <div class="text-danger small mt-1">
+                        {% for error in form.user_group.errors %}{{ error }}{% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+            <div class="mb-4">
+                <label for="{{ form.submitted_text.id_for_label }}" class="form-label">{{ form.submitted_text.label }} <span class="text-danger">*</span></label>
+                {{ form.submitted_text }}
+                <small class="form-text text-muted">请将您和TATA协作生成的完整文本内容粘贴到上方文本框中</small>
+                {% if form.submitted_text.errors %}
+                    <div class="text-danger small mt-1">
+                        {% for error in form.submitted_text.errors %}{{ error }}{% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+            <div class="d-grid gap-2">
+                <button type="submit" class="btn btn-primary btn-lg" id="submitBtn">
+                    <i class="fas fa-paper-plane me-2"></i>提交评估
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.getElementById('evaluationForm').addEventListener('submit', function(e) {
+    const submitBtn = document.getElementById('submitBtn');
+    const loadingDiv = document.getElementById('loadingDiv');
+    const form = document.getElementById('evaluationForm');
+    
+    // 显示加载状态
+    submitBtn.disabled = true;
+    submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>评估中...';
+    loadingDiv.style.display = 'block';
+    form.style.opacity = '0.6';
+    
+    // 滚动到加载提示
+    loadingDiv.scrollIntoView({ behavior: 'smooth' });
+});
+
+// 字符计数
+const textArea = document.querySelector('textarea[name="submitted_text"]');
+if (textArea) {
+    const charCount = document.createElement('small');
+    charCount.className = 'form-text text-muted float-end';
+    textArea.parentNode.appendChild(charCount);
+    
+    function updateCharCount() {
+        const count = textArea.value.length;
+        charCount.textContent = `已输入 ${count} 个字符`;
+    }
+    
+    textArea.addEventListener('input', updateCharCount);
+    updateCharCount();
+}
+</script>
+{% endblock %}

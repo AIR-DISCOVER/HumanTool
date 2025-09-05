@@ -1,0 +1,86 @@
+{
+  "user_name": "唐苑容831",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个永生药物改变人类命运的世界中，两位原本相爱的情侣因不同的命运选择而分道扬镳，最终在面对永生的代价时重新审视生命的真正价值。\r\n\r\n第二部分：第一幕\r\n\r\n故事开始于一个不远的未来，28岁的主角亚历克斯和他的伴侣艾米莉生活在一个永生药物普及的社会中。亚历克斯渴望永生，但因年龄限制被排除在外，而艾米莉则被迫接受永生，尽管她对此心存疑虑。永生药物的推出打破了他们的生活平衡，亚历克斯感到被剥夺了选择权，而艾米莉则对未来充满不安。随着时间的推移，他们的关系因对永生的不同态度而逐渐疏远。\r\n\r\n第三部分：第二幕\r\n\r\n几十年过去，亚历克斯和艾米莉的生活轨迹截然不同。亚历克斯在有限的生命中努力追求意义，建立了深厚的人际关系和丰富的生活经历，而艾米莉则在永生的岁月中逐渐感到孤独和迷茫。随着永生者开始出现记忆丧失的副作用，艾米莉意识到自己正在失去过去的记忆和身份。亚历克斯在85岁时，目睹了艾米莉和其他永生者的痛苦，开始反思时间的真正价值和生命的意义。\r\n\r\n第四部分：第三幕\r\n\r\n在面对永生的代价和记忆的丧失时，艾米莉决定与亚历克斯重聚，寻求他对生命的理解和支持。两人共同探讨有限生命的珍贵和无限生命的空虚，艾米莉最终选择放弃永生，接受自然的生命循环。故事在他们重新找到彼此的过程中达到高潮，亚历克斯和艾米莉在有限的时间中重建了他们的关系，展现出对生命的全新理解和珍惜。最终，他们的故事成为对现代社会追求永恒青春的反思，提醒人们珍惜有限的生命时光。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 9,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 8,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 9
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The characters face a profound moral dilemma regarding immortality, leading to significant internal transformations. Alex's desire for eternal life contrasts with Emily's skepticism, creating a rich internal conflict that evolves over decades, culminating in Emily's choice to abandon immortality.",
+    "Memory Anchors & Sensory Specificity": "Memory loss serves as a crucial anchor in the narrative, particularly for Emily, whose fading memories drive her decision to reunite with Alex. While sensory details are present, they could be more vivid to enhance emotional resonance.",
+    "Intergenerational Span & Long-term Causality": "The narrative effectively spans decades, highlighting the long-term consequences of the characters' choices. The contrast between Alex's fulfilled life and Emily's isolation underscores the generational impact of their decisions.",
+    "Institutional & Tech Ethical Complexity": "The story touches on the ethical implications of immortality but lacks detailed exploration of the institutions behind the drug. More nuanced depiction of these entities could deepen the narrative's complexity.",
+    "Investigative Drive & Clue Architecture": "While the story is driven by the characters' personal journeys rather than an investigation, the gradual revelation of immortality's drawbacks provides a subtle sense of discovery.",
+    "Multi-layered Conflict": "The narrative weaves internal, interpersonal, and societal conflicts effectively. Alex and Emily's relationship is strained by personal desires and societal pressures, creating a multifaceted conflict that drives the story.",
+    "Value Turns & Causal Cohesion": "The story features clear value shifts, particularly in Emily's decision to reject immortality. These shifts are logically connected, with each choice leading to the next stage in the characters' development.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The narrative structure is clear, with a midpoint marked by Emily's realization of memory loss and a climax in their reunion. While effective, the escalation could be more pronounced to heighten tension.",
+    "Emotional Punch & Aftershock": "Key scenes, such as Emily's decision to abandon immortality, deliver strong emotional impact and resonate throughout the narrative, influencing subsequent actions and reflections.",
+    "Dual Resonance of Ending: Personal & Public": "The ending achieves dual resonance by addressing both personal reconciliation and societal reflection on the pursuit of eternal youth, leaving room for moral ambiguity and broader implications."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The characters face a profound moral dilemma regarding immortality, leading to significant internal transformations. Alex's desire for eternal life contrasts with Emily's skepticism, creating a rich internal conflict that evolves over decades, culminating in Emily's choice to abandon immortality."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "Memory loss serves as a crucial anchor in the narrative, particularly for Emily, whose fading memories drive her decision to reunite with Alex. While sensory details are present, they could be more vivid to enhance emotional resonance."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 9,
+      "justification": "The narrative effectively spans decades, highlighting the long-term consequences of the characters' choices. The contrast between Alex's fulfilled life and Emily's isolation underscores the generational impact of their decisions."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "The story touches on the ethical implications of immortality but lacks detailed exploration of the institutions behind the drug. More nuanced depiction of these entities could deepen the narrative's complexity."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "While the story is driven by the characters' personal journeys rather than an investigation, the gradual revelation of immortality's drawbacks provides a subtle sense of discovery."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 8,
+      "justification": "The narrative weaves internal, interpersonal, and societal conflicts effectively. Alex and Emily's relationship is strained by personal desires and societal pressures, creating a multifaceted conflict that drives the story."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The story features clear value shifts, particularly in Emily's decision to reject immortality. These shifts are logically connected, with each choice leading to the next stage in the characters' development."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The narrative structure is clear, with a midpoint marked by Emily's realization of memory loss and a climax in their reunion. While effective, the escalation could be more pronounced to heighten tension."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "Key scenes, such as Emily's decision to abandon immortality, deliver strong emotional impact and resonate throughout the narrative, influencing subsequent actions and reflections."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 9,
+      "justification": "The ending achieves dual resonance by addressing both personal reconciliation and societal reflection on the pursuit of eternal youth, leaving room for moral ambiguity and broader implications."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling exploration of the consequences of immortality through the relationship between two protagonists, Alex and Emily. It effectively uses their divergent paths to examine themes of memory, identity, and the true value of life. The story is structured around their evolving perspectives and culminates in a poignant reunion that challenges societal norms about eternal youth and life.",
+  "total_score": 75,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling exploration of the consequences of immortality through the relationship between two protagonists, Alex and Emily. It effectively uses their divergent paths to examine themes of memory, identity, and the true value of life. The story is structured around their evolving perspectives and culminates in a poignant reunion that challenges societal norms about eternal youth and life.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|8|The characters face a profound moral dilemma regarding immortality, leading to significant internal transformations. Alex's desire for eternal life contrasts with Emily's skepticism, creating a rich internal conflict that evolves over decades, culminating in Emily's choice to abandon immortality.\nCRITERION_2|Memory Anchors & Sensory Specificity|7|Memory loss serves as a crucial anchor in the narrative, particularly for Emily, whose fading memories drive her decision to reunite with Alex. While sensory details are present, they could be more vivid to enhance emotional resonance.\nCRITERION_3|Intergenerational Span & Long-term Causality|9|The narrative effectively spans decades, highlighting the long-term consequences of the characters' choices. The contrast between Alex's fulfilled life and Emily's isolation underscores the generational impact of their decisions.\nCRITERION_4|Institutional & Tech Ethical Complexity|6|The story touches on the ethical implications of immortality but lacks detailed exploration of the institutions behind the drug. More nuanced depiction of these entities could deepen the narrative's complexity.\nCRITERION_5|Investigative Drive & Clue Architecture|5|While the story is driven by the characters' personal journeys rather than an investigation, the gradual revelation of immortality's drawbacks provides a subtle sense of discovery.\nCRITERION_6|Multi-layered Conflict|8|The narrative weaves internal, interpersonal, and societal conflicts effectively. Alex and Emily's relationship is strained by personal desires and societal pressures, creating a multifaceted conflict that drives the story.\nCRITERION_7|Value Turns & Causal Cohesion|8|The story features clear value shifts, particularly in Emily's decision to reject immortality. These shifts are logically connected, with each choice leading to the next stage in the characters' development.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|7|The narrative structure is clear, with a midpoint marked by Emily's realization of memory loss and a climax in their reunion. While effective, the escalation could be more pronounced to heighten tension.\nCRITERION_9|Emotional Punch & Aftershock|8|Key scenes, such as Emily's decision to abandon immortality, deliver strong emotional impact and resonate throughout the narrative, influencing subsequent actions and reflections.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|9|The ending achieves dual resonance by addressing both personal reconciliation and societal reflection on the pursuit of eternal youth, leaving room for moral ambiguity and broader implications.\n===EVALUATION_END===",
+  "created_at": "2025-08-31T09:04:20.081019+00:00"
+}

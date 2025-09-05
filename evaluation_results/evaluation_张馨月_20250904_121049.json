@@ -1,0 +1,86 @@
+{
+  "user_name": "张馨月",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个未来的科技社会中，一位85岁的老人揭露了永生药物隐藏已久的副作用，面临家族秘密与社会责任的冲突，最终推动了对人性和道德责任的深刻反思。\r\n第二部分：第一幕\r\n\r\n故事设定在一个科技与医学高度发达的未来社会，85岁的主角发现永生药物导致人们出现严重的心理失常和身体机能退化，带来极大痛苦。他感受到强烈的社会责任，开始调查药物副作用的真相，尽管面临科技资源的限制和社会偏见，他依然坚定不移地追求真相。\r\n第三部分：第二幕\r\n\r\n随着调查的深入，主角发现这些副作用在药物开发阶段已被知晓，但因研发者的私利而被隐瞒，而这位研发者正是他的已故父亲。面对这一震惊的发现，主角与其他“迷失的一代”成员携手合作，为揭露真相而斗争，他的直接行动动因是在参与药物研究的朋友去世时，亲眼见证了死亡对患者家庭的摧毁，这让他不再犹豫。\r\n第四部分：第三幕\r\n\r\n主角最终选择将真相曝光，尽管这会损害父亲的声誉，社会因此震荡，政府被迫重订药物政策，并向受害者道歉和赔偿。故事在主角内心的救赎中达到高潮，他通过行动不仅对得起自己的良知，也为下一代确立了更有承担的人类精神，结尾时他在社会反思和变革的过程中感受到了一种深切的宁静。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 8,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 8,
+    "Emotional Punch & Aftershock": 7,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of a future society grappling with the consequences of a life-extending drug is both imaginative and thought-provoking, posing significant \"what if?\" questions about the cost of immortality and ethical responsibility.",
+    "Memory Anchors & Sensory Specificity": "The protagonist is driven by a strong sense of duty, but the narrative could delve deeper into his internal struggles and complexities, particularly in reconciling his father's legacy with his moral convictions.",
+    "Intergenerational Span & Long-term Causality": "The story clearly aims to explore themes of ethical responsibility and the impact of scientific advancements on society, though the controlling idea could be more explicitly woven throughout the narrative.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates effectively as the protagonist uncovers deeper layers of deception and faces personal and societal challenges, though the tension could be heightened further with more unexpected twists.",
+    "Investigative Drive & Clue Architecture": "The narrative successfully incorporates multiple levels of conflict, including personal dilemmas, familial secrets, and societal repercussions, providing a rich tapestry of opposing forces.",
+    "Multi-layered Conflict": "The story's turning points are clear and impactful, particularly the revelation of the father's involvement, though the rhythm could benefit from more varied pacing to enhance tension and release.",
+    "Value Turns & Causal Cohesion": "The protagonist's decision to expose the truth is consistent with his character, though the narrative could explore his internal conflict more deeply to enhance the emotional impact of his choice.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is impactful, resulting in societal change and personal redemption, and it effectively conveys the story's themes of truth and responsibility.",
+    "Emotional Punch & Aftershock": "The story concludes with a clear expression of its controlling idea, emphasizing the importance of ethical responsibility, though the resolution could be more nuanced to fully satisfy the narrative's thematic exploration.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are generally effective and avoid clichés, though the dialogue and imagery could be further refined to enhance subtext and originality."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of a future society grappling with the consequences of a life-extending drug is both imaginative and thought-provoking, posing significant \"what if?\" questions about the cost of immortality and ethical responsibility."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The protagonist is driven by a strong sense of duty, but the narrative could delve deeper into his internal struggles and complexities, particularly in reconciling his father's legacy with his moral convictions."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story clearly aims to explore themes of ethical responsibility and the impact of scientific advancements on society, though the controlling idea could be more explicitly woven throughout the narrative."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The conflict escalates effectively as the protagonist uncovers deeper layers of deception and faces personal and societal challenges, though the tension could be heightened further with more unexpected twists."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 8,
+      "justification": "The narrative successfully incorporates multiple levels of conflict, including personal dilemmas, familial secrets, and societal repercussions, providing a rich tapestry of opposing forces."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story's turning points are clear and impactful, particularly the revelation of the father's involvement, though the rhythm could benefit from more varied pacing to enhance tension and release."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The protagonist's decision to expose the truth is consistent with his character, though the narrative could explore his internal conflict more deeply to enhance the emotional impact of his choice."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 8,
+      "justification": "The climax is impactful, resulting in societal change and personal redemption, and it effectively conveys the story's themes of truth and responsibility."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 7,
+      "justification": "The story concludes with a clear expression of its controlling idea, emphasizing the importance of ethical responsibility, though the resolution could be more nuanced to fully satisfy the narrative's thematic exploration."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The narrative details are generally effective and avoid clichés, though the dialogue and imagery could be further refined to enhance subtext and originality."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling exploration of ethical dilemmas in a futuristic society, focusing on the protagonist's struggle with the consequences of a life-extending drug. The story effectively intertwines personal and societal conflicts, leading to a profound reflection on human nature and moral responsibility. However, the narrative could benefit from more nuanced character development and a deeper exploration of the protagonist's internal conflicts.",
+  "total_score": 72,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling exploration of ethical dilemmas in a futuristic society, focusing on the protagonist's struggle with the consequences of a life-extending drug. The story effectively intertwines personal and societal conflicts, leading to a profound reflection on human nature and moral responsibility. However, the narrative could benefit from more nuanced character development and a deeper exploration of the protagonist's internal conflicts.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of a future society grappling with the consequences of a life-extending drug is both imaginative and thought-provoking, posing significant \"what if?\" questions about the cost of immortality and ethical responsibility.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|6|The protagonist is driven by a strong sense of duty, but the narrative could delve deeper into his internal struggles and complexities, particularly in reconciling his father's legacy with his moral convictions.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story clearly aims to explore themes of ethical responsibility and the impact of scientific advancements on society, though the controlling idea could be more explicitly woven throughout the narrative.\nCRITERION_4|Progressive Escalation of Conflict|7|The conflict escalates effectively as the protagonist uncovers deeper layers of deception and faces personal and societal challenges, though the tension could be heightened further with more unexpected twists.\nCRITERION_5|Breadth and Levels of Conflict|8|The narrative successfully incorporates multiple levels of conflict, including personal dilemmas, familial secrets, and societal repercussions, providing a rich tapestry of opposing forces.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|7|The story's turning points are clear and impactful, particularly the revelation of the father's involvement, though the rhythm could benefit from more varied pacing to enhance tension and release.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|7|The protagonist's decision to expose the truth is consistent with his character, though the narrative could explore his internal conflict more deeply to enhance the emotional impact of his choice.\nCRITERION_8| Impact and Depth of Meaning in the Climax|8|The climax is impactful, resulting in societal change and personal redemption, and it effectively conveys the story's themes of truth and responsibility.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|7|The story concludes with a clear expression of its controlling idea, emphasizing the importance of ethical responsibility, though the resolution could be more nuanced to fully satisfy the narrative's thematic exploration.\nCRITERION_10|Refinement and Originality of Narrative Details|7|The narrative details are generally effective and avoid clichés, though the dialogue and imagery could be further refined to enhance subtext and originality.\n===EVALUATION_END===",
+  "created_at": "2025-09-04T12:10:49.134495+00:00"
+}

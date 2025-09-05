@@ -1,0 +1,86 @@
+{
+  "user_name": "t-5",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括 在一个科学发现永生药物的世界中，28岁的陈嘉如被排除在外，成为“迷失的一代”。随着时间推移，她发现药物的副作用和背后的阴谋，最终在85岁时，她揭露真相并找到预防副作用的方法，重新定义生命的意义。\r\n\r\n第二部分：第一幕 在28岁时，陈嘉如得知政府将永生药物提供给26岁以下的公民，她感到震惊和失落。她努力争取机会，却被告知风险过高而被拒绝。随着时间的推移，她开始怀疑药物的真正效果，并发现科学家们隐藏了一个关于药物副作用的秘密。她的生活在这个秘密的阴影下逐渐失去平衡。\r\n\r\n第三部分：第二幕 陈嘉如开始深入调查药物的真相，结识了一群同样被排除在外的“迷失的一代”成员，他们共同发现药物的副作用正在悄然显现。她面临着内心的挣扎和社会的压力，逐渐揭开政府和科学家之间的阴谋。随着调查的深入，她发现了一种可能预防副作用的方法，但这需要她做出艰难的选择。\r\n\r\n第四部分：第三幕 在85岁时，陈嘉如面临着最终的对决，她必须在揭露真相和保护自己之间做出选择。她决定公开药物的副作用和阴谋，冒着生命危险将真相公之于众。最终，她成功地揭露了真相，并通过自己的研究找到了预防副作用的方法，帮助“迷失的一代”重新获得对生命的掌控，世界也因此发生了改变",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 4,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 5,
+    "Value Turns & Causal Cohesion": 6,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The character Chen Jiaru faces a significant moral dilemma, particularly at the climax, where she must choose between personal safety and public truth. However, her internal transformation and the depth of her moral conflict could be more thoroughly explored with more detailed internal reasoning and emotional depth.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks specific sensory details and recurring memory anchors that could enhance the emotional and cognitive depth of the story. The use of sensory images or objects as triggers for memory or decision-making is underdeveloped.",
+    "Intergenerational Span & Long-term Causality": "The story effectively spans a significant timeline, showing the long-term consequences of the protagonist's early-life exclusion from the immortality drug. The contrast between her younger and older self is clear, though more detailed behavioral changes over time could strengthen this aspect.",
+    "Institutional & Tech Ethical Complexity": "The story presents a basic depiction of institutional actions and their impact on the protagonist. However, the ethical complexity of the government and scientists' motives could be more nuanced, with more detailed exploration of their interests and fears.",
+    "Investigative Drive & Clue Architecture": "Chen Jiaru's investigation into the drug's truth drives the narrative effectively, with a logical progression of discoveries. While the investigation creates suspense, the rising costs and risks associated with evidence gathering could be more pronounced.",
+    "Multi-layered Conflict": "The narrative includes internal and social conflicts, but these layers are not as intricately interconnected as they could be. The story would benefit from more simultaneous pressure from different conflict levels to push the protagonist to her limits.",
+    "Value Turns & Causal Cohesion": "The story includes clear value shifts, particularly in the protagonist's understanding of the drug and her role in society. However, the causal connections between scenes could be strengthened to avoid any perception of coincidence.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The narrative structure includes a clear climax where the protagonist makes a decisive choice. However, the escalation of stakes and the midpoint reversal could be more pronounced to enhance the narrative tension.",
+    "Emotional Punch & Aftershock": "Key scenes have emotional impact, particularly the climax, but the aftershocks of these emotions could be more effectively woven into subsequent actions and decisions to deepen the emotional resonance.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and public dimensions, with Chen Jiaru achieving personal closure and societal change. However, the resolution could retain more moral ambiguity and openness to enhance its complexity."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "The character Chen Jiaru faces a significant moral dilemma, particularly at the climax, where she must choose between personal safety and public truth. However, her internal transformation and the depth of her moral conflict could be more thoroughly explored with more detailed internal reasoning and emotional depth."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 4,
+      "justification": "The narrative lacks specific sensory details and recurring memory anchors that could enhance the emotional and cognitive depth of the story. The use of sensory images or objects as triggers for memory or decision-making is underdeveloped."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story effectively spans a significant timeline, showing the long-term consequences of the protagonist's early-life exclusion from the immortality drug. The contrast between her younger and older self is clear, though more detailed behavioral changes over time could strengthen this aspect."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "The story presents a basic depiction of institutional actions and their impact on the protagonist. However, the ethical complexity of the government and scientists' motives could be more nuanced, with more detailed exploration of their interests and fears."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "Chen Jiaru's investigation into the drug's truth drives the narrative effectively, with a logical progression of discoveries. While the investigation creates suspense, the rising costs and risks associated with evidence gathering could be more pronounced."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 5,
+      "justification": "The narrative includes internal and social conflicts, but these layers are not as intricately interconnected as they could be. The story would benefit from more simultaneous pressure from different conflict levels to push the protagonist to her limits."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 6,
+      "justification": "The story includes clear value shifts, particularly in the protagonist's understanding of the drug and her role in society. However, the causal connections between scenes could be strengthened to avoid any perception of coincidence."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The narrative structure includes a clear climax where the protagonist makes a decisive choice. However, the escalation of stakes and the midpoint reversal could be more pronounced to enhance the narrative tension."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "Key scenes have emotional impact, particularly the climax, but the aftershocks of these emotions could be more effectively woven into subsequent actions and decisions to deepen the emotional resonance."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The ending addresses both personal and public dimensions, with Chen Jiaru achieving personal closure and societal change. However, the resolution could retain more moral ambiguity and openness to enhance its complexity."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling story set in a world where a drug for immortality exists, focusing on the protagonist Chen Jiaru's journey from exclusion to revelation. The story effectively explores themes of truth, sacrifice, and the redefinition of life, though it could benefit from deeper character exploration and more intricate conflict layering.",
+  "total_score": 59,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling story set in a world where a drug for immortality exists, focusing on the protagonist Chen Jiaru's journey from exclusion to revelation. The story effectively explores themes of truth, sacrifice, and the redefinition of life, though it could benefit from deeper character exploration and more intricate conflict layering.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|6|The character Chen Jiaru faces a significant moral dilemma, particularly at the climax, where she must choose between personal safety and public truth. However, her internal transformation and the depth of her moral conflict could be more thoroughly explored with more detailed internal reasoning and emotional depth.\nCRITERION_2|Memory Anchors & Sensory Specificity|4|The narrative lacks specific sensory details and recurring memory anchors that could enhance the emotional and cognitive depth of the story. The use of sensory images or objects as triggers for memory or decision-making is underdeveloped.\nCRITERION_3|Intergenerational Span & Long-term Causality|7|The story effectively spans a significant timeline, showing the long-term consequences of the protagonist's early-life exclusion from the immortality drug. The contrast between her younger and older self is clear, though more detailed behavioral changes over time could strengthen this aspect.\nCRITERION_4|Institutional & Tech Ethical Complexity|6|The story presents a basic depiction of institutional actions and their impact on the protagonist. However, the ethical complexity of the government and scientists' motives could be more nuanced, with more detailed exploration of their interests and fears.\nCRITERION_5|Investigative Drive & Clue Architecture|7|Chen Jiaru's investigation into the drug's truth drives the narrative effectively, with a logical progression of discoveries. While the investigation creates suspense, the rising costs and risks associated with evidence gathering could be more pronounced.\nCRITERION_6|Multi-layered Conflict|5|The narrative includes internal and social conflicts, but these layers are not as intricately interconnected as they could be. The story would benefit from more simultaneous pressure from different conflict levels to push the protagonist to her limits.\nCRITERION_7|Value Turns & Causal Cohesion|6|The story includes clear value shifts, particularly in the protagonist's understanding of the drug and her role in society. However, the causal connections between scenes could be strengthened to avoid any perception of coincidence.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|6|The narrative structure includes a clear climax where the protagonist makes a decisive choice. However, the escalation of stakes and the midpoint reversal could be more pronounced to enhance the narrative tension.\nCRITERION_9|Emotional Punch & Aftershock|5|Key scenes have emotional impact, particularly the climax, but the aftershocks of these emotions could be more effectively woven into subsequent actions and decisions to deepen the emotional resonance.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|7|The ending addresses both personal and public dimensions, with Chen Jiaru achieving personal closure and societal change. However, the resolution could retain more moral ambiguity and openness to enhance its complexity.\n===EVALUATION_END===",
+  "created_at": "2025-08-31T14:49:28.467634+00:00"
+}

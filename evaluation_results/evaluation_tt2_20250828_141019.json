@@ -1,0 +1,86 @@
+{
+  "user_name": "tt2",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个永生药物引发社会动荡的未来世界，一位被排除在外的“迷失的一代”成员在85岁时发现药物的致命副作用，揭露政府决策的错误，并在重新审视生命的意义中找到了内心的平衡。\r\n\r\n第二部分：第一幕\r\n\r\n故事开始于主角28岁时，科学界宣布发现了一种能够阻止衰老的药物，但政府只将其提供给26岁以下的公民，主角和他的同龄人被排除在外，被称为“迷失的一代”。随着时间的推移，主角目睹了年轻一代的永生生活，而他自己则逐渐老去，心中充满了不甘与失落。当他85岁时，世界突然爆发了关于永生药物副作用的新闻，打破了他对永生的幻想，促使他开始质疑生命的真正价值。\r\n\r\n第三部分：第二幕\r\n\r\n在得知药物的副作用后，主角开始调查这些副作用的真相，并与其他“迷失的一代”成员联手，试图揭露真相并警告那些已经服用药物的人。他们面临着来自政府和药物公司强大的阻力，同时也要处理自己内心的矛盾：是继续追求永生，还是接受自然的生命进程。随着调查的深入，主角发现副作用不仅影响身体，还对人类的情感和社会结构造成了深远的影响，这让他意识到生命的有限性和珍贵性。\r\n\r\n第四部分：第三幕\r\n\r\n在最终的对决中，主角和他的盟友成功揭露了药物的真相，迫使政府承认错误并停止药物的分发。主角在这一过程中重新找到了生命的意义，接受了自己的衰老，并与年轻一代建立了新的联系。故事以主角在新平衡中的生活结束，他不再追求永生，而是珍惜每一个有限的时刻，体现了对生命本质的深刻理解。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 8
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist's journey from resentment to acceptance of aging is clear, with a moral dilemma centered on the pursuit of immortality versus natural life. However, the internal conflict could be more deeply explored, particularly through more detailed internal reasoning and emotional struggles.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks specific recurring sensory images or objects that serve as memory anchors. While the protagonist's age and experiences are central, sensory details that could enhance emotional depth are minimal.",
+    "Intergenerational Span & Long-term Causality": "The story effectively spans generations, contrasting the protagonist's aging with the eternally youthful generation. The long-term consequences of societal decisions are well-explored, particularly in the protagonist's eventual acceptance of aging.",
+    "Institutional & Tech Ethical Complexity": "The government and pharmaceutical company's roles are clear but could be more nuanced. The narrative hints at their motivations but lacks detailed exploration of their ethical complexities and internal conflicts.",
+    "Investigative Drive & Clue Architecture": "The protagonist's investigation into the drug's side effects drives the plot effectively, with logical progression and rising stakes. However, the narrative could benefit from more detailed descriptions of the investigative process and specific risks involved.",
+    "Multi-layered Conflict": "The story presents conflicts on multiple levels: personal (aging), interpersonal (with other \"lost generation\" members), and societal (against the government). These conflicts are interconnected, though the interpersonal dynamics could be further developed.",
+    "Value Turns & Causal Cohesion": "The narrative features clear value shifts, such as the protagonist's change from resentment to acceptance. These shifts are causally linked and well-motivated, contributing to the story's cohesion.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The structure is clear, with a midpoint revelation about the drug's side effects and a climax involving the exposure of the truth. The escalation is consistent, though the climax could be more unexpected.",
+    "Emotional Punch & Aftershock": "Key scenes, such as the revelation of the drug's side effects, have emotional impact, but the aftershocks could be more pronounced. The protagonist's emotional journey could be more vividly depicted.",
+    "Dual Resonance of Ending: Personal & Public": "The ending effectively addresses both personal and societal issues, with the protagonist finding personal peace and the government acknowledging its mistakes. The resolution maintains moral ambiguity, avoiding simplistic conclusions."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "The protagonist's journey from resentment to acceptance of aging is clear, with a moral dilemma centered on the pursuit of immortality versus natural life. However, the internal conflict could be more deeply explored, particularly through more detailed internal reasoning and emotional struggles."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "The narrative lacks specific recurring sensory images or objects that serve as memory anchors. While the protagonist's age and experiences are central, sensory details that could enhance emotional depth are minimal."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The story effectively spans generations, contrasting the protagonist's aging with the eternally youthful generation. The long-term consequences of societal decisions are well-explored, particularly in the protagonist's eventual acceptance of aging."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "The government and pharmaceutical company's roles are clear but could be more nuanced. The narrative hints at their motivations but lacks detailed exploration of their ethical complexities and internal conflicts."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The protagonist's investigation into the drug's side effects drives the plot effectively, with logical progression and rising stakes. However, the narrative could benefit from more detailed descriptions of the investigative process and specific risks involved."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story presents conflicts on multiple levels: personal (aging), interpersonal (with other \"lost generation\" members), and societal (against the government). These conflicts are interconnected, though the interpersonal dynamics could be further developed."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The narrative features clear value shifts, such as the protagonist's change from resentment to acceptance. These shifts are causally linked and well-motivated, contributing to the story's cohesion."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The structure is clear, with a midpoint revelation about the drug's side effects and a climax involving the exposure of the truth. The escalation is consistent, though the climax could be more unexpected."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "Key scenes, such as the revelation of the drug's side effects, have emotional impact, but the aftershocks could be more pronounced. The protagonist's emotional journey could be more vividly depicted."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 8,
+      "justification": "The ending effectively addresses both personal and societal issues, with the protagonist finding personal peace and the government acknowledging its mistakes. The resolution maintains moral ambiguity, avoiding simplistic conclusions."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling exploration of the societal and personal implications of a fictional immortality drug. It effectively uses a futuristic setting to delve into themes of aging, societal exclusion, and the value of life. The protagonist's journey from exclusion to enlightenment is well-articulated, though some areas could benefit from deeper exploration, particularly in terms of character depth and the complexity of institutional forces.",
+  "total_score": 69,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling exploration of the societal and personal implications of a fictional immortality drug. It effectively uses a futuristic setting to delve into themes of aging, societal exclusion, and the value of life. The protagonist's journey from exclusion to enlightenment is well-articulated, though some areas could benefit from deeper exploration, particularly in terms of character depth and the complexity of institutional forces.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|7|The protagonist's journey from resentment to acceptance of aging is clear, with a moral dilemma centered on the pursuit of immortality versus natural life. However, the internal conflict could be more deeply explored, particularly through more detailed internal reasoning and emotional struggles.\nCRITERION_2|Memory Anchors & Sensory Specificity|5|The narrative lacks specific recurring sensory images or objects that serve as memory anchors. While the protagonist's age and experiences are central, sensory details that could enhance emotional depth are minimal.\nCRITERION_3|Intergenerational Span & Long-term Causality|8|The story effectively spans generations, contrasting the protagonist's aging with the eternally youthful generation. The long-term consequences of societal decisions are well-explored, particularly in the protagonist's eventual acceptance of aging.\nCRITERION_4|Institutional & Tech Ethical Complexity|6|The government and pharmaceutical company's roles are clear but could be more nuanced. The narrative hints at their motivations but lacks detailed exploration of their ethical complexities and internal conflicts.\nCRITERION_5|Investigative Drive & Clue Architecture|7|The protagonist's investigation into the drug's side effects drives the plot effectively, with logical progression and rising stakes. However, the narrative could benefit from more detailed descriptions of the investigative process and specific risks involved.\nCRITERION_6|Multi-layered Conflict|7|The story presents conflicts on multiple levels: personal (aging), interpersonal (with other \"lost generation\" members), and societal (against the government). These conflicts are interconnected, though the interpersonal dynamics could be further developed.\nCRITERION_7|Value Turns & Causal Cohesion|8|The narrative features clear value shifts, such as the protagonist's change from resentment to acceptance. These shifts are causally linked and well-motivated, contributing to the story's cohesion.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|7|The structure is clear, with a midpoint revelation about the drug's side effects and a climax involving the exposure of the truth. The escalation is consistent, though the climax could be more unexpected.\nCRITERION_9|Emotional Punch & Aftershock|6|Key scenes, such as the revelation of the drug's side effects, have emotional impact, but the aftershocks could be more pronounced. The protagonist's emotional journey could be more vividly depicted.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|8|The ending effectively addresses both personal and societal issues, with the protagonist finding personal peace and the government acknowledging its mistakes. The resolution maintains moral ambiguity, avoiding simplistic conclusions.\n===EVALUATION_END===",
+  "created_at": "2025-08-28T14:10:19.782178+00:00"
+}

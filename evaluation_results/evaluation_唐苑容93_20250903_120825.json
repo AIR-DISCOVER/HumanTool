@@ -1,0 +1,86 @@
+{
+  "user_name": "唐苑容93",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在外星人入侵后，幸存的人类发现古老的魔法力量重新觉醒，并利用它对抗外星人以拯救地球。\r\n第二部分：第一幕\r\n\r\n地球曾经拥有强大的魔法力量，但随着人口的增长，魔力逐渐消散。外星人入侵地球，开始抓捕人类以防止他们因人数减少而变得更强大。幸存者们在废墟中挣扎求生，意识到随着人类数量的减少，古老的魔法力量开始重新显现，这可能是他们唯一的希望。\r\n第三部分：第二幕\r\n\r\n一群幸存者组成了抵抗组织，试图利用重新觉醒的魔法力量对抗外星人。他们在废墟中寻找古代魔法的遗迹，学习如何掌握和运用这些力量。与此同时，外星人加紧了对人类的监控，抵抗组织面临着巨大的压力和内部的分裂。\r\n第四部分：第三幕\r\n\r\n在最终的决战中，抵抗组织成功地运用了古老的魔法力量，与外星人展开激烈的战斗。经过艰苦的斗争，他们终于解放了被抓捕的人类，拯救了地球。幸存者们意识到团结和信念的重要性，并开始重建家园，迎接一个充满希望的未来。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 4,
+    "Intergenerational Span & Long-term Causality": 5,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 4,
+    "Hierarchy of Beats & Midpoint/Climax Design": 5,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 4
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of aliens versus magic is attractive and poses an interesting \"what if?\" scenario. However, it lacks depth as it doesn't explore the implications of magic's resurgence or the alien's motivations beyond the surface level.",
+    "Memory Anchors & Sensory Specificity": "The characters are not well-developed, serving more as archetypes (e.g., survivors, resistance fighters) rather than multi-dimensional individuals. Their desires and internal conflicts are not clearly articulated.",
+    "Intergenerational Span & Long-term Causality": "The story hints at themes of unity and hope, but the controlling idea is not fully fleshed out. The narrative direction is clear but lacks a deeper exploration of its worldview.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates from survival to organized resistance, but the progression feels linear and lacks unexpected complications or deeper stakes that would heighten tension.",
+    "Investigative Drive & Clue Architecture": "The story touches on internal, interpersonal, and external conflicts, but these are not deeply explored. The focus remains primarily on the external conflict with the aliens.",
+    "Multi-layered Conflict": "The narrative follows a clear three-act structure with identifiable turning points. However, the rhythm is predictable, lacking dynamic shifts that could enhance engagement.",
+    "Value Turns & Causal Cohesion": "The protagonist's decisions are not highlighted as dilemmas, and their consistency is not well-established. The narrative lacks a moment of genuine crisis decision-making.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is intense with the battle against the aliens, but it lacks profound meaning. The resolution feels more like a conventional victory rather than a transformative moment.",
+    "Emotional Punch & Aftershock": "The story concludes with a message of hope and rebuilding, but the controlling idea is not powerfully conveyed. The resolution lacks a strong emotional or intellectual impact.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are functional but not particularly original. The dialogue and imagery are straightforward, lacking subtext or innovative expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "The premise of aliens versus magic is attractive and poses an interesting \"what if?\" scenario. However, it lacks depth as it doesn't explore the implications of magic's resurgence or the alien's motivations beyond the surface level."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 4,
+      "justification": "The characters are not well-developed, serving more as archetypes (e.g., survivors, resistance fighters) rather than multi-dimensional individuals. Their desires and internal conflicts are not clearly articulated."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 5,
+      "justification": "The story hints at themes of unity and hope, but the controlling idea is not fully fleshed out. The narrative direction is clear but lacks a deeper exploration of its worldview."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The conflict escalates from survival to organized resistance, but the progression feels linear and lacks unexpected complications or deeper stakes that would heighten tension."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "The story touches on internal, interpersonal, and external conflicts, but these are not deeply explored. The focus remains primarily on the external conflict with the aliens."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The narrative follows a clear three-act structure with identifiable turning points. However, the rhythm is predictable, lacking dynamic shifts that could enhance engagement."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 4,
+      "justification": "The protagonist's decisions are not highlighted as dilemmas, and their consistency is not well-established. The narrative lacks a moment of genuine crisis decision-making."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 5,
+      "justification": "The climax is intense with the battle against the aliens, but it lacks profound meaning. The resolution feels more like a conventional victory rather than a transformative moment."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "The story concludes with a message of hope and rebuilding, but the controlling idea is not powerfully conveyed. The resolution lacks a strong emotional or intellectual impact."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 4,
+      "justification": "The narrative details are functional but not particularly original. The dialogue and imagery are straightforward, lacking subtext or innovative expression."
+    }
+  ],
+  "overall_summary": "The narrative presents a classic science fiction premise of alien invasion intertwined with the resurgence of ancient magic. While the concept is intriguing, the execution lacks depth in character development and conflict complexity. The story follows a predictable structure with clear turning points, but it could benefit from more originality and nuanced exploration of its themes.",
+  "total_score": 49,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a classic science fiction premise of alien invasion intertwined with the resurgence of ancient magic. While the concept is intriguing, the execution lacks depth in character development and conflict complexity. The story follows a predictable structure with clear turning points, but it could benefit from more originality and nuanced exploration of its themes.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|6|The premise of aliens versus magic is attractive and poses an interesting \"what if?\" scenario. However, it lacks depth as it doesn't explore the implications of magic's resurgence or the alien's motivations beyond the surface level.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|4|The characters are not well-developed, serving more as archetypes (e.g., survivors, resistance fighters) rather than multi-dimensional individuals. Their desires and internal conflicts are not clearly articulated.\nCRITERION_3|Preliminary Direction of the Controlling Idea|5|The story hints at themes of unity and hope, but the controlling idea is not fully fleshed out. The narrative direction is clear but lacks a deeper exploration of its worldview.\nCRITERION_4|Progressive Escalation of Conflict|5|The conflict escalates from survival to organized resistance, but the progression feels linear and lacks unexpected complications or deeper stakes that would heighten tension.\nCRITERION_5|Breadth and Levels of Conflict|5|The story touches on internal, interpersonal, and external conflicts, but these are not deeply explored. The focus remains primarily on the external conflict with the aliens.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|6|The narrative follows a clear three-act structure with identifiable turning points. However, the rhythm is predictable, lacking dynamic shifts that could enhance engagement.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|4|The protagonist's decisions are not highlighted as dilemmas, and their consistency is not well-established. The narrative lacks a moment of genuine crisis decision-making.\nCRITERION_8| Impact and Depth of Meaning in the Climax|5|The climax is intense with the battle against the aliens, but it lacks profound meaning. The resolution feels more like a conventional victory rather than a transformative moment.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|5|The story concludes with a message of hope and rebuilding, but the controlling idea is not powerfully conveyed. The resolution lacks a strong emotional or intellectual impact.\nCRITERION_10|Refinement and Originality of Narrative Details|4|The narrative details are functional but not particularly original. The dialogue and imagery are straightforward, lacking subtext or innovative expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-03T12:08:25.852829+00:00"
+}

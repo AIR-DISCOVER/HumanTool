@@ -1,0 +1,86 @@
+{
+  "user_name": "彭慧玲 0903",
+  "user_group": "writing_b2",
+  "user_group_display": "写作 B-2",
+  "submitted_text": "第一部分：故事概括\r\n\r\n一个被排除在永生药物之外的老人发现药物的副作用，并试图揭露真相。\r\n第二部分：第一幕\r\n\r\n故事开始时，主人公已经85岁，回忆起自己28岁时被排除在永生药物之外的失落感，他生活在一个充满年轻人的世界里，感到孤独和被遗忘。随着时间的推移，他开始注意到周围那些服用药物的人出现了一些奇怪的症状，但他并没有深入调查，因为他认为这与自己无关。\r\n第三部分：第二幕\r\n\r\n主人公偶然发现了一份关于药物副作用的秘密报告，报告中详细描述了药物对人类心理和身体的潜在危害。他决定揭露这个秘密，但由于缺乏支持和资源，他的努力显得无力且混乱。他试图联系媒体和政府，但都被忽视或拒绝，感到无比沮丧。\r\n第四部分：第三幕\r\n\r\n最终，主人公意识到自己无法单独改变现状，于是他开始在社区中组织一群同样被排除在外的老人，试图通过集体行动来引起关注。然而，他们的努力并没有得到预期的效果，故事在主人公的无奈和失望中结束，留下一个开放的结局，暗示着社会对永生的盲目追求可能会带来更大的问题。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 6,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 5,
+    "Value Turns & Causal Cohesion": 6,
+    "Hierarchy of Beats & Midpoint/Climax Design": 4,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of an elderly man excluded from immortality drugs discovering their side effects is compelling and poses a significant \"what if?\" question about the cost of eternal life. It has the depth to sustain a longer narrative by exploring societal and ethical implications.",
+    "Memory Anchors & Sensory Specificity": "The protagonist is portrayed with clear motivations and a sense of isolation, which adds depth. However, the narrative could further explore his internal struggles and unconscious desires to enhance his multi-dimensionality.",
+    "Intergenerational Span & Long-term Causality": "The story hints at a controlling idea about the dangers of blindly pursuing immortality, but this direction could be more explicitly woven into the plot to strengthen the narrative's thematic focus.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates as the protagonist discovers the report and attempts to expose the truth, but the escalation lacks intensity and complexity. The protagonist's efforts feel repetitive rather than progressively challenging.",
+    "Investigative Drive & Clue Architecture": "The story touches on internal, interpersonal, and societal conflicts, but these could be more intricately interwoven to showcase a broader range of opposing forces and deepen the narrative tension.",
+    "Multi-layered Conflict": "The narrative structure includes key turning points, such as the discovery of the report, but these moments lack impact and fail to create a dynamic rhythm of tension and release, leading to a somewhat flat progression.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a dilemma in choosing to expose the truth despite the odds, consistent with his character. However, the decision lacks the weight of a genuine crisis, as the stakes and consequences are not fully realized.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The story concludes with an open ending, which diminishes the impact of the climax. The lack of a definitive resolution or significant value shift leaves the narrative feeling unresolved and lacking in profound meaning.",
+    "Emotional Punch & Aftershock": "The controlling idea about the perils of immortality is suggested but not fully confirmed or expressed through the climax, leaving the audience without a strong sense of closure or understanding.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are generally effective, with a clear setting and purpose for each scene. However, the writing could benefit from more originality and avoidance of clichés, particularly in dialogue and imagery, to enhance expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of an elderly man excluded from immortality drugs discovering their side effects is compelling and poses a significant \"what if?\" question about the cost of eternal life. It has the depth to sustain a longer narrative by exploring societal and ethical implications."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The protagonist is portrayed with clear motivations and a sense of isolation, which adds depth. However, the narrative could further explore his internal struggles and unconscious desires to enhance his multi-dimensionality."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 6,
+      "justification": "The story hints at a controlling idea about the dangers of blindly pursuing immortality, but this direction could be more explicitly woven into the plot to strengthen the narrative's thematic focus."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The conflict escalates as the protagonist discovers the report and attempts to expose the truth, but the escalation lacks intensity and complexity. The protagonist's efforts feel repetitive rather than progressively challenging."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The story touches on internal, interpersonal, and societal conflicts, but these could be more intricately interwoven to showcase a broader range of opposing forces and deepen the narrative tension."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 5,
+      "justification": "The narrative structure includes key turning points, such as the discovery of the report, but these moments lack impact and fail to create a dynamic rhythm of tension and release, leading to a somewhat flat progression."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 6,
+      "justification": "The protagonist faces a dilemma in choosing to expose the truth despite the odds, consistent with his character. However, the decision lacks the weight of a genuine crisis, as the stakes and consequences are not fully realized."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 4,
+      "justification": "The story concludes with an open ending, which diminishes the impact of the climax. The lack of a definitive resolution or significant value shift leaves the narrative feeling unresolved and lacking in profound meaning."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "The controlling idea about the perils of immortality is suggested but not fully confirmed or expressed through the climax, leaving the audience without a strong sense of closure or understanding."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative details are generally effective, with a clear setting and purpose for each scene. However, the writing could benefit from more originality and avoidance of clichés, particularly in dialogue and imagery, to enhance expression."
+    }
+  ],
+  "overall_summary": "The narrative presents a thought-provoking premise about the societal implications of immortality drugs, focusing on an elderly protagonist's struggle to expose their hidden dangers. While the story effectively highlights themes of isolation and resistance, it lacks a strong escalation of conflict and a definitive climax, leaving the resolution somewhat unsatisfying. The characters and their motivations are clear, but the narrative could benefit from more dynamic turning points and a deeper exploration of the protagonist's internal conflicts.",
+  "total_score": 58,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a thought-provoking premise about the societal implications of immortality drugs, focusing on an elderly protagonist's struggle to expose their hidden dangers. While the story effectively highlights themes of isolation and resistance, it lacks a strong escalation of conflict and a definitive climax, leaving the resolution somewhat unsatisfying. The characters and their motivations are clear, but the narrative could benefit from more dynamic turning points and a deeper exploration of the protagonist's internal conflicts.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of an elderly man excluded from immortality drugs discovering their side effects is compelling and poses a significant \"what if?\" question about the cost of eternal life. It has the depth to sustain a longer narrative by exploring societal and ethical implications.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|7|The protagonist is portrayed with clear motivations and a sense of isolation, which adds depth. However, the narrative could further explore his internal struggles and unconscious desires to enhance his multi-dimensionality.\nCRITERION_3|Preliminary Direction of the Controlling Idea|6|The story hints at a controlling idea about the dangers of blindly pursuing immortality, but this direction could be more explicitly woven into the plot to strengthen the narrative's thematic focus.\nCRITERION_4|Progressive Escalation of Conflict|5|The conflict escalates as the protagonist discovers the report and attempts to expose the truth, but the escalation lacks intensity and complexity. The protagonist's efforts feel repetitive rather than progressively challenging.\nCRITERION_5|Breadth and Levels of Conflict|6|The story touches on internal, interpersonal, and societal conflicts, but these could be more intricately interwoven to showcase a broader range of opposing forces and deepen the narrative tension.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|5|The narrative structure includes key turning points, such as the discovery of the report, but these moments lack impact and fail to create a dynamic rhythm of tension and release, leading to a somewhat flat progression.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|6|The protagonist faces a dilemma in choosing to expose the truth despite the odds, consistent with his character. However, the decision lacks the weight of a genuine crisis, as the stakes and consequences are not fully realized.\nCRITERION_8| Impact and Depth of Meaning in the Climax|4|The story concludes with an open ending, which diminishes the impact of the climax. The lack of a definitive resolution or significant value shift leaves the narrative feeling unresolved and lacking in profound meaning.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|5|The controlling idea about the perils of immortality is suggested but not fully confirmed or expressed through the climax, leaving the audience without a strong sense of closure or understanding.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative details are generally effective, with a clear setting and purpose for each scene. However, the writing could benefit from more originality and avoidance of clichés, particularly in dialogue and imagery, to enhance expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-03T14:15:34.037369+00:00"
+}

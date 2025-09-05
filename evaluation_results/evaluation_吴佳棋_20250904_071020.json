@@ -1,0 +1,86 @@
+{
+  "user_name": "吴佳棋",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "🔧 工具结果执行结果\r\n第一部分：故事概括\r\n\r\n在一个科技发达的未来世界，主角因年龄错过了永生药物的机会，面对副作用的揭露，他在对孩子的担忧与自身渴望之间挣扎，最终在永生与人性之间做出深刻的选择。\r\n第二部分：第一幕\r\n\r\n故事发生在2050年，科技高度发达，永生药物的问世引发全球轰动，政府决定将药物提供给26岁以下的公民，主角因年龄限制无法获得药物，感到深深的失落与不满。随着时间推移，主角目睹身边年轻人获得永生的机会，内心的渴望与失落不断加剧，直到他85岁时，药物的副作用被揭露，打破了他对永生的信任。\r\n第三部分：第二幕\r\n\r\n副作用的发现让主角感到一丝庆幸，但他的孩子已服用药物，这让他陷入深深的担忧与焦虑。心理健康问题如记忆混乱和情感麻木开始显现，主角开始质疑政府和科学家的决策，并在内心深处产生对永生药物的矛盾态度。随着对副作用的深入了解，主角发现其影响并不如预期般严重，他开始重新考虑自己对永生的渴望，内心的冲突愈发激烈。\r\n第四部分：第三幕\r\n\r\n在面对孩子的健康与自身渴望的两难选择中，主角最终决定不再追求永生，而是选择珍惜有限的生命时光，与孩子共同面对未来的不确定性。通过这一选择，主角领悟到生命的真正意义在于经历与体验，而非永恒的存在，故事以他对人性与生命的深刻理解而结束。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of a future world with a life-extending drug poses a compelling \"what if?\" question about the value of immortality versus human experience, offering depth for exploration.",
+    "Memory Anchors & Sensory Specificity": "The protagonist's struggle between personal desires and concern for his child reveals multi-dimensionality, though further development of secondary characters could enhance authenticity.",
+    "Intergenerational Span & Long-term Causality": "The story clearly aims to express the value of human experience over immortality, reflected in the protagonist's ultimate choice, though the controlling idea could be more explicitly woven throughout the narrative.",
+    "Institutional & Tech Ethical Complexity": "Conflict escalates as the protagonist learns about the drug's side effects, but the progression could be more intense and complex, pushing the protagonist into more challenging confrontations.",
+    "Investigative Drive & Clue Architecture": "The story addresses internal struggles, interpersonal relationships, and societal implications, showcasing a variety of opposing forces, though the external conflict could be more pronounced.",
+    "Multi-layered Conflict": "Turning points are present, such as the revelation of side effects, but they could be more impactful and rhythmically dynamic to drive tension and release more effectively.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a genuine dilemma between immortality and human experience, with his decision consistent with his character's evolution and values.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax, where the protagonist chooses finite life over immortality, is meaningful and reflects a profound value shift, though it could be more intense and memorable.",
+    "Emotional Punch & Aftershock": "The controlling idea is confirmed through the protagonist's choice, leaving the audience with a clear understanding of the story's message about the value of human experience.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are adequate but could be more refined and original, with dialogue and imagery that avoid clichés and enhance expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of a future world with a life-extending drug poses a compelling \"what if?\" question about the value of immortality versus human experience, offering depth for exploration."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The protagonist's struggle between personal desires and concern for his child reveals multi-dimensionality, though further development of secondary characters could enhance authenticity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story clearly aims to express the value of human experience over immortality, reflected in the protagonist's ultimate choice, though the controlling idea could be more explicitly woven throughout the narrative."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "Conflict escalates as the protagonist learns about the drug's side effects, but the progression could be more intense and complex, pushing the protagonist into more challenging confrontations."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The story addresses internal struggles, interpersonal relationships, and societal implications, showcasing a variety of opposing forces, though the external conflict could be more pronounced."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "Turning points are present, such as the revelation of side effects, but they could be more impactful and rhythmically dynamic to drive tension and release more effectively."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The protagonist faces a genuine dilemma between immortality and human experience, with his decision consistent with his character's evolution and values."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The climax, where the protagonist chooses finite life over immortality, is meaningful and reflects a profound value shift, though it could be more intense and memorable."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "The controlling idea is confirmed through the protagonist's choice, leaving the audience with a clear understanding of the story's message about the value of human experience."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative details are adequate but could be more refined and original, with dialogue and imagery that avoid clichés and enhance expression."
+    }
+  ],
+  "overall_summary": "The narrative explores a futuristic world where the protagonist grapples with the implications of a life-extending drug, ultimately choosing human experience over immortality. The story presents a compelling premise with multi-dimensional characters facing moral dilemmas, though it could benefit from deeper conflict escalation and more refined narrative details.",
+  "total_score": 70,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative explores a futuristic world where the protagonist grapples with the implications of a life-extending drug, ultimately choosing human experience over immortality. The story presents a compelling premise with multi-dimensional characters facing moral dilemmas, though it could benefit from deeper conflict escalation and more refined narrative details.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of a future world with a life-extending drug poses a compelling \"what if?\" question about the value of immortality versus human experience, offering depth for exploration.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|7|The protagonist's struggle between personal desires and concern for his child reveals multi-dimensionality, though further development of secondary characters could enhance authenticity.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story clearly aims to express the value of human experience over immortality, reflected in the protagonist's ultimate choice, though the controlling idea could be more explicitly woven throughout the narrative.\nCRITERION_4|Progressive Escalation of Conflict|6|Conflict escalates as the protagonist learns about the drug's side effects, but the progression could be more intense and complex, pushing the protagonist into more challenging confrontations.\nCRITERION_5|Breadth and Levels of Conflict|7|The story addresses internal struggles, interpersonal relationships, and societal implications, showcasing a variety of opposing forces, though the external conflict could be more pronounced.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|6|Turning points are present, such as the revelation of side effects, but they could be more impactful and rhythmically dynamic to drive tension and release more effectively.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|8|The protagonist faces a genuine dilemma between immortality and human experience, with his decision consistent with his character's evolution and values.\nCRITERION_8| Impact and Depth of Meaning in the Climax|7|The climax, where the protagonist chooses finite life over immortality, is meaningful and reflects a profound value shift, though it could be more intense and memorable.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|8|The controlling idea is confirmed through the protagonist's choice, leaving the audience with a clear understanding of the story's message about the value of human experience.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative details are adequate but could be more refined and original, with dialogue and imagery that avoid clichés and enhance expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-04T07:10:20.461984+00:00"
+}

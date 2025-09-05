@@ -1,0 +1,86 @@
+{
+  "user_name": "房玉颖",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括 • 在外星人入侵后，地球幸存者发现古老的魔法力量开始觉醒，但他们对如何使用这些力量感到困惑。  第二部分：第一幕 • 在一个被外星人摧毁的地球上，一个年轻的幸存者偶然感受到一股奇异的力量，他对此感到困惑并在废墟中徘徊，遇到一位神秘的老人后，他听到了关于古老魔法的传说，但没有得到任何实用的信息。年轻人对自己的能力感到好奇，但同时也感到无助，因为他不知道如何控制这股力量。  第三部分：第二幕 • 年轻人尝试探索自己的新能力，但发现难以控制，导致朋友们对他的变化感到不安，与此同时，外星人加紧对幸存者的压迫，并对重新觉醒的魔法保持警觉，年轻人四处寻找指导，但无人能帮助他。一个偶然的机会，他遇到了一位同样拥有魔法力量的幸存者，这个人告诉他要相信自己的直觉，并在关键时刻勇敢地使用力量。  第四部分：第三幕 • 在外星人的一次突然袭击中，年轻人在极度恐惧中爆发出强大的魔法力量，帮助他和朋友们逃脱死亡，但他仍对这股力量一无所知，故事以年轻人凝视夜空结束，他思考着如何掌握这股力量来反击外星人，未来充满不确定性。他意识到，只有团结其他拥有力量的人，他们才能共同对抗外星人，保护地球。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 6,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 5,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 5
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of ancient magic awakening after an alien invasion is intriguing and poses a compelling \"what if?\" scenario. It has the potential to sustain a long narrative, though the execution could delve deeper into the implications of magic and alien dynamics.",
+    "Memory Anchors & Sensory Specificity": "The protagonist's struggle with his powers is evident, but his character lacks depth and multi-dimensionality. His desires are clear, yet his internal conflicts and growth under pressure need further exploration.",
+    "Intergenerational Span & Long-term Causality": "The story hints at themes of unity and self-discovery, but the controlling idea is not fully developed. The narrative direction is present but requires refinement to clearly express the intended worldview.",
+    "Institutional & Tech Ethical Complexity": "Conflict escalates with the alien threat and the protagonist's struggle to control his powers. However, the escalation lacks complexity and could benefit from more unexpected confrontations and deeper stakes.",
+    "Investigative Drive & Clue Architecture": "The story touches on internal and external conflicts, but the breadth is limited. Interpersonal dynamics and environmental challenges could be expanded to enrich the narrative.",
+    "Multi-layered Conflict": "Turning points are present, such as the protagonist's encounters and the alien attack, but they lack impact. The rhythm of tension and release is uneven, needing more dynamic shifts.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a crisis during the alien attack, yet his decision lacks depth and consistency with his character. The dilemma is not fully convincing or explored.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is intense with the protagonist's magical outburst, but the depth of meaning is limited. The value shift is present but lacks profound exploration beyond survival.",
+    "Emotional Punch & Aftershock": "The controlling idea of unity against alien forces is suggested but not fully confirmed. The narrative ends with uncertainty, leaving the expression of the idea incomplete.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are functional but lack originality and refinement. Dialogue and imagery could be more authentic and avoid clichés to enhance expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "The premise of ancient magic awakening after an alien invasion is intriguing and poses a compelling \"what if?\" scenario. It has the potential to sustain a long narrative, though the execution could delve deeper into the implications of magic and alien dynamics."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "The protagonist's struggle with his powers is evident, but his character lacks depth and multi-dimensionality. His desires are clear, yet his internal conflicts and growth under pressure need further exploration."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 6,
+      "justification": "The story hints at themes of unity and self-discovery, but the controlling idea is not fully developed. The narrative direction is present but requires refinement to clearly express the intended worldview."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "Conflict escalates with the alien threat and the protagonist's struggle to control his powers. However, the escalation lacks complexity and could benefit from more unexpected confrontations and deeper stakes."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "The story touches on internal and external conflicts, but the breadth is limited. Interpersonal dynamics and environmental challenges could be expanded to enrich the narrative."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "Turning points are present, such as the protagonist's encounters and the alien attack, but they lack impact. The rhythm of tension and release is uneven, needing more dynamic shifts."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 5,
+      "justification": "The protagonist faces a crisis during the alien attack, yet his decision lacks depth and consistency with his character. The dilemma is not fully convincing or explored."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The climax is intense with the protagonist's magical outburst, but the depth of meaning is limited. The value shift is present but lacks profound exploration beyond survival."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "The controlling idea of unity against alien forces is suggested but not fully confirmed. The narrative ends with uncertainty, leaving the expression of the idea incomplete."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 5,
+      "justification": "The narrative details are functional but lack originality and refinement. Dialogue and imagery could be more authentic and avoid clichés to enhance expression."
+    }
+  ],
+  "overall_summary": "The narrative presents a post-apocalyptic scenario where ancient magical powers awaken following an alien invasion. The protagonist, a young survivor, grapples with newfound abilities amidst escalating external threats. The story explores themes of self-discovery and unity against a formidable enemy, but lacks depth in character development and conflict complexity.",
+  "total_score": 56,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a post-apocalyptic scenario where ancient magical powers awaken following an alien invasion. The protagonist, a young survivor, grapples with newfound abilities amidst escalating external threats. The story explores themes of self-discovery and unity against a formidable enemy, but lacks depth in character development and conflict complexity.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|7|The premise of ancient magic awakening after an alien invasion is intriguing and poses a compelling \"what if?\" scenario. It has the potential to sustain a long narrative, though the execution could delve deeper into the implications of magic and alien dynamics.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|5|The protagonist's struggle with his powers is evident, but his character lacks depth and multi-dimensionality. His desires are clear, yet his internal conflicts and growth under pressure need further exploration.\nCRITERION_3|Preliminary Direction of the Controlling Idea|6|The story hints at themes of unity and self-discovery, but the controlling idea is not fully developed. The narrative direction is present but requires refinement to clearly express the intended worldview.\nCRITERION_4|Progressive Escalation of Conflict|6|Conflict escalates with the alien threat and the protagonist's struggle to control his powers. However, the escalation lacks complexity and could benefit from more unexpected confrontations and deeper stakes.\nCRITERION_5|Breadth and Levels of Conflict|5|The story touches on internal and external conflicts, but the breadth is limited. Interpersonal dynamics and environmental challenges could be expanded to enrich the narrative.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|6|Turning points are present, such as the protagonist's encounters and the alien attack, but they lack impact. The rhythm of tension and release is uneven, needing more dynamic shifts.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|5|The protagonist faces a crisis during the alien attack, yet his decision lacks depth and consistency with his character. The dilemma is not fully convincing or explored.\nCRITERION_8| Impact and Depth of Meaning in the Climax|6|The climax is intense with the protagonist's magical outburst, but the depth of meaning is limited. The value shift is present but lacks profound exploration beyond survival.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|5|The controlling idea of unity against alien forces is suggested but not fully confirmed. The narrative ends with uncertainty, leaving the expression of the idea incomplete.\nCRITERION_10|Refinement and Originality of Narrative Details|5|The narrative details are functional but lack originality and refinement. Dialogue and imagery could be more authentic and avoid clichés to enhance expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-05T01:31:18.462583+00:00"
+}

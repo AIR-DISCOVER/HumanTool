@@ -1,0 +1,86 @@
+{
+  "user_name": "吴佳棋",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "🔧 工具结果执行结果\r\n第一部分：故事概括\r\n\r\n在外星人入侵后，地球上的幸存者发现了一种古老的魔法力量，并试图利用它来反击敌人，重建家园，但他们的努力充满了不确定性和挑战。\r\n第二部分：第一幕\r\n\r\n地球遭受外星人的入侵，人口锐减到几乎灭绝的边缘，年轻女子艾米丽在一个荒废的图书馆中偶然发现了一本古老的书籍，书中提到一种失落的魔法力量，这种力量据说来自于远古时代的神秘文明，能够操控自然元素。她被这些模糊的描述吸引，决定学习书中的内容，希望能用这种力量来保护剩余的人类。\r\n第三部分：第二幕\r\n\r\n艾米丽尝试理解书中的魔法，但发现自己无法单独掌握这些复杂的内容。她遇到了一群同样对魔法感兴趣的幸存者，他们决定一起研究和练习，他们通过反复阅读书籍和进行冗长的实验来尝试掌握魔法技巧，尽管这些力量在面对外星人时显得微不足道，但他们没有放弃，继续尝试各种方法以增强他们的能力。\r\n第四部分：第三幕\r\n\r\n在一次与更为凶残的外星敌人的对抗中，艾米丽和她的团队被逼入绝境，濒临失败时，魔法力量在他们强烈的情感中全面觉醒，赋予他们操控元素和心灵感应的能力。他们成功击退了外星人，虽然不知道这种力量能维持多久，但他们开始重建家园，努力过上安稳幸福的生活，然而未来仍然充满未知的挑战。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 8,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 6,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of combining alien invasion with ancient magic is intriguing and offers a rich \"what if?\" scenario. It has the potential to sustain a long narrative with its blend of science fiction and fantasy elements.",
+    "Memory Anchors & Sensory Specificity": "Emily is given a clear motivation, but her character lacks depth beyond her initial discovery and determination. The supporting characters are not well-developed, which limits the story's emotional impact.",
+    "Intergenerational Span & Long-term Causality": "The story hints at themes of resilience and the power of unity, but the controlling idea could be more explicitly developed. The narrative direction is present but requires further refinement.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates effectively from discovery to confrontation with aliens, culminating in a magical awakening. Each act builds on the previous one, increasing tension and stakes.",
+    "Investigative Drive & Clue Architecture": "The story incorporates internal struggles with magic, interpersonal dynamics among survivors, and external threats from aliens. However, the internal and interpersonal conflicts could be more deeply explored.",
+    "Multi-layered Conflict": "While the narrative has clear turning points, such as the discovery of the book and the magical awakening, these moments could be more impactful and better paced to enhance the story's rhythm.",
+    "Value Turns & Causal Cohesion": "Emily faces a crisis during the alien confrontation, but her decision-making process is not deeply explored. Her actions are consistent with her character, but lack complexity.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is intense with the magical awakening, providing a significant value shift. However, the depth of meaning could be enriched by exploring the implications of this power more thoroughly.",
+    "Emotional Punch & Aftershock": "The story concludes with a hopeful note of rebuilding, but the controlling idea is not fully articulated. The narrative could leave a stronger impression by clearly conveying its ultimate message.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are generally effective, with a unique blend of magic and science fiction. However, the dialogue and imagery could be more vivid and original to enhance the storytelling."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of combining alien invasion with ancient magic is intriguing and offers a rich \"what if?\" scenario. It has the potential to sustain a long narrative with its blend of science fiction and fantasy elements."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "Emily is given a clear motivation, but her character lacks depth beyond her initial discovery and determination. The supporting characters are not well-developed, which limits the story's emotional impact."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story hints at themes of resilience and the power of unity, but the controlling idea could be more explicitly developed. The narrative direction is present but requires further refinement."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 8,
+      "justification": "The conflict escalates effectively from discovery to confrontation with aliens, culminating in a magical awakening. Each act builds on the previous one, increasing tension and stakes."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The story incorporates internal struggles with magic, interpersonal dynamics among survivors, and external threats from aliens. However, the internal and interpersonal conflicts could be more deeply explored."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "While the narrative has clear turning points, such as the discovery of the book and the magical awakening, these moments could be more impactful and better paced to enhance the story's rhythm."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 6,
+      "justification": "Emily faces a crisis during the alien confrontation, but her decision-making process is not deeply explored. Her actions are consistent with her character, but lack complexity."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The climax is intense with the magical awakening, providing a significant value shift. However, the depth of meaning could be enriched by exploring the implications of this power more thoroughly."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "The story concludes with a hopeful note of rebuilding, but the controlling idea is not fully articulated. The narrative could leave a stronger impression by clearly conveying its ultimate message."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The narrative details are generally effective, with a unique blend of magic and science fiction. However, the dialogue and imagery could be more vivid and original to enhance the storytelling."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling premise of alien invasion and the rediscovery of ancient magic, which offers a fresh take on the survival genre. The characters, particularly Emily, are given a clear motivation, though their development could be more nuanced. The story effectively escalates conflict and integrates multiple levels of struggle, but could benefit from more refined turning points and deeper exploration of its controlling idea.",
+  "total_score": 68,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling premise of alien invasion and the rediscovery of ancient magic, which offers a fresh take on the survival genre. The characters, particularly Emily, are given a clear motivation, though their development could be more nuanced. The story effectively escalates conflict and integrates multiple levels of struggle, but could benefit from more refined turning points and deeper exploration of its controlling idea.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of combining alien invasion with ancient magic is intriguing and offers a rich \"what if?\" scenario. It has the potential to sustain a long narrative with its blend of science fiction and fantasy elements.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|6|Emily is given a clear motivation, but her character lacks depth beyond her initial discovery and determination. The supporting characters are not well-developed, which limits the story's emotional impact.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story hints at themes of resilience and the power of unity, but the controlling idea could be more explicitly developed. The narrative direction is present but requires further refinement.\nCRITERION_4|Progressive Escalation of Conflict|8|The conflict escalates effectively from discovery to confrontation with aliens, culminating in a magical awakening. Each act builds on the previous one, increasing tension and stakes.\nCRITERION_5|Breadth and Levels of Conflict|7|The story incorporates internal struggles with magic, interpersonal dynamics among survivors, and external threats from aliens. However, the internal and interpersonal conflicts could be more deeply explored.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|6|While the narrative has clear turning points, such as the discovery of the book and the magical awakening, these moments could be more impactful and better paced to enhance the story's rhythm.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|6|Emily faces a crisis during the alien confrontation, but her decision-making process is not deeply explored. Her actions are consistent with her character, but lack complexity.\nCRITERION_8| Impact and Depth of Meaning in the Climax|7|The climax is intense with the magical awakening, providing a significant value shift. However, the depth of meaning could be enriched by exploring the implications of this power more thoroughly.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|6|The story concludes with a hopeful note of rebuilding, but the controlling idea is not fully articulated. The narrative could leave a stronger impression by clearly conveying its ultimate message.\nCRITERION_10|Refinement and Originality of Narrative Details|7|The narrative details are generally effective, with a unique blend of magic and science fiction. However, the dialogue and imagery could be more vivid and original to enhance the storytelling.\n===EVALUATION_END===",
+  "created_at": "2025-09-04T06:27:06.260968+00:00"
+}

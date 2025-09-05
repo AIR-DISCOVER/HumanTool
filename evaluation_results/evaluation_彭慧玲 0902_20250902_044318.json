@@ -1,0 +1,86 @@
+{
+  "user_name": "彭慧玲 0902",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括\r\n在科技特权制造的生命鸿沟中，迷失的一代通过报复行为激化矛盾，最终在对立中探寻共存之道，重建文明的伦理根基。\r\n\r\n第二部分：第一幕\r\n故事开始于一个科技飞速发展的未来，28岁的主角被排除在永生药物的受益者之外，成为“迷失的一代”的一员。随着时间的推移，主角目睹永生人享受着无尽的青春和职业上的优越，而自己和同龄人却逐渐衰老，愤怒和不满在迷失的一代中蔓延开来，形成了一个秘密组织，计划通过改造旧时代广播塔来报复永生人。\r\n\r\n第三部分：第二幕\r\n迷失的一代成功地在永生区周边播放低频声波，导致永生人出现剧烈头痛、幻觉和肢体抽搐，社会秩序陷入短暂瘫痪。随着副作用的发现，永生药物的脆化基因链被揭露，永生人的不安和恐慌加剧，迷失的一代的行动引发了广泛的社会讨论。主角在内心的挣扎中意识到，仇恨与报复只会加剧撕裂，开始寻求与永生人对话的机会，希望找到共存的可能。\r\n\r\n第四部分：第三幕\r\n在一场公开辩论中，主角与永生人的代表展开激烈的对话，双方逐渐认识到科技特权带来的不公和生命鸿沟的深刻影响。通过坦诚交流和共同努力，迷失的一代和永生人达成了和解协议，承诺在未来的社会中建立更公平的制度，重建文明的伦理根基。故事以主角的内心转变和社会的逐步融合结束，展现了在对立中探寻共存之道的希望。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 9,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 8,
+    "Emotional Punch & Aftershock": 7,
+    "Dual Resonance of Ending: Personal & Public": 8
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist's journey from anger to seeking reconciliation is well-developed, showing psychological growth. The internal conflict is driven by personal motivations, and the character's arc is supported by temporal evidence as they move from revenge to dialogue.",
+    "Memory Anchors & Sensory Specificity": "The theme of inequality and the search for coexistence is consistently echoed throughout the narrative. The story begins with a focus on technological privilege and ends with a resolution that addresses these issues, maintaining thematic coherence.",
+    "Intergenerational Span & Long-term Causality": "The central conflict between the \"lost generation\" and the immortals is clear and escalates effectively. The tension is maintained through the protagonist's actions and the societal impact of their revenge, leading to a climactic debate.",
+    "Institutional & Tech Ethical Complexity": "The story touches on the ethical implications of technological privilege and its societal impact. While the institution's motives are not deeply explored, the narrative does highlight the consequences of technological inequality.",
+    "Investigative Drive & Clue Architecture": "The narrative is not primarily driven by an investigation, but the revelation of the immortality drug's flaws serves as a pivotal moment. The disclosure of this information is impactful but lacks a structured clue-gathering process.",
+    "Multi-layered Conflict": "The story effectively combines internal, interpersonal, and social conflicts. The protagonist's internal struggle is mirrored by societal tensions, and the dialogue with the immortals adds an interpersonal layer.",
+    "Value Turns & Causal Cohesion": "The narrative demonstrates clear value shifts, particularly in the protagonist's beliefs. The cause-and-effect chain is logical, with the protagonist's actions leading to societal change and personal growth.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The story is well-structured, with clear acts and turning points. The midpoint reveals the immortality drug's flaws, changing the narrative direction, and the climax in the debate is irreversible.",
+    "Emotional Punch & Aftershock": "Key scenes, such as the societal chaos and the debate, have a strong emotional impact. The protagonist's transformation and the societal reconciliation resonate, though the emotional aftershock could be more pronounced.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and social dimensions, with the protagonist's growth and societal change. It retains some moral ambiguity, as the future of the new societal structure is left open-ended."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The protagonist's journey from anger to seeking reconciliation is well-developed, showing psychological growth. The internal conflict is driven by personal motivations, and the character's arc is supported by temporal evidence as they move from revenge to dialogue."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 9,
+      "justification": "The theme of inequality and the search for coexistence is consistently echoed throughout the narrative. The story begins with a focus on technological privilege and ends with a resolution that addresses these issues, maintaining thematic coherence."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The central conflict between the \"lost generation\" and the immortals is clear and escalates effectively. The tension is maintained through the protagonist's actions and the societal impact of their revenge, leading to a climactic debate."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The story touches on the ethical implications of technological privilege and its societal impact. While the institution's motives are not deeply explored, the narrative does highlight the consequences of technological inequality."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The narrative is not primarily driven by an investigation, but the revelation of the immortality drug's flaws serves as a pivotal moment. The disclosure of this information is impactful but lacks a structured clue-gathering process."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story effectively combines internal, interpersonal, and social conflicts. The protagonist's internal struggle is mirrored by societal tensions, and the dialogue with the immortals adds an interpersonal layer."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The narrative demonstrates clear value shifts, particularly in the protagonist's beliefs. The cause-and-effect chain is logical, with the protagonist's actions leading to societal change and personal growth."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 8,
+      "justification": "The story is well-structured, with clear acts and turning points. The midpoint reveals the immortality drug's flaws, changing the narrative direction, and the climax in the debate is irreversible."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 7,
+      "justification": "Key scenes, such as the societal chaos and the debate, have a strong emotional impact. The protagonist's transformation and the societal reconciliation resonate, though the emotional aftershock could be more pronounced."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 8,
+      "justification": "The ending addresses both personal and social dimensions, with the protagonist's growth and societal change. It retains some moral ambiguity, as the future of the new societal structure is left open-ended."
+    }
+  ],
+  "overall_summary": "The story presents a compelling narrative set in a future where technological advancements have created a divide between those who benefit from immortality and those who do not. It explores themes of inequality, revenge, and reconciliation through the journey of a protagonist who initially seeks retribution but ultimately strives for coexistence. The narrative structure effectively builds tension and resolves with a hopeful message of societal change.",
+  "total_score": 76,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The story presents a compelling narrative set in a future where technological advancements have created a divide between those who benefit from immortality and those who do not. It explores themes of inequality, revenge, and reconciliation through the journey of a protagonist who initially seeks retribution but ultimately strives for coexistence. The narrative structure effectively builds tension and resolves with a hopeful message of societal change.\n\nCRITERION_SCORES:\nCRITERION_1|Task Depth & Character Development|8|The protagonist's journey from anger to seeking reconciliation is well-developed, showing psychological growth. The internal conflict is driven by personal motivations, and the character's arc is supported by temporal evidence as they move from revenge to dialogue.\nCRITERION_2|Thematic Coherence|9|The theme of inequality and the search for coexistence is consistently echoed throughout the narrative. The story begins with a focus on technological privilege and ends with a resolution that addresses these issues, maintaining thematic coherence.\nCRITERION_3|Central Conflict & Dramatic Tension|8|The central conflict between the \"lost generation\" and the immortals is clear and escalates effectively. The tension is maintained through the protagonist's actions and the societal impact of their revenge, leading to a climactic debate.\nCRITERION_4|Complexity of Institutional & Technological Ethics|7|The story touches on the ethical implications of technological privilege and its societal impact. While the institution's motives are not deeply explored, the narrative does highlight the consequences of technological inequality.\nCRITERION_5|Investigative Drive & Clue Architecture|6|The narrative is not primarily driven by an investigation, but the revelation of the immortality drug's flaws serves as a pivotal moment. The disclosure of this information is impactful but lacks a structured clue-gathering process.\nCRITERION_6|Multi-layered Conflict|7|The story effectively combines internal, interpersonal, and social conflicts. The protagonist's internal struggle is mirrored by societal tensions, and the dialogue with the immortals adds an interpersonal layer.\nCRITERION_7| Value Shifts & Causal Cohesion|8|The narrative demonstrates clear value shifts, particularly in the protagonist's beliefs. The cause-and-effect chain is logical, with the protagonist's actions leading to societal change and personal growth.\nCRITERION_8|Structural Hierarchy, Pacing & Effective Turning Points|8|The story is well-structured, with clear acts and turning points. The midpoint reveals the immortality drug's flaws, changing the narrative direction, and the climax in the debate is irreversible.\nCRITERION_9|Emotional Impact & Aftershock|7|Key scenes, such as the societal chaos and the debate, have a strong emotional impact. The protagonist's transformation and the societal reconciliation resonate, though the emotional aftershock could be more pronounced.\nCRITERION_10|Dual Resonance & Moral Ambiguity of the Ending|8|The ending addresses both personal and social dimensions, with the protagonist's growth and societal change. It retains some moral ambiguity, as the future of the new societal structure is left open-ended.\n===EVALUATION_END===",
+  "created_at": "2025-09-02T04:43:18.002051+00:00"
+}

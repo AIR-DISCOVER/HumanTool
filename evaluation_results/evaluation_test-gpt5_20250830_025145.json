@@ -1,0 +1,86 @@
+{
+  "user_name": "test-gpt5",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n在人类文明被外星入侵者摧毁的绝望时刻，一位专注于古代魔法研究的大学教授意外发现魔法力量正在复苏，他必须带领幸存者利用这股力量对抗强大的外星敌人，重建希望。\r\n\r\n第二部分：第一幕\r\n在地球上，人口过多导致魔法力量几乎消失，外星入侵者的到来使人类文明遭受毁灭性打击，幸存者们在绝望中挣扎。 主角，一位专注于古代魔法研究的大学教授，目睹了外星人强大的科技和心理压迫，感到无能为力。 然而，当他意外发现自己家族传承的古老魔法书籍开始发光时，他意识到魔法力量正在复苏，并开始探索这股力量的潜力。\r\n\r\n第三部分：第二幕\r\n教授和一群幸存者开始研究如何利用复苏的魔法力量对抗外星人，他们在废墟中寻找盟友，并逐渐掌握了初步的魔法技能。 随着他们的力量增强，他们开始对外星人展开小规模的反击，取得了一些胜利。 然而，外星人很快加强了攻势，教授面临着巨大的内心挣扎，怀疑自己是否有能力带领人类走向胜利。 在一次关键的战斗中，教授失去了重要的盟友，陷入至暗时刻，但他从中获得了新的洞察，决定利用魔法的真正潜力进行最后的反击。\r\n\r\n第四部分：第三幕\r\n教授重新聚集幸存者，制定了一个大胆的计划，利用魔法力量摧毁外星人的核心科技。 在最终对决中，教授和他的团队运用他们所学的魔法技能，与外星人展开激烈的战斗。 教授在关键时刻做出了牺牲，释放出强大的魔法力量，最终摧毁了外星人的主舰，解放了地球。 随着外星人撤退，幸存者们开始重建家园，魔法力量的复苏为人类带来了新的希望和未来。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 4,
+    "Intergenerational Span & Long-term Causality": 5,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 6,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist experiences internal conflict and growth, particularly in the second act where he doubts his leadership abilities. However, the moral dilemma is somewhat conventional, focusing on self-doubt and sacrifice rather than a complex choice between equally compelling options.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks specific sensory details or recurring objects that serve as memory anchors. The glowing ancient book is a plot device but does not evoke emotional or cognitive changes through sensory specificity.",
+    "Intergenerational Span & Long-term Causality": "The story hints at intergenerational elements through the family legacy of magic, but it does not deeply explore long-term consequences or generational contrasts. The focus remains on immediate events rather than a broader temporal span.",
+    "Institutional & Tech Ethical Complexity": "The alien invaders are depicted as a monolithic threat without nuanced motivations. The narrative lacks depth in exploring the ethical complexities of their technology or institutional structures.",
+    "Investigative Drive & Clue Architecture": "The plot involves the discovery and exploration of magic, but the investigative aspect is not deeply layered. The narrative lacks a strong sense of rhythm and suspense typically associated with clue-driven stories.",
+    "Multi-layered Conflict": "The story includes internal, interpersonal, and extra-personal conflicts, particularly the protagonist's internal struggles and the external threat of aliens. However, these conflicts could be more intricately interwoven to amplify tension.",
+    "Value Turns & Causal Cohesion": "The narrative includes clear value shifts, such as despair to hope and doubt to resolve. However, the causal chain is somewhat straightforward, lacking unexpected twists or profound causal complexity.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The story follows a clear structure with escalating stakes, a midpoint where the protagonist gains new insights, and a climactic battle. The climax is effective, though somewhat predictable in its execution.",
+    "Emotional Punch & Aftershock": "Key scenes, such as the loss of an ally and the protagonist's sacrifice, carry emotional weight. However, the aftershocks of these emotions could be more deeply explored in subsequent actions and reflections.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and public dimensions, with the protagonist's sacrifice and the societal impact of magic's resurgence. It balances personal closure with broader societal implications, though it leans towards a hopeful resolution."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "The protagonist experiences internal conflict and growth, particularly in the second act where he doubts his leadership abilities. However, the moral dilemma is somewhat conventional, focusing on self-doubt and sacrifice rather than a complex choice between equally compelling options."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 4,
+      "justification": "The narrative lacks specific sensory details or recurring objects that serve as memory anchors. The glowing ancient book is a plot device but does not evoke emotional or cognitive changes through sensory specificity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 5,
+      "justification": "The story hints at intergenerational elements through the family legacy of magic, but it does not deeply explore long-term consequences or generational contrasts. The focus remains on immediate events rather than a broader temporal span."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The alien invaders are depicted as a monolithic threat without nuanced motivations. The narrative lacks depth in exploring the ethical complexities of their technology or institutional structures."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "The plot involves the discovery and exploration of magic, but the investigative aspect is not deeply layered. The narrative lacks a strong sense of rhythm and suspense typically associated with clue-driven stories."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The story includes internal, interpersonal, and extra-personal conflicts, particularly the protagonist's internal struggles and the external threat of aliens. However, these conflicts could be more intricately interwoven to amplify tension."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 6,
+      "justification": "The narrative includes clear value shifts, such as despair to hope and doubt to resolve. However, the causal chain is somewhat straightforward, lacking unexpected twists or profound causal complexity."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The story follows a clear structure with escalating stakes, a midpoint where the protagonist gains new insights, and a climactic battle. The climax is effective, though somewhat predictable in its execution."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "Key scenes, such as the loss of an ally and the protagonist's sacrifice, carry emotional weight. However, the aftershocks of these emotions could be more deeply explored in subsequent actions and reflections."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The ending addresses both personal and public dimensions, with the protagonist's sacrifice and the societal impact of magic's resurgence. It balances personal closure with broader societal implications, though it leans towards a hopeful resolution."
+    }
+  ],
+  "overall_summary": "The narrative presents a classic science fiction and fantasy blend, where a university professor discovers the resurgence of ancient magic amidst an alien invasion. The story follows a traditional three-act structure, with the protagonist leading a group of survivors to harness magical powers against technologically advanced aliens. The narrative explores themes of hope, sacrifice, and the rediscovery of lost knowledge, culminating in a climactic battle that restores hope for humanity.",
+  "total_score": 57,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a classic science fiction and fantasy blend, where a university professor discovers the resurgence of ancient magic amidst an alien invasion. The story follows a traditional three-act structure, with the protagonist leading a group of survivors to harness magical powers against technologically advanced aliens. The narrative explores themes of hope, sacrifice, and the rediscovery of lost knowledge, culminating in a climactic battle that restores hope for humanity.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|6|The protagonist experiences internal conflict and growth, particularly in the second act where he doubts his leadership abilities. However, the moral dilemma is somewhat conventional, focusing on self-doubt and sacrifice rather than a complex choice between equally compelling options.\nCRITERION_2|Memory Anchors & Sensory Specificity|4|The narrative lacks specific sensory details or recurring objects that serve as memory anchors. The glowing ancient book is a plot device but does not evoke emotional or cognitive changes through sensory specificity.\nCRITERION_3|Intergenerational Span & Long-term Causality|5|The story hints at intergenerational elements through the family legacy of magic, but it does not deeply explore long-term consequences or generational contrasts. The focus remains on immediate events rather than a broader temporal span.\nCRITERION_4|Institutional & Tech Ethical Complexity|5|The alien invaders are depicted as a monolithic threat without nuanced motivations. The narrative lacks depth in exploring the ethical complexities of their technology or institutional structures.\nCRITERION_5|Investigative Drive & Clue Architecture|5|The plot involves the discovery and exploration of magic, but the investigative aspect is not deeply layered. The narrative lacks a strong sense of rhythm and suspense typically associated with clue-driven stories.\nCRITERION_6|Multi-layered Conflict|6|The story includes internal, interpersonal, and extra-personal conflicts, particularly the protagonist's internal struggles and the external threat of aliens. However, these conflicts could be more intricately interwoven to amplify tension.\nCRITERION_7|Value Turns & Causal Cohesion|6|The narrative includes clear value shifts, such as despair to hope and doubt to resolve. However, the causal chain is somewhat straightforward, lacking unexpected twists or profound causal complexity.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|7|The story follows a clear structure with escalating stakes, a midpoint where the protagonist gains new insights, and a climactic battle. The climax is effective, though somewhat predictable in its execution.\nCRITERION_9|Emotional Punch & Aftershock|6|Key scenes, such as the loss of an ally and the protagonist's sacrifice, carry emotional weight. However, the aftershocks of these emotions could be more deeply explored in subsequent actions and reflections.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|7|The ending addresses both personal and public dimensions, with the protagonist's sacrifice and the societal impact of magic's resurgence. It balances personal closure with broader societal implications, though it leans towards a hopeful resolution.\n===EVALUATION_END===",
+  "created_at": "2025-08-30T02:51:45.620220+00:00"
+}

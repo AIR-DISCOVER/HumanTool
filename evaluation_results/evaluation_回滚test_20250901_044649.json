@@ -1,0 +1,86 @@
+{
+  "user_name": "回滚test",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n在人类几乎灭绝后，幸存者发现古老的魔法力量重新觉醒，他们必须团结起来对抗强大的外星入侵者，通过探索神秘山洞破解古老秘密，重新定义人类的未来。\r\n\r\n第二部分：第一幕\r\n在一个曾经充满魔法的世界里，人类因人口暴增而失去魔力，变成了无力的麻瓜。随着外星人入侵并大规模屠杀人类，幸存者们发现自己体内的魔法力量开始苏醒。面对新的威胁，主角最初对这股力量感到恐惧和怀疑，但在目睹亲友的牺牲后，他决定探索这股力量的来源和潜力，并在寻找食物的途中意外进入一个神秘山洞，发现古老的神迹字体。\r\n\r\n第三部分：第二幕\r\n主角和其他幸存者开始团结起来，试图理解并掌握重新觉醒的魔法力量，他们遇到了来自不同背景的盟友和敌人。在探索神秘山洞时，他们几乎陷入绝望，但通过不懈努力破解了部分古老秘密，获得了新的洞察力和力量。在一次小胜利后，他们发现外星人正在计划更大规模的攻击，随着冲突的加剧，主角面临内心的挣扎，质疑自己的能力和领导力。在至暗时刻，主角几乎失去所有希望，但通过关键发现，他获得了新的洞察力，准备迎接最终的挑战。\r\n\r\n第四部分：第三幕\r\n主角和幸存者们制定了一个大胆的计划，准备与外星人进行最后的对决。在高潮时刻，主角运用所学的魔法力量，面对最大的挑战，并做出了一个体现人类团结和勇气的选择。随着外星人被击退，人类重新获得了对地球的控制，主角和幸存者们开始重建一个新的世界，展现出人类和魔法力量的新的平衡。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 4,
+    "Intergenerational Span & Long-term Causality": 5,
+    "Institutional & Tech Ethical Complexity": 3,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 5,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist's journey from fear to empowerment is clear, but the internal conflict and transformation could be more deeply explored. The dilemma of embracing newfound powers is present but lacks complexity and depth in its portrayal.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks specific sensory details or recurring objects that serve as memory anchors. The story could benefit from more vivid descriptions to enhance emotional and cognitive shifts.",
+    "Intergenerational Span & Long-term Causality": "The story hints at long-term consequences of past actions, such as the loss of magic due to overpopulation, but does not fully explore intergenerational impacts or detailed timelines.",
+    "Institutional & Tech Ethical Complexity": "The narrative does not delve into the complexities of institutional or technological ethics. The alien invaders are portrayed as a monolithic threat without nuanced motivations or ethical dilemmas.",
+    "Investigative Drive & Clue Architecture": "The exploration of the mysterious cave and ancient secrets provides an investigative element, but the clues and their narrative payoff could be more intricately woven to enhance suspense and engagement.",
+    "Multi-layered Conflict": "The story presents internal, interpersonal, and external conflicts, but these layers could be more intricately connected and developed to create a more compelling narrative tension.",
+    "Value Turns & Causal Cohesion": "The narrative includes value shifts, such as fear to courage, but the causal links between scenes could be stronger to avoid feeling episodic. The story could benefit from tighter cohesion.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The structure follows a clear three-act format with escalating stakes, but the turning points could be more surprising and impactful to enhance the narrative's emotional pressure.",
+    "Emotional Punch & Aftershock": "Key scenes, such as the protagonist's decision to embrace magic, have emotional potential, but the aftershocks and long-term emotional resonance could be more pronounced.",
+    "Dual Resonance of Ending: Personal & Public": "The ending provides closure on a personal and societal level, but lacks moral ambiguity. The resolution is somewhat straightforward, missing an opportunity for deeper reflection on the implications of magic's return."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "The protagonist's journey from fear to empowerment is clear, but the internal conflict and transformation could be more deeply explored. The dilemma of embracing newfound powers is present but lacks complexity and depth in its portrayal."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 4,
+      "justification": "The narrative lacks specific sensory details or recurring objects that serve as memory anchors. The story could benefit from more vivid descriptions to enhance emotional and cognitive shifts."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 5,
+      "justification": "The story hints at long-term consequences of past actions, such as the loss of magic due to overpopulation, but does not fully explore intergenerational impacts or detailed timelines."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 3,
+      "justification": "The narrative does not delve into the complexities of institutional or technological ethics. The alien invaders are portrayed as a monolithic threat without nuanced motivations or ethical dilemmas."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "The exploration of the mysterious cave and ancient secrets provides an investigative element, but the clues and their narrative payoff could be more intricately woven to enhance suspense and engagement."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The story presents internal, interpersonal, and external conflicts, but these layers could be more intricately connected and developed to create a more compelling narrative tension."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 5,
+      "justification": "The narrative includes value shifts, such as fear to courage, but the causal links between scenes could be stronger to avoid feeling episodic. The story could benefit from tighter cohesion."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The structure follows a clear three-act format with escalating stakes, but the turning points could be more surprising and impactful to enhance the narrative's emotional pressure."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "Key scenes, such as the protagonist's decision to embrace magic, have emotional potential, but the aftershocks and long-term emotional resonance could be more pronounced."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The ending provides closure on a personal and societal level, but lacks moral ambiguity. The resolution is somewhat straightforward, missing an opportunity for deeper reflection on the implications of magic's return."
+    }
+  ],
+  "overall_summary": "The narrative presents a post-apocalyptic scenario where humanity, on the brink of extinction, discovers the resurgence of ancient magical powers to combat alien invaders. The story is structured into three acts, each depicting the protagonist's journey from fear to empowerment, culminating in a climactic battle that redefines humanity's future. While the framework offers a compelling premise, it could benefit from deeper character development and more nuanced exploration of its themes.",
+  "total_score": 51,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a post-apocalyptic scenario where humanity, on the brink of extinction, discovers the resurgence of ancient magical powers to combat alien invaders. The story is structured into three acts, each depicting the protagonist's journey from fear to empowerment, culminating in a climactic battle that redefines humanity's future. While the framework offers a compelling premise, it could benefit from deeper character development and more nuanced exploration of its themes.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Dilemma Arc|6|The protagonist's journey from fear to empowerment is clear, but the internal conflict and transformation could be more deeply explored. The dilemma of embracing newfound powers is present but lacks complexity and depth in its portrayal.\nCRITERION_2|Memory Anchors & Sensory Specificity|4|The narrative lacks specific sensory details or recurring objects that serve as memory anchors. The story could benefit from more vivid descriptions to enhance emotional and cognitive shifts.\nCRITERION_3|Intergenerational Span & Long-term Causality|5|The story hints at long-term consequences of past actions, such as the loss of magic due to overpopulation, but does not fully explore intergenerational impacts or detailed timelines.\nCRITERION_4|Complexity of Institutional & Technological Ethics|3|The narrative does not delve into the complexities of institutional or technological ethics. The alien invaders are portrayed as a monolithic threat without nuanced motivations or ethical dilemmas.\nCRITERION_5|Investigative Drive & Clue Architecture|5|The exploration of the mysterious cave and ancient secrets provides an investigative element, but the clues and their narrative payoff could be more intricately woven to enhance suspense and engagement.\nCRITERION_6|Multi-layered Conflict|6|The story presents internal, interpersonal, and external conflicts, but these layers could be more intricately connected and developed to create a more compelling narrative tension.\nCRITERION_7| Value Shifts & Causal Cohesion|5|The narrative includes value shifts, such as fear to courage, but the causal links between scenes could be stronger to avoid feeling episodic. The story could benefit from tighter cohesion.\nCRITERION_8|Structural Hierarchy, Pacing & Effective Turning Points|6|The structure follows a clear three-act format with escalating stakes, but the turning points could be more surprising and impactful to enhance the narrative's emotional pressure.\nCRITERION_9|Emotional Impact & Aftershock|5|Key scenes, such as the protagonist's decision to embrace magic, have emotional potential, but the aftershocks and long-term emotional resonance could be more pronounced.\nCRITERION_10|Dual Resonance & Moral Ambiguity of the Ending|6|The ending provides closure on a personal and societal level, but lacks moral ambiguity. The resolution is somewhat straightforward, missing an opportunity for deeper reflection on the implications of magic's return.\n===EVALUATION_END===",
+  "created_at": "2025-09-01T04:46:49.226749+00:00"
+}

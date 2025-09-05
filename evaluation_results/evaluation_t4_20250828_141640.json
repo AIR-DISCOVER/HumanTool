@@ -1,0 +1,86 @@
+{
+  "user_name": "t4",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括 在人类被外星人入侵削减至微不足道的数量后，幸存者们发现古老的魔法力量重新觉醒，他们必须团结一致，利用各自独特的魔法能力对抗外星入侵者，重建人类的未来。\r\n\r\n第二部分：第一幕 在一个被外星人摧毁的地球上，年轻的幸存者艾琳发现自己能够感知到一种古老的魔法力量，这种力量源于地球的核心，与人类的精神和情感紧密相连。起初，她对这股力量感到恐惧和怀疑，但当她的家人被外星人抓走后，她意识到这可能是唯一的希望。在一位神秘老人的指引下，艾琳决定踏上寻找其他幸存者并唤醒他们潜在魔力的旅程，她发现每个幸存者的魔法能力各不相同，有的能够操控自然元素，有的则能影响外星人的科技。\r\n\r\n第三部分：第二幕 艾琳在旅途中遇到了其他拥有魔法潜力的幸存者，包括一位曾是科学家的年轻男子，他的魔法可以解析和破解外星科技，还有一名失去家人的小女孩，她能与动物沟通并操控它们的力量。他们组成了一个小团队，在探索废墟城市的过程中逐渐掌握了各自的魔法使用，并与外星人展开小规模的对抗。随着他们的力量增强，艾琳发现外星人也在寻找一种能够彻底消灭人类的终极武器。在一次行动中，他们误入外星人的陷阱，艾琳被迫面对自己的内心恐惧和责任感，她意识到必须团结所有幸存者才能对抗外星人。\r\n\r\n第四部分：第三幕 在最终的对决中，艾琳和她的团队成功召集了更多的幸存者，并在一场激烈的战斗中利用各自的魔法力量摧毁了外星人的终极武器。就在他们以为胜利在望时，外星人启动了一个隐藏的自毁程序，艾琳在关键时刻做出了牺牲自我的选择，激发了所有幸存者的潜能，最终击退了外星人。随着战斗的结束，幸存者们开始重建家园，艾琳的勇气和牺牲成为了新世界的基石，魔法力量也重新成为人类生活的一部分，象征着人类与地球的重新连接。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 4,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 6,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "Aileen faces a moral dilemma when she must choose between her own safety and the greater good, leading to her internal transformation. However, the depth of her internal reasoning and long-term personality changes could be more thoroughly explored.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks recurring sensory anchors that trigger memories or decisions. The magical powers are described abstractly, without specific sensory details that could enhance the emotional depth.",
+    "Intergenerational Span & Long-term Causality": "The story does not clearly present intergenerational timelines or consequences of past actions. The focus is on immediate events rather than long-term causality or generational contrasts.",
+    "Institutional & Tech Ethical Complexity": "The alien invaders are depicted as a monolithic threat without nuanced motives or ethical complexity. There is limited exploration of institutional logic or diverse interests.",
+    "Investigative Drive & Clue Architecture": "The narrative includes elements of discovery, such as uncovering magical abilities and alien technologies. However, the clue architecture lacks complexity and suspenseful layering.",
+    "Multi-layered Conflict": "The story presents internal, interpersonal, and extra-personal conflicts, including Aileen's fears, team dynamics, and the alien threat. These conflicts are interconnected, though they could be more deeply intertwined.",
+    "Value Turns & Causal Cohesion": "The narrative includes value shifts, such as fear to courage, but the causal cohesion between scenes could be stronger. Some transitions feel abrupt and lack detailed explanation.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The story has a clear structure with escalating tension leading to a climax where Aileen sacrifices herself. The hierarchy of beats is evident, though the midpoint could have a more pronounced reversal.",
+    "Emotional Punch & Aftershock": "Key scenes, such as Aileen's sacrifice, have emotional impact, but the aftershock is not deeply explored in subsequent text. The emotional resonance could be extended further.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal sacrifice and societal rebuilding, maintaining moral ambiguity. It avoids simplistic resolutions, though the public response could be more detailed."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "Aileen faces a moral dilemma when she must choose between her own safety and the greater good, leading to her internal transformation. However, the depth of her internal reasoning and long-term personality changes could be more thoroughly explored."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "The narrative lacks recurring sensory anchors that trigger memories or decisions. The magical powers are described abstractly, without specific sensory details that could enhance the emotional depth."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 4,
+      "justification": "The story does not clearly present intergenerational timelines or consequences of past actions. The focus is on immediate events rather than long-term causality or generational contrasts."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The alien invaders are depicted as a monolithic threat without nuanced motives or ethical complexity. There is limited exploration of institutional logic or diverse interests."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The narrative includes elements of discovery, such as uncovering magical abilities and alien technologies. However, the clue architecture lacks complexity and suspenseful layering."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story presents internal, interpersonal, and extra-personal conflicts, including Aileen's fears, team dynamics, and the alien threat. These conflicts are interconnected, though they could be more deeply intertwined."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 6,
+      "justification": "The narrative includes value shifts, such as fear to courage, but the causal cohesion between scenes could be stronger. Some transitions feel abrupt and lack detailed explanation."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The story has a clear structure with escalating tension leading to a climax where Aileen sacrifices herself. The hierarchy of beats is evident, though the midpoint could have a more pronounced reversal."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "Key scenes, such as Aileen's sacrifice, have emotional impact, but the aftershock is not deeply explored in subsequent text. The emotional resonance could be extended further."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The ending addresses both personal sacrifice and societal rebuilding, maintaining moral ambiguity. It avoids simplistic resolutions, though the public response could be more detailed."
+    }
+  ],
+  "overall_summary": "The narrative presents a post-apocalyptic scenario where human survivors, led by the protagonist Aileen, harness ancient magical powers to resist alien invaders. The story effectively combines elements of fantasy and science fiction, with a focus on teamwork and sacrifice. While the plot is engaging, it could benefit from deeper exploration of character motivations and more intricate conflict layers.",
+  "total_score": 59,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a post-apocalyptic scenario where human survivors, led by the protagonist Aileen, harness ancient magical powers to resist alien invaders. The story effectively combines elements of fantasy and science fiction, with a focus on teamwork and sacrifice. While the plot is engaging, it could benefit from deeper exploration of character motivations and more intricate conflict layers.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|6|Aileen faces a moral dilemma when she must choose between her own safety and the greater good, leading to her internal transformation. However, the depth of her internal reasoning and long-term personality changes could be more thoroughly explored.\nCRITERION_2|Memory Anchors & Sensory Specificity|5|The narrative lacks recurring sensory anchors that trigger memories or decisions. The magical powers are described abstractly, without specific sensory details that could enhance the emotional depth.\nCRITERION_3|Intergenerational Span & Long-term Causality|4|The story does not clearly present intergenerational timelines or consequences of past actions. The focus is on immediate events rather than long-term causality or generational contrasts.\nCRITERION_4|Institutional & Tech Ethical Complexity|5|The alien invaders are depicted as a monolithic threat without nuanced motives or ethical complexity. There is limited exploration of institutional logic or diverse interests.\nCRITERION_5|Investigative Drive & Clue Architecture|6|The narrative includes elements of discovery, such as uncovering magical abilities and alien technologies. However, the clue architecture lacks complexity and suspenseful layering.\nCRITERION_6|Multi-layered Conflict|7|The story presents internal, interpersonal, and extra-personal conflicts, including Aileen's fears, team dynamics, and the alien threat. These conflicts are interconnected, though they could be more deeply intertwined.\nCRITERION_7|Value Turns & Causal Cohesion|6|The narrative includes value shifts, such as fear to courage, but the causal cohesion between scenes could be stronger. Some transitions feel abrupt and lack detailed explanation.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|7|The story has a clear structure with escalating tension leading to a climax where Aileen sacrifices herself. The hierarchy of beats is evident, though the midpoint could have a more pronounced reversal.\nCRITERION_9|Emotional Punch & Aftershock|6|Key scenes, such as Aileen's sacrifice, have emotional impact, but the aftershock is not deeply explored in subsequent text. The emotional resonance could be extended further.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|7|The ending addresses both personal sacrifice and societal rebuilding, maintaining moral ambiguity. It avoids simplistic resolutions, though the public response could be more detailed.\n===EVALUATION_END===",
+  "created_at": "2025-08-28T14:16:40.018577+00:00"
+}

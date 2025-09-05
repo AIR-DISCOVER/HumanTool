@@ -1,0 +1,25 @@
+[Unit]
+Description=Django Evaluation System
+After=network.target
+
+[Service]
+Type=exec
+User=humantoolapp
+Group=humantoolapp
+WorkingDirectory=/home/humantoolapp/projects/bench/Django
+Environment=PATH=/home/humantoolapp/projects/bench/Django
+ExecStart=/usr/bin/python3 /home/humantoolapp/projects/bench/Django/start_production.py
+Restart=always
+RestartSec=10
+
+# 日志配置
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=django-app
+
+# 安全配置
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

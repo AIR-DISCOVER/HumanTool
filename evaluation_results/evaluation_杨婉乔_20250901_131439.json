@@ -1,0 +1,86 @@
+{
+  "user_name": "杨婉乔",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括\r\n在一个永生药物改变社会结构的世界中，迷失的一代在面对亲情的生离死别时，逐渐意识到生命的意义不仅在于长度，而是深度和情感的连接。\r\n\r\n第二部分：第一幕\r\n故事开始于主人公艾伦28岁时，科学界发现了一种可以阻止衰老的药物，但政府只将其提供给26岁以下的公民，艾伦和他的同龄人被称为“迷失的一代”，他们被迫面对生命有限的现实。艾伦在失去获得永生机会后，开始追求生命的深度，通过与家人和朋友的关系寻找生命的意义，然而随着时间的推移，他目睹了身边年轻一代的永生者逐渐失去对生命的热情和活力。\r\n\r\n第三部分：第二幕\r\n当艾伦85岁时，永生药物的副作用开始显现，年轻一代的永生者出现了严重的心理问题和社会隔离，艾伦的孙子也受到影响，陷入了对生命意义的迷茫。艾伦决定调查药物的副作用，并发现政府早已知晓这些问题但选择隐瞒，艾伦面临着揭露真相的道德两难，他必须选择是保护自己的家庭还是揭露政府的阴谋。与此同时，艾伦的亲情关系成为他内心的记忆锚，每次看到孙子的成长都让他感受到生命的脆弱和珍贵。\r\n\r\n第四部分：第三幕\r\n艾伦最终决定公开药物的副作用，促使社会重新审视永生的价值和代价，他的行动引发了社会的广泛讨论和变革，年轻一代开始重新思考生命的意义，而艾伦通过与孙子的深刻交流，意识到生命的真正价值在于与亲人的情感连接和共同经历。故事在艾伦的孙子选择放弃永生药物，拥抱有限生命的结局中达到高潮，艾伦在个人和社会层面都产生了深远的影响，留下了关于生命意义的道德余韵。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 9,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 8,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 9
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist, Allen, faces a complex task of reconciling with the reality of limited life span while others around him are immortal. His journey from seeking life's depth to confronting ethical dilemmas shows significant character development, supported by his evolving relationships and internal reflections.",
+    "Memory Anchors & Sensory Specificity": "The theme of life's meaning beyond longevity is consistently echoed throughout the narrative. From Allen's initial realization to the societal shift at the end, the theme is deepened and reflected in various scenes, culminating in a resonant conclusion.",
+    "Intergenerational Span & Long-term Causality": "The central conflict between the desire for immortality and the realization of its costs is clear and escalates effectively. Allen's moral dilemma about exposing the truth adds tension, driving the narrative forward.",
+    "Institutional & Tech Ethical Complexity": "While the government’s role in controlling the immortality drug is evident, the institutional motives and ethical complexities could be more nuanced. The narrative hints at these issues but does not fully explore them.",
+    "Investigative Drive & Clue Architecture": "Allen's investigation into the drug's side effects provides a solid narrative drive. The revelation of government knowledge adds layers to the plot, though the investigative process could involve more risk and complexity.",
+    "Multi-layered Conflict": "The story presents internal and social conflicts, but the interplay between them could be more pronounced. The narrative could benefit from more diverse antagonistic forces and deeper interpersonal conflicts.",
+    "Value Turns & Causal Cohesion": "The narrative effectively shows shifts in values, particularly through Allen's changing perspective on life and immortality. The cause-and-effect chain is logical and well-constructed, avoiding coincidences.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The story is well-structured, with clear turning points that escalate the stakes. The midpoint and climax effectively change the narrative direction and have irreversible consequences.",
+    "Emotional Punch & Aftershock": "Key scenes, such as Allen's decision to expose the truth, have strong emotional impact and resonate throughout the narrative. These moments lead to lasting changes in relationships and values.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and social dimensions, leaving a lingering moral ambiguity. Allen's actions prompt societal change while also achieving personal closure, avoiding simplistic resolutions."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The protagonist, Allen, faces a complex task of reconciling with the reality of limited life span while others around him are immortal. His journey from seeking life's depth to confronting ethical dilemmas shows significant character development, supported by his evolving relationships and internal reflections."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 9,
+      "justification": "The theme of life's meaning beyond longevity is consistently echoed throughout the narrative. From Allen's initial realization to the societal shift at the end, the theme is deepened and reflected in various scenes, culminating in a resonant conclusion."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The central conflict between the desire for immortality and the realization of its costs is clear and escalates effectively. Allen's moral dilemma about exposing the truth adds tension, driving the narrative forward."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "While the government’s role in controlling the immortality drug is evident, the institutional motives and ethical complexities could be more nuanced. The narrative hints at these issues but does not fully explore them."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "Allen's investigation into the drug's side effects provides a solid narrative drive. The revelation of government knowledge adds layers to the plot, though the investigative process could involve more risk and complexity."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The story presents internal and social conflicts, but the interplay between them could be more pronounced. The narrative could benefit from more diverse antagonistic forces and deeper interpersonal conflicts."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The narrative effectively shows shifts in values, particularly through Allen's changing perspective on life and immortality. The cause-and-effect chain is logical and well-constructed, avoiding coincidences."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 8,
+      "justification": "The story is well-structured, with clear turning points that escalate the stakes. The midpoint and climax effectively change the narrative direction and have irreversible consequences."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "Key scenes, such as Allen's decision to expose the truth, have strong emotional impact and resonate throughout the narrative. These moments lead to lasting changes in relationships and values."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 9,
+      "justification": "The ending addresses both personal and social dimensions, leaving a lingering moral ambiguity. Allen's actions prompt societal change while also achieving personal closure, avoiding simplistic resolutions."
+    }
+  ],
+  "overall_summary": "The story framework presents a compelling exploration of the implications of immortality on society and individual lives. It effectively uses the protagonist's journey to delve into themes of life's meaning beyond mere longevity, emphasizing emotional connections and personal growth. The narrative structure supports a strong thematic coherence, though some areas, such as the complexity of institutional ethics and multi-layered conflict, could be further developed for greater depth.",
+  "total_score": 77,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The story framework presents a compelling exploration of the implications of immortality on society and individual lives. It effectively uses the protagonist's journey to delve into themes of life's meaning beyond mere longevity, emphasizing emotional connections and personal growth. The narrative structure supports a strong thematic coherence, though some areas, such as the complexity of institutional ethics and multi-layered conflict, could be further developed for greater depth.\n\nCRITERION_SCORES:\nCRITERION_1|Task Depth & Character Development|8|The protagonist, Allen, faces a complex task of reconciling with the reality of limited life span while others around him are immortal. His journey from seeking life's depth to confronting ethical dilemmas shows significant character development, supported by his evolving relationships and internal reflections.\nCRITERION_2|Thematic Coherence|9|The theme of life's meaning beyond longevity is consistently echoed throughout the narrative. From Allen's initial realization to the societal shift at the end, the theme is deepened and reflected in various scenes, culminating in a resonant conclusion.\nCRITERION_3|Central Conflict & Dramatic Tension|8|The central conflict between the desire for immortality and the realization of its costs is clear and escalates effectively. Allen's moral dilemma about exposing the truth adds tension, driving the narrative forward.\nCRITERION_4|Complexity of Institutional & Technological Ethics|6|While the government’s role in controlling the immortality drug is evident, the institutional motives and ethical complexities could be more nuanced. The narrative hints at these issues but does not fully explore them.\nCRITERION_5|Investigative Drive & Clue Architecture|7|Allen's investigation into the drug's side effects provides a solid narrative drive. The revelation of government knowledge adds layers to the plot, though the investigative process could involve more risk and complexity.\nCRITERION_6|Multi-layered Conflict|6|The story presents internal and social conflicts, but the interplay between them could be more pronounced. The narrative could benefit from more diverse antagonistic forces and deeper interpersonal conflicts.\nCRITERION_7| Value Shifts & Causal Cohesion|8|The narrative effectively shows shifts in values, particularly through Allen's changing perspective on life and immortality. The cause-and-effect chain is logical and well-constructed, avoiding coincidences.\nCRITERION_8|Structural Hierarchy, Pacing & Effective Turning Points|8|The story is well-structured, with clear turning points that escalate the stakes. The midpoint and climax effectively change the narrative direction and have irreversible consequences.\nCRITERION_9|Emotional Impact & Aftershock|8|Key scenes, such as Allen's decision to expose the truth, have strong emotional impact and resonate throughout the narrative. These moments lead to lasting changes in relationships and values.\nCRITERION_10|Dual Resonance & Moral Ambiguity of the Ending|9|The ending addresses both personal and social dimensions, leaving a lingering moral ambiguity. Allen's actions prompt societal change while also achieving personal closure, avoiding simplistic resolutions.\n===EVALUATION_END===",
+  "created_at": "2025-09-01T13:14:39.867426+00:00"
+}

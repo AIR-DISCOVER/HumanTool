@@ -1,0 +1,86 @@
+{
+  "user_name": "彭慧玲 0901",
+  "user_group": "writing_b2",
+  "user_group_display": "写作 B-2",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个永生药物改变社会的时代，未能获得药物的“迷失的一代”面临着个人命运与时代的冲突，最终揭露药物的副作用，重新定义生命的意义。\r\n第二部分：第一幕\r\n\r\n主角在28岁时被排除在永生药物的受益者之外，成为“迷失的一代”的一员，目睹年轻一代享受永生的特权，社会开始分裂为两极。随着时间的推移，主角努力适应不断变化的社会结构，感受到被遗忘的痛苦和不公正，同时观察到永生者逐渐失去对生命的珍惜。\r\n第三部分：第二幕\r\n\r\n当主角85岁时，永生药物的副作用开始显现，永生者出现精神和身体上的异常，社会动荡加剧。主角与其他“迷失的一代”成员联合起来，调查药物的真相，揭露政府和制药公司的阴谋，推动社会重新审视永生的代价和伦理问题。\r\n第四部分：第三幕\r\n\r\n随着副作用的全面爆发，社会面临崩溃的边缘，主角和同伴们成功唤醒公众意识，促使政府停止药物的使用并寻找解决方案。最终，主角在生命的最后阶段重新找到了生命的意义，促使社会开始重新定义生命的价值，接受自然的生命循环。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 8,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist's journey from exclusion to activism provides a solid character arc, with clear internal and external conflicts. However, the internal reasoning behind key choices could be more deeply explored to enhance emotional resonance.",
+    "Memory Anchors & Sensory Specificity": "While the narrative hints at the protagonist's evolving perception of life, it lacks specific sensory details or recurring objects that could serve as powerful memory anchors to deepen emotional impact.",
+    "Intergenerational Span & Long-term Causality": "The story effectively spans multiple generations, highlighting the long-term consequences of societal choices. The protagonist's life stages are well-marked, and the narrative clearly shows the repercussions of the immortality drug over time.",
+    "Institutional & Tech Ethical Complexity": "The narrative addresses institutional ethics through the government's and pharmaceutical companies' roles, but these entities could be portrayed with more complexity and less as monolithic villains to enhance the ethical debate.",
+    "Investigative Drive & Clue Architecture": "The investigation into the drug's side effects provides a strong narrative drive, with escalating tension and risks. However, the clue architecture could be more intricate to heighten suspense and engagement.",
+    "Multi-layered Conflict": "The story presents conflicts on personal, societal, and institutional levels, effectively intertwining them. However, the interpersonal conflicts could be more developed to add depth to the protagonist's personal journey.",
+    "Value Turns & Causal Cohesion": "Each act introduces significant value shifts, such as from exclusion to activism and ignorance to awareness. The causal chain is logical and well-constructed, driving the narrative forward effectively.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The narrative structure is clear, with effective turning points that escalate tension and lead to a satisfying climax. The pacing is well-managed, maintaining engagement throughout.",
+    "Emotional Punch & Aftershock": "While the story has potential for strong emotional impact, particularly in the protagonist's later years, it could benefit from more vivid emotional peaks and lingering aftershocks to enhance reader engagement.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and societal issues, with the protagonist finding personal closure and society reevaluating its values. However, the moral ambiguity could be more pronounced to leave a lasting impression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "The protagonist's journey from exclusion to activism provides a solid character arc, with clear internal and external conflicts. However, the internal reasoning behind key choices could be more deeply explored to enhance emotional resonance."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "While the narrative hints at the protagonist's evolving perception of life, it lacks specific sensory details or recurring objects that could serve as powerful memory anchors to deepen emotional impact."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The story effectively spans multiple generations, highlighting the long-term consequences of societal choices. The protagonist's life stages are well-marked, and the narrative clearly shows the repercussions of the immortality drug over time."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "The narrative addresses institutional ethics through the government's and pharmaceutical companies' roles, but these entities could be portrayed with more complexity and less as monolithic villains to enhance the ethical debate."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The investigation into the drug's side effects provides a strong narrative drive, with escalating tension and risks. However, the clue architecture could be more intricate to heighten suspense and engagement."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story presents conflicts on personal, societal, and institutional levels, effectively intertwining them. However, the interpersonal conflicts could be more developed to add depth to the protagonist's personal journey."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "Each act introduces significant value shifts, such as from exclusion to activism and ignorance to awareness. The causal chain is logical and well-constructed, driving the narrative forward effectively."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 8,
+      "justification": "The narrative structure is clear, with effective turning points that escalate tension and lead to a satisfying climax. The pacing is well-managed, maintaining engagement throughout."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "While the story has potential for strong emotional impact, particularly in the protagonist's later years, it could benefit from more vivid emotional peaks and lingering aftershocks to enhance reader engagement."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The ending addresses both personal and societal issues, with the protagonist finding personal closure and society reevaluating its values. However, the moral ambiguity could be more pronounced to leave a lasting impression."
+    }
+  ],
+  "overall_summary": "The story framework presents a compelling narrative set in a dystopian future where the advent of an immortality drug creates societal rifts. It effectively explores themes of inequality, ethical dilemmas, and the redefinition of life's meaning. The narrative structure is clear, with a strong focus on character development and societal critique, though it could benefit from more nuanced exploration of institutional ethics and emotional depth.",
+  "total_score": 69,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The story framework presents a compelling narrative set in a dystopian future where the advent of an immortality drug creates societal rifts. It effectively explores themes of inequality, ethical dilemmas, and the redefinition of life's meaning. The narrative structure is clear, with a strong focus on character development and societal critique, though it could benefit from more nuanced exploration of institutional ethics and emotional depth.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Dilemma Arc|7|The protagonist's journey from exclusion to activism provides a solid character arc, with clear internal and external conflicts. However, the internal reasoning behind key choices could be more deeply explored to enhance emotional resonance.\nCRITERION_2|Memory Anchors & Sensory Specificity|5|While the narrative hints at the protagonist's evolving perception of life, it lacks specific sensory details or recurring objects that could serve as powerful memory anchors to deepen emotional impact.\nCRITERION_3|Intergenerational Span & Long-term Causality|8|The story effectively spans multiple generations, highlighting the long-term consequences of societal choices. The protagonist's life stages are well-marked, and the narrative clearly shows the repercussions of the immortality drug over time.\nCRITERION_4|Complexity of Institutional & Technological Ethics|6|The narrative addresses institutional ethics through the government's and pharmaceutical companies' roles, but these entities could be portrayed with more complexity and less as monolithic villains to enhance the ethical debate.\nCRITERION_5|Investigative Drive & Clue Architecture|7|The investigation into the drug's side effects provides a strong narrative drive, with escalating tension and risks. However, the clue architecture could be more intricate to heighten suspense and engagement.\nCRITERION_6|Multi-layered Conflict|7|The story presents conflicts on personal, societal, and institutional levels, effectively intertwining them. However, the interpersonal conflicts could be more developed to add depth to the protagonist's personal journey.\nCRITERION_7| Value Shifts & Causal Cohesion|8|Each act introduces significant value shifts, such as from exclusion to activism and ignorance to awareness. The causal chain is logical and well-constructed, driving the narrative forward effectively.\nCRITERION_8|Structural Hierarchy, Pacing & Effective Turning Points|8|The narrative structure is clear, with effective turning points that escalate tension and lead to a satisfying climax. The pacing is well-managed, maintaining engagement throughout.\nCRITERION_9|Emotional Impact & Aftershock|6|While the story has potential for strong emotional impact, particularly in the protagonist's later years, it could benefit from more vivid emotional peaks and lingering aftershocks to enhance reader engagement.\nCRITERION_10|Dual Resonance & Moral Ambiguity of the Ending|7|The ending addresses both personal and societal issues, with the protagonist finding personal closure and society reevaluating its values. However, the moral ambiguity could be more pronounced to leave a lasting impression.\n===EVALUATION_END===",
+  "created_at": "2025-09-01T10:10:35.997477+00:00"
+}

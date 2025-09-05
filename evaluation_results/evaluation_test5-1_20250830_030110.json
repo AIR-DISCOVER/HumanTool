@@ -1,0 +1,86 @@
+{
+  "user_name": "test5-1",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括 在一个永生药物改变社会的未来，未能使用药物的“迷失的一代”面临被遗忘的命运，而当副作用揭示出记忆消失的真相时，他们必须在有限的时间内唤醒亲人的记忆，重拾珍贵的回忆。\r\n\r\n第二部分：第一幕 故事开始于一个28岁的主角，他属于未能使用永生药物的“迷失的一代”。当他85岁时，社会已经被药物改变，年轻一代享受着永生的特权，但逐渐遗忘了过去的记忆。主角发现他的亲人开始忘记他，甚至不再记得他们共同的回忆，这让他感到孤独和绝望。与此同时，政府和药物公司试图掩盖药物的副作用，阻止人们发现真相，并开始秘密清除被遗忘的人和物品。\r\n\r\n第三部分：第二幕 主角决心唤醒亲人的记忆，他开始收集过去的物品和照片，希望能唤起他们的记忆。他遇到了一些同样未使用药物的盟友，他们一起揭露药物的副作用，并试图让更多人意识到记忆的重要性。随着时间的推移，主角的努力开始见效，一些亲人开始记起过去的片段。然而，政府和药物公司加大了对他们的打压，试图阻止真相的传播，亲人们也逐渐发现身边多了许多不记得的东西，开始渐渐相信。\r\n\r\n第四部分：第三幕 在最终的对决中，主角和他的盟友们成功地将药物的副作用真相公之于众，引发了社会的广泛关注和反思。面对亲人逐渐恢复的记忆，主角意识到回忆的珍贵和不可替代。最终，社会开始重新审视永生药物的使用，主角也在亲人的记忆中找到了新的平衡和归属感。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 8
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist faces a clear moral dilemma in choosing to expose the truth about the drug's side effects, risking personal relationships and safety. However, the internal transformation is not deeply explored, and the character's motivations could be more nuanced.",
+    "Memory Anchors & Sensory Specificity": "The use of past objects and photographs as memory triggers is effective, providing emotional depth and plot progression. More sensory details could enhance the vividness of these memory anchors.",
+    "Intergenerational Span & Long-term Causality": "The narrative effectively contrasts the protagonist's experiences at 28 and 85, highlighting the societal changes and long-term consequences of the drug. The intergenerational impact is well depicted.",
+    "Institutional & Tech Ethical Complexity": "The depiction of government and corporate interests is multifaceted, showing their attempts to suppress the truth. However, the institutions could be portrayed with more complexity to avoid a purely antagonistic role.",
+    "Investigative Drive & Clue Architecture": "The protagonist's investigation into the drug's side effects drives the plot, but the clue architecture could be more layered and suspenseful, with clearer connections between discoveries.",
+    "Multi-layered Conflict": "The story presents internal, interpersonal, and institutional conflicts, but these layers could be more interconnected and complex to heighten the narrative tension.",
+    "Value Turns & Causal Cohesion": "The narrative includes clear value shifts, such as the protagonist's growing awareness of memory's importance. The causal chain is generally coherent, though some transitions could be smoother.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The story structure is clear, with a significant midpoint revelation about the drug's side effects. The climax effectively changes the societal perspective, though it could be more unexpected.",
+    "Emotional Punch & Aftershock": "Key scenes have emotional impact, particularly the protagonist's isolation and eventual connection with family. However, the emotional aftershocks could be more pronounced and enduring.",
+    "Dual Resonance of Ending: Personal & Public": "The ending successfully addresses both personal reconciliation and societal change, maintaining moral ambiguity about the drug's use. It avoids simplistic resolutions, providing a thoughtful conclusion."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "The protagonist faces a clear moral dilemma in choosing to expose the truth about the drug's side effects, risking personal relationships and safety. However, the internal transformation is not deeply explored, and the character's motivations could be more nuanced."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The use of past objects and photographs as memory triggers is effective, providing emotional depth and plot progression. More sensory details could enhance the vividness of these memory anchors."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The narrative effectively contrasts the protagonist's experiences at 28 and 85, highlighting the societal changes and long-term consequences of the drug. The intergenerational impact is well depicted."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The depiction of government and corporate interests is multifaceted, showing their attempts to suppress the truth. However, the institutions could be portrayed with more complexity to avoid a purely antagonistic role."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The protagonist's investigation into the drug's side effects drives the plot, but the clue architecture could be more layered and suspenseful, with clearer connections between discoveries."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The story presents internal, interpersonal, and institutional conflicts, but these layers could be more interconnected and complex to heighten the narrative tension."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The narrative includes clear value shifts, such as the protagonist's growing awareness of memory's importance. The causal chain is generally coherent, though some transitions could be smoother."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The story structure is clear, with a significant midpoint revelation about the drug's side effects. The climax effectively changes the societal perspective, though it could be more unexpected."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "Key scenes have emotional impact, particularly the protagonist's isolation and eventual connection with family. However, the emotional aftershocks could be more pronounced and enduring."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 8,
+      "justification": "The ending successfully addresses both personal reconciliation and societal change, maintaining moral ambiguity about the drug's use. It avoids simplistic resolutions, providing a thoughtful conclusion."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling exploration of memory and identity within a futuristic society altered by a life-extending drug. The protagonist's journey to restore lost memories amidst institutional suppression offers a rich moral and emotional landscape. However, the story could benefit from deeper character development and more intricate conflict layers to enhance its thematic depth and emotional resonance.",
+  "total_score": 68,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling exploration of memory and identity within a futuristic society altered by a life-extending drug. The protagonist's journey to restore lost memories amidst institutional suppression offers a rich moral and emotional landscape. However, the story could benefit from deeper character development and more intricate conflict layers to enhance its thematic depth and emotional resonance.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|6|The protagonist faces a clear moral dilemma in choosing to expose the truth about the drug's side effects, risking personal relationships and safety. However, the internal transformation is not deeply explored, and the character's motivations could be more nuanced.\nCRITERION_2|Memory Anchors & Sensory Specificity|7|The use of past objects and photographs as memory triggers is effective, providing emotional depth and plot progression. More sensory details could enhance the vividness of these memory anchors.\nCRITERION_3|Intergenerational Span & Long-term Causality|8|The narrative effectively contrasts the protagonist's experiences at 28 and 85, highlighting the societal changes and long-term consequences of the drug. The intergenerational impact is well depicted.\nCRITERION_4|Institutional & Tech Ethical Complexity|7|The depiction of government and corporate interests is multifaceted, showing their attempts to suppress the truth. However, the institutions could be portrayed with more complexity to avoid a purely antagonistic role.\nCRITERION_5|Investigative Drive & Clue Architecture|6|The protagonist's investigation into the drug's side effects drives the plot, but the clue architecture could be more layered and suspenseful, with clearer connections between discoveries.\nCRITERION_6|Multi-layered Conflict|6|The story presents internal, interpersonal, and institutional conflicts, but these layers could be more interconnected and complex to heighten the narrative tension.\nCRITERION_7|Value Turns & Causal Cohesion|7|The narrative includes clear value shifts, such as the protagonist's growing awareness of memory's importance. The causal chain is generally coherent, though some transitions could be smoother.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|7|The story structure is clear, with a significant midpoint revelation about the drug's side effects. The climax effectively changes the societal perspective, though it could be more unexpected.\nCRITERION_9|Emotional Punch & Aftershock|6|Key scenes have emotional impact, particularly the protagonist's isolation and eventual connection with family. However, the emotional aftershocks could be more pronounced and enduring.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|8|The ending successfully addresses both personal reconciliation and societal change, maintaining moral ambiguity about the drug's use. It avoids simplistic resolutions, providing a thoughtful conclusion.\n===EVALUATION_END===",
+  "created_at": "2025-08-30T03:01:10.237978+00:00"
+}

@@ -1,0 +1,86 @@
+{
+  "user_name": "郭钰",
+  "user_group": "writing_b2",
+  "user_group_display": "写作 B-2",
+  "submitted_text": "第一部分：故事概括\r\n\r\n一个被排除在永生药物使用名单之外的老人，因珍视的婴儿逐渐失去情感而试图揭露药物副作用的真相，但最终无奈接受现实。\r\n第二部分：第一幕\r\n\r\n故事发生在一个未来的世界，主角在28岁时被排除在永生药物的使用名单之外，感到失落和愤怒。随着时间的推移，他捡到一个患有重病的婴儿，并视为唯一的情感寄托，决定通过黑市购买永生药物来拯救婴儿。\r\n第三部分：第二幕\r\n\r\n主角在85岁时发现婴儿逐渐失去情感，变得像机器一样没有情绪和活人气息，这让他意识到永生药物的副作用。他试图揭露真相，但由于年老体衰，他的声音微弱，几乎没有人愿意倾听，政府则极力掩盖事实，声称这些问题是自然现象并且告诉所有人主角患有精神疾病。主角一生通过偷盗作为立身之本，金盆洗手很多年决定为了揭开黑暗的事实再次唤醒了曾经的技能潜入政府大楼，从机密文件中了解到了残酷的真相。\r\n第四部分：第三幕\r\n\r\n主角由于机密文件最终在逃出大楼的过程中丢失了，所以他没有证据证明这是真相，虽然尽力试图唤醒公众的注意，但他的努力似乎徒劳无功，面对政府的镇压和民众的麻木，他感到无能为力。最终，他含泪接受了残酷的现实，掏出从黑市买来的永生药，故事戛然而止，留下一个开放式的结局。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of immortality drugs with hidden side effects is intriguing and poses a compelling \"what if?\" scenario. It has the potential to sustain a long narrative, though the exploration of its implications could be deeper.",
+    "Memory Anchors & Sensory Specificity": "The protagonist's motivations are clear, but their multi-dimensionality is somewhat limited. The emotional connection with the baby adds depth, yet the character's development under pressure could be more nuanced.",
+    "Intergenerational Span & Long-term Causality": "The story has a clear direction, exploring themes of truth versus deception and the cost of immortality. This is reflected in the plot, though further refinement could enhance its impact.",
+    "Institutional & Tech Ethical Complexity": "Conflict escalates as the protagonist discovers the drug's side effects and attempts to reveal the truth. However, the escalation could be more complex and intense, with more unexpected confrontations.",
+    "Investigative Drive & Clue Architecture": "The story includes internal struggles, interpersonal relationships, and societal opposition, but these conflicts could be more intricately woven to showcase a broader range of opposing forces.",
+    "Multi-layered Conflict": "Turning points are present, such as the discovery of the side effects and the infiltration of the government building, but they could be more impactful and rhythmically dynamic.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a dilemma between accepting reality and fighting against it, consistent with their character. The decision to use the drug at the end aligns with their emotional journey.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is emotionally charged, with the protagonist's acceptance of reality, but it lacks a profound value shift. The open-ended conclusion leaves room for deeper meaning.",
+    "Emotional Punch & Aftershock": "The controlling idea is conveyed through the protagonist's struggle and ultimate acceptance, but the expression could be clearer and more satisfying in terms of thematic resolution.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are adequate, with some originality in the dystopian setting and emotional connections. However, the dialogue and imagery could be richer and more authentic to avoid clichés."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "The premise of immortality drugs with hidden side effects is intriguing and poses a compelling \"what if?\" scenario. It has the potential to sustain a long narrative, though the exploration of its implications could be deeper."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The protagonist's motivations are clear, but their multi-dimensionality is somewhat limited. The emotional connection with the baby adds depth, yet the character's development under pressure could be more nuanced."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story has a clear direction, exploring themes of truth versus deception and the cost of immortality. This is reflected in the plot, though further refinement could enhance its impact."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "Conflict escalates as the protagonist discovers the drug's side effects and attempts to reveal the truth. However, the escalation could be more complex and intense, with more unexpected confrontations."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The story includes internal struggles, interpersonal relationships, and societal opposition, but these conflicts could be more intricately woven to showcase a broader range of opposing forces."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "Turning points are present, such as the discovery of the side effects and the infiltration of the government building, but they could be more impactful and rhythmically dynamic."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The protagonist faces a dilemma between accepting reality and fighting against it, consistent with their character. The decision to use the drug at the end aligns with their emotional journey."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The climax is emotionally charged, with the protagonist's acceptance of reality, but it lacks a profound value shift. The open-ended conclusion leaves room for deeper meaning."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "The controlling idea is conveyed through the protagonist's struggle and ultimate acceptance, but the expression could be clearer and more satisfying in terms of thematic resolution."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative details are adequate, with some originality in the dystopian setting and emotional connections. However, the dialogue and imagery could be richer and more authentic to avoid clichés."
+    }
+  ],
+  "overall_summary": "The narrative presents a poignant exploration of the consequences of immortality drugs in a dystopian future, focusing on an elderly protagonist's struggle to reveal the truth about their side effects. The story effectively captures themes of loss, desperation, and the futility of resistance against oppressive systems, though it could benefit from deeper character development and more nuanced conflict escalation.",
+  "total_score": 63,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a poignant exploration of the consequences of immortality drugs in a dystopian future, focusing on an elderly protagonist's struggle to reveal the truth about their side effects. The story effectively captures themes of loss, desperation, and the futility of resistance against oppressive systems, though it could benefit from deeper character development and more nuanced conflict escalation.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|7|The premise of immortality drugs with hidden side effects is intriguing and poses a compelling \"what if?\" scenario. It has the potential to sustain a long narrative, though the exploration of its implications could be deeper.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|6|The protagonist's motivations are clear, but their multi-dimensionality is somewhat limited. The emotional connection with the baby adds depth, yet the character's development under pressure could be more nuanced.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story has a clear direction, exploring themes of truth versus deception and the cost of immortality. This is reflected in the plot, though further refinement could enhance its impact.\nCRITERION_4|Progressive Escalation of Conflict|6|Conflict escalates as the protagonist discovers the drug's side effects and attempts to reveal the truth. However, the escalation could be more complex and intense, with more unexpected confrontations.\nCRITERION_5|Breadth and Levels of Conflict|6|The story includes internal struggles, interpersonal relationships, and societal opposition, but these conflicts could be more intricately woven to showcase a broader range of opposing forces.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|6|Turning points are present, such as the discovery of the side effects and the infiltration of the government building, but they could be more impactful and rhythmically dynamic.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|7|The protagonist faces a dilemma between accepting reality and fighting against it, consistent with their character. The decision to use the drug at the end aligns with their emotional journey.\nCRITERION_8| Impact and Depth of Meaning in the Climax|6|The climax is emotionally charged, with the protagonist's acceptance of reality, but it lacks a profound value shift. The open-ended conclusion leaves room for deeper meaning.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|6|The controlling idea is conveyed through the protagonist's struggle and ultimate acceptance, but the expression could be clearer and more satisfying in terms of thematic resolution.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative details are adequate, with some originality in the dystopian setting and emotional connections. However, the dialogue and imagery could be richer and more authentic to avoid clichés.\n===EVALUATION_END===",
+  "created_at": "2025-09-05T08:09:58.427543+00:00"
+}

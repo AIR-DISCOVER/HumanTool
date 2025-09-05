@@ -1,0 +1,86 @@
+{
+  "user_name": "赵欣",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在外星人入侵后，主角发现自己是神秘生物的后代，只有在生死关头才能与之建立心灵连接，激活古老的魔法力量，成为抵抗敌人和重建家园的关键。\r\n第二部分：第一幕\r\n\r\n地球上的人口急剧减少，外星人入侵导致人类面临灭绝的威胁。主角，一个年轻的幸存者，在一次生死攸关的逃亡中，与一种神秘生物建立了心灵连接，发现自己能够操控微弱的魔法。随着他探索这种力量，他意识到只有在极端情况下才能激活魔法，并开始寻找其他拥有相似能力的人，以联合起来对抗外星人。\r\n第三部分：第二幕\r\n\r\n主角和其他幸存者组成了一个小型抵抗组织，他们开始探索古代魔法的来源，并试图解开其秘密。经过调查，他们发现主角和幸存者们都曾在一次大爆炸中受到过神秘力量的辐射，这种能量与爆炸源相关的神秘生物有关。在一次关键的战斗中，主角再次面临生死关头，与神秘生物的连接使他的魔法力量大幅增强，成功地击退了外星人的进攻，激励了更多幸存者加入他们的行列。\r\n第四部分：第三幕\r\n\r\n随着抵抗力量的壮大，主角和他的团队发现古老魔法的来源与地球的核心息息相关，只有通过与神秘生物的心灵连接才能彻底激活。最终，他们决定发动一次全面反击，利用魔法的力量摧毁外星人的主舰。在高潮的战斗中，主角面临着选择：牺牲自己以确保胜利，还是保留力量以备未来之需。经过激烈的内心斗争，他选择了牺牲自己，成功地解放了地球。故事以幸存者们开始重建家园，魔法力量成为新世界的基石而结束。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 7,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of alien invasion combined with ancient magic is compelling and poses a strong \"what if?\" question about the protagonist's heritage and powers. It has the potential to sustain a long narrative.",
+    "Memory Anchors & Sensory Specificity": "The protagonist's character is somewhat developed through his discovery of powers and leadership role, but lacks depth in terms of personal desires and internal conflicts beyond the immediate survival and resistance.",
+    "Intergenerational Span & Long-term Causality": "The story has a clear direction towards themes of sacrifice and rebuilding, reflected in the protagonist's ultimate decision and the survivors' efforts to create a new world.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates effectively from survival to organized resistance and a climactic battle, though the complexity of confrontations could be further enhanced.",
+    "Investigative Drive & Clue Architecture": "The narrative includes external conflicts with aliens and internal struggles regarding the protagonist's powers, but interpersonal dynamics and broader societal implications could be more thoroughly explored.",
+    "Multi-layered Conflict": "Turning points are clear, such as the protagonist's discovery of powers and the decision to launch a final attack, creating a dynamic rhythm of tension and release.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a genuine dilemma in the climax, choosing between personal sacrifice and future preservation, consistent with his established character as a leader and savior.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is impactful with the protagonist's sacrifice leading to Earth's liberation, though the depth of meaning could be enriched with more emotional and philosophical exploration.",
+    "Emotional Punch & Aftershock": "The controlling idea of sacrifice for the greater good is clearly conveyed through the protagonist's actions and the survivors' rebuilding efforts, leaving a satisfying conclusion.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are functional but could benefit from more originality and refinement, particularly in dialogue and imagery to avoid clichés and enhance expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of alien invasion combined with ancient magic is compelling and poses a strong \"what if?\" question about the protagonist's heritage and powers. It has the potential to sustain a long narrative."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The protagonist's character is somewhat developed through his discovery of powers and leadership role, but lacks depth in terms of personal desires and internal conflicts beyond the immediate survival and resistance."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story has a clear direction towards themes of sacrifice and rebuilding, reflected in the protagonist's ultimate decision and the survivors' efforts to create a new world."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The conflict escalates effectively from survival to organized resistance and a climactic battle, though the complexity of confrontations could be further enhanced."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The narrative includes external conflicts with aliens and internal struggles regarding the protagonist's powers, but interpersonal dynamics and broader societal implications could be more thoroughly explored."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "Turning points are clear, such as the protagonist's discovery of powers and the decision to launch a final attack, creating a dynamic rhythm of tension and release."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The protagonist faces a genuine dilemma in the climax, choosing between personal sacrifice and future preservation, consistent with his established character as a leader and savior."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The climax is impactful with the protagonist's sacrifice leading to Earth's liberation, though the depth of meaning could be enriched with more emotional and philosophical exploration."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 7,
+      "justification": "The controlling idea of sacrifice for the greater good is clearly conveyed through the protagonist's actions and the survivors' rebuilding efforts, leaving a satisfying conclusion."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative details are functional but could benefit from more originality and refinement, particularly in dialogue and imagery to avoid clichés and enhance expression."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling science fiction premise involving alien invasion and ancient magic, with a protagonist who discovers his unique heritage and powers. The story unfolds through escalating conflicts and a climactic battle, ultimately exploring themes of sacrifice and rebuilding. While the premise is intriguing, the execution could benefit from deeper character development and more nuanced conflict dynamics.",
+  "total_score": 69,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling science fiction premise involving alien invasion and ancient magic, with a protagonist who discovers his unique heritage and powers. The story unfolds through escalating conflicts and a climactic battle, ultimately exploring themes of sacrifice and rebuilding. While the premise is intriguing, the execution could benefit from deeper character development and more nuanced conflict dynamics.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of alien invasion combined with ancient magic is compelling and poses a strong \"what if?\" question about the protagonist's heritage and powers. It has the potential to sustain a long narrative.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|6|The protagonist's character is somewhat developed through his discovery of powers and leadership role, but lacks depth in terms of personal desires and internal conflicts beyond the immediate survival and resistance.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story has a clear direction towards themes of sacrifice and rebuilding, reflected in the protagonist's ultimate decision and the survivors' efforts to create a new world.\nCRITERION_4|Progressive Escalation of Conflict|7|The conflict escalates effectively from survival to organized resistance and a climactic battle, though the complexity of confrontations could be further enhanced.\nCRITERION_5|Breadth and Levels of Conflict|6|The narrative includes external conflicts with aliens and internal struggles regarding the protagonist's powers, but interpersonal dynamics and broader societal implications could be more thoroughly explored.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|7|Turning points are clear, such as the protagonist's discovery of powers and the decision to launch a final attack, creating a dynamic rhythm of tension and release.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|8|The protagonist faces a genuine dilemma in the climax, choosing between personal sacrifice and future preservation, consistent with his established character as a leader and savior.\nCRITERION_8| Impact and Depth of Meaning in the Climax|7|The climax is impactful with the protagonist's sacrifice leading to Earth's liberation, though the depth of meaning could be enriched with more emotional and philosophical exploration.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|7|The controlling idea of sacrifice for the greater good is clearly conveyed through the protagonist's actions and the survivors' rebuilding efforts, leaving a satisfying conclusion.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative details are functional but could benefit from more originality and refinement, particularly in dialogue and imagery to avoid clichés and enhance expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-03T03:17:14.686987+00:00"
+}

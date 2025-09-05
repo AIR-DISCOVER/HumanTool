@@ -1,0 +1,86 @@
+{
+  "user_name": "测试对照",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在外星人入侵导致人类数量骤减后，幸存者们发现古老的魔法力量重新觉醒，并成为抵抗外星侵略的关键，然而在胜利的曙光中，他们面临着信任与背叛的重大转折。\r\n第二部分：第一幕\r\n\r\n故事开始于一个古老的传说，讲述人类曾经拥有强大的魔法力量，但随着人口增长，魔力逐渐消散。随着外星人入侵，地球陷入混乱，人口锐减，幸存者们在废墟中挣扎求生。主角艾琳在一次逃亡中偶然发现自己能够使用魔法，她意识到这种力量可能是对抗外星人的唯一希望。\r\n第三部分：第二幕\r\n\r\n艾琳开始寻找其他幸存者，希望能组建一个抵抗力量。她遇到了同样拥有魔法能力的几位伙伴，他们决定一起探索古老的魔法遗迹，以增强自己的力量。在旅途中，他们面临外星人的追捕和内部的信任危机，尤其是当一位伙伴被怀疑是外星人的间谍时，团队的团结受到严重考验，但随着魔法的逐渐觉醒，他们的力量也在不断增强。\r\n第四部分：第三幕\r\n\r\n在最终的决战中，艾琳和她的伙伴们利用觉醒的魔法力量与外星人展开激烈对抗。在关键时刻，曾被怀疑的伙伴挺身而出，牺牲自己以确保团队的胜利，揭示了他真正的忠诚。通过智慧和勇气，他们成功击退了外星人，保护了地球的幸存者。随着胜利的到来，古老的魔法力量重新成为人类的一部分，艾琳和她的伙伴们开始重建家园，迎接新的未来。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 8,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 0,
+    "Hierarchy of Beats & Midpoint/Climax Design": 5,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The core concept of ancient magic reawakening to combat an alien threat is intriguing and provides a solid foundation for the narrative. The protagonist, Aileen, is driven by a clear goal, but her multidimensionality and internal conflicts could be further developed to deepen the story's emotional resonance.",
+    "Memory Anchors & Sensory Specificity": "The setting of a post-invasion Earth with ancient magic is interesting, but lacks detailed description and specificity. The inciting incident, Aileen discovering her magical abilities, effectively sets the story in motion, though it could be more vividly depicted to enhance its impact.",
+    "Intergenerational Span & Long-term Causality": "The narrative follows a clear three-act structure with escalating conflicts, both external (alien pursuit) and internal (trust issues within the group). The tension is maintained well, but the antagonistic forces could be more nuanced to add complexity to the plot.",
+    "Institutional & Tech Ethical Complexity": "The climax is impactful, with a significant sacrifice that resolves the trust issues and confirms the controlling idea of loyalty and redemption. The resolution is satisfying, leaving a sense of hope and renewal, though the crisis could be more intensely portrayed to heighten the stakes.",
+    "Investigative Drive & Clue Architecture": "The narrative could benefit from more vivid sensory details and descriptions to create a more immersive experience for the reader.",
+    "Multi-layered Conflict": "Dialogue and interactions among characters are functional but could be more distinctive and revealing of character personalities and dynamics.",
+    "Value Turns & Causal Cohesion": "",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The pacing is generally effective, but certain transitions between scenes could be smoother to maintain narrative flow.",
+    "Emotional Punch & Aftershock": "The story's emotional impact is moderate; deeper character exploration and more intense emotional moments could enhance reader engagement.",
+    "Dual Resonance of Ending: Personal & Public": "The resolution provides a hopeful conclusion and sets the stage for potential future developments, effectively closing the narrative arc."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "The core concept of ancient magic reawakening to combat an alien threat is intriguing and provides a solid foundation for the narrative. The protagonist, Aileen, is driven by a clear goal, but her multidimensionality and internal conflicts could be further developed to deepen the story's emotional resonance."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The setting of a post-invasion Earth with ancient magic is interesting, but lacks detailed description and specificity. The inciting incident, Aileen discovering her magical abilities, effectively sets the story in motion, though it could be more vividly depicted to enhance its impact."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The narrative follows a clear three-act structure with escalating conflicts, both external (alien pursuit) and internal (trust issues within the group). The tension is maintained well, but the antagonistic forces could be more nuanced to add complexity to the plot."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 8,
+      "justification": "The climax is impactful, with a significant sacrifice that resolves the trust issues and confirms the controlling idea of loyalty and redemption. The resolution is satisfying, leaving a sense of hope and renewal, though the crisis could be more intensely portrayed to heighten the stakes."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "The narrative could benefit from more vivid sensory details and descriptions to create a more immersive experience for the reader."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "Dialogue and interactions among characters are functional but could be more distinctive and revealing of character personalities and dynamics."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 0,
+      "justification": ""
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 5,
+      "justification": "The pacing is generally effective, but certain transitions between scenes could be smoother to maintain narrative flow."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "The story's emotional impact is moderate; deeper character exploration and more intense emotional moments could enhance reader engagement."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The resolution provides a hopeful conclusion and sets the stage for potential future developments, effectively closing the narrative arc."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling blend of science fiction and fantasy, where ancient magic resurfaces as a means to combat an alien invasion. The story is structured around a classic three-act framework, with a focus on themes of trust, betrayal, and redemption. While the premise is intriguing and the plot is well-paced, the character development and world-building could benefit from more depth and specificity to enhance the emotional impact and immersion.",
+  "total_score": 57,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling blend of science fiction and fantasy, where ancient magic resurfaces as a means to combat an alien invasion. The story is structured around a classic three-act framework, with a focus on themes of trust, betrayal, and redemption. While the premise is intriguing and the plot is well-paced, the character development and world-building could benefit from more depth and specificity to enhance the emotional impact and immersion.\n\nCRITERION_SCORES:\nCRITERION_1|Phase one -- Core Concept & Character Drive|7|The core concept of ancient magic reawakening to combat an alien threat is intriguing and provides a solid foundation for the narrative. The protagonist, Aileen, is driven by a clear goal, but her multidimensionality and internal conflicts could be further developed to deepen the story's emotional resonance.\nCRITERION_2|Phase two -- World Setting & Inciting Incident|6|The setting of a post-invasion Earth with ancient magic is interesting, but lacks detailed description and specificity. The inciting incident, Aileen discovering her magical abilities, effectively sets the story in motion, though it could be more vividly depicted to enhance its impact.\nCRITERION_3|Phase three -- Structural Development & Conflict Escalation)|7|The narrative follows a clear three-act structure with escalating conflicts, both external (alien pursuit) and internal (trust issues within the group). The tension is maintained well, but the antagonistic forces could be more nuanced to add complexity to the plot.\nCRITERION_4|Phase four -- Crisis, Climax & Controlling Idea Confirmation|8|The climax is impactful, with a significant sacrifice that resolves the trust issues and confirms the controlling idea of loyalty and redemption. The resolution is satisfying, leaving a sense of hope and renewal, though the crisis could be more intensely portrayed to heighten the stakes.\nCRITERION_5| |5|The narrative could benefit from more vivid sensory details and descriptions to create a more immersive experience for the reader.\nCRITERION_6| |6|Dialogue and interactions among characters are functional but could be more distinctive and revealing of character personalities and dynamics.\nCRITERION_7||6|The theme of trust and betrayal is present but could be explored with more depth and subtlety to enhance the story's thematic richness.\nCRITERION_8| |5|The pacing is generally effective, but certain transitions between scenes could be smoother to maintain narrative flow.\nCRITERION_9| |6|The story's emotional impact is moderate; deeper character exploration and more intense emotional moments could enhance reader engagement.\nCRITERION_10| |7|The resolution provides a hopeful conclusion and sets the stage for potential future developments, effectively closing the narrative arc.\n===EVALUATION_END===",
+  "created_at": "2025-09-02T09:57:28.815547+00:00"
+}

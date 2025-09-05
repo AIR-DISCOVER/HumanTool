@@ -1,0 +1,86 @@
+{
+  "user_name": "test4-1",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括 在人类被外星人入侵削减至微不足道的数量后，幸存者们发现古老的魔法力量重新觉醒，他们必须团结一致，利用各自独特的魔法能力对抗外星入侵者，重建人类的未来。\r\n\r\n第二部分：第一幕 在一个被外星人摧毁的地球上，年轻的幸存者艾琳发现自己能够感知到一种古老的魔法力量，这种力量源于地球的核心，与人类的精神和情感紧密相连。起初，她对这股力量感到恐惧和怀疑，但当她的家人被外星人抓走后，她意识到这可能是唯一的希望。在一位神秘老人的指引下，艾琳决定踏上寻找其他幸存者并唤醒他们潜在魔力的旅程，她发现每个幸存者的魔法能力各不相同，有的能够操控自然元素，有的则能影响外星人的科技。\r\n\r\n第三部分：第二幕 艾琳在旅途中遇到了其他拥有魔法潜力的幸存者，包括一位曾是科学家的年轻男子，他的魔法可以解析和破解外星科技，还有一名失去家人的小女孩，她能与动物沟通并操控它们的力量。他们组成了一个小团队，在探索废墟城市的过程中逐渐掌握了各自的魔法使用，并与外星人展开小规模的对抗。随着他们的力量增强，艾琳发现外星人也在寻找一种能够彻底消灭人类的终极武器。在一次行动中，他们误入外星人的陷阱，艾琳被迫面对自己的内心恐惧和责任感，她意识到必须团结所有幸存者才能对抗外星人。\r\n\r\n第四部分：第三幕 在最终的对决中，艾琳和她的团队成功召集了更多的幸存者，并在一场激烈的战斗中利用各自的魔法力量摧毁了外星人的终极武器。就在他们以为胜利在望时，外星人启动了一个隐藏的自毁程序，艾琳在关键时刻做出了牺牲自我的选择，激发了所有幸存者的潜能，最终击退了外星人。随着战斗的结束，幸存者们开始重建家园，艾琳的勇气和牺牲成为了新世界的基石，魔法力量也重新成为人类生活的一部分，象征着人类与地球的重新连接。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 4,
+    "Intergenerational Span & Long-term Causality": 3,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 4,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 5,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "Eileen's character is developed through her discovery of magical powers and her internal struggle with fear and responsibility. Her dilemma is driven by the need to save humanity, culminating in her self-sacrifice. However, the internal transformation is somewhat predictable and lacks nuanced exploration.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks specific sensory details and recurring memory anchors that could enhance emotional depth. While the magic is linked to Earth's core, sensory descriptions are minimal and abstract, missing opportunities for deeper connection.",
+    "Intergenerational Span & Long-term Causality": "The story does not effectively utilize intergenerational timelines or long-term consequences. The focus remains on immediate events without exploring generational differences or the long-term impact of actions.",
+    "Institutional & Tech Ethical Complexity": "The alien invaders are depicted as a monolithic threat without nuanced motives. The narrative briefly touches on alien technology but lacks depth in exploring institutional complexity or ethical dilemmas.",
+    "Investigative Drive & Clue Architecture": "The plot includes elements of discovery and exploration, but lacks a structured investigative drive. Clues and revelations are straightforward, with limited suspense or layered complexity.",
+    "Multi-layered Conflict": "The story incorporates internal, interpersonal, and extra-personal conflicts, such as Eileen's fears, team dynamics, and the alien threat. These conflicts are present but could be more intricately woven to amplify tension.",
+    "Value Turns & Causal Cohesion": "The narrative includes value shifts, such as fear to courage, but these transitions are often predictable and lack causal depth. The plot progression relies on straightforward action rather than complex motivation-action-effect chains.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The narrative structure includes a clear climax with Eileen's sacrifice, but the escalation towards this point lacks a compelling midpoint reversal. The climax is impactful but somewhat expected.",
+    "Emotional Punch & Aftershock": "Key scenes, such as Eileen's sacrifice, aim for emotional impact but do not fully resonate in subsequent text. The emotional aftershocks are limited, with the focus shifting quickly to rebuilding efforts.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and public dimensions, with Eileen's sacrifice impacting survivors and societal rebuilding. While the resolution is satisfying, it lacks moral ambiguity or open-ended complexity."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "Eileen's character is developed through her discovery of magical powers and her internal struggle with fear and responsibility. Her dilemma is driven by the need to save humanity, culminating in her self-sacrifice. However, the internal transformation is somewhat predictable and lacks nuanced exploration."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 4,
+      "justification": "The narrative lacks specific sensory details and recurring memory anchors that could enhance emotional depth. While the magic is linked to Earth's core, sensory descriptions are minimal and abstract, missing opportunities for deeper connection."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 3,
+      "justification": "The story does not effectively utilize intergenerational timelines or long-term consequences. The focus remains on immediate events without exploring generational differences or the long-term impact of actions."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The alien invaders are depicted as a monolithic threat without nuanced motives. The narrative briefly touches on alien technology but lacks depth in exploring institutional complexity or ethical dilemmas."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 4,
+      "justification": "The plot includes elements of discovery and exploration, but lacks a structured investigative drive. Clues and revelations are straightforward, with limited suspense or layered complexity."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The story incorporates internal, interpersonal, and extra-personal conflicts, such as Eileen's fears, team dynamics, and the alien threat. These conflicts are present but could be more intricately woven to amplify tension."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 5,
+      "justification": "The narrative includes value shifts, such as fear to courage, but these transitions are often predictable and lack causal depth. The plot progression relies on straightforward action rather than complex motivation-action-effect chains."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The narrative structure includes a clear climax with Eileen's sacrifice, but the escalation towards this point lacks a compelling midpoint reversal. The climax is impactful but somewhat expected."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "Key scenes, such as Eileen's sacrifice, aim for emotional impact but do not fully resonate in subsequent text. The emotional aftershocks are limited, with the focus shifting quickly to rebuilding efforts."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The ending addresses both personal and public dimensions, with Eileen's sacrifice impacting survivors and societal rebuilding. While the resolution is satisfying, it lacks moral ambiguity or open-ended complexity."
+    }
+  ],
+  "overall_summary": "The narrative presents a post-apocalyptic scenario where human survivors must harness ancient magical powers to combat alien invaders. The story follows the protagonist, Eileen, as she discovers her magical abilities and leads a group of survivors in a battle against the aliens. The plot explores themes of courage, sacrifice, and unity, culminating in a climactic confrontation that results in Eileen's self-sacrifice and the eventual rebuilding of humanity.",
+  "total_score": 51,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a post-apocalyptic scenario where human survivors must harness ancient magical powers to combat alien invaders. The story follows the protagonist, Eileen, as she discovers her magical abilities and leads a group of survivors in a battle against the aliens. The plot explores themes of courage, sacrifice, and unity, culminating in a climactic confrontation that results in Eileen's self-sacrifice and the eventual rebuilding of humanity.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Moral Dilemma Arc|6|Eileen's character is developed through her discovery of magical powers and her internal struggle with fear and responsibility. Her dilemma is driven by the need to save humanity, culminating in her self-sacrifice. However, the internal transformation is somewhat predictable and lacks nuanced exploration.\nCRITERION_2|Memory Anchors & Sensory Specificity|4|The narrative lacks specific sensory details and recurring memory anchors that could enhance emotional depth. While the magic is linked to Earth's core, sensory descriptions are minimal and abstract, missing opportunities for deeper connection.\nCRITERION_3|Intergenerational Span & Long-term Causality|3|The story does not effectively utilize intergenerational timelines or long-term consequences. The focus remains on immediate events without exploring generational differences or the long-term impact of actions.\nCRITERION_4|Institutional & Tech Ethical Complexity|5|The alien invaders are depicted as a monolithic threat without nuanced motives. The narrative briefly touches on alien technology but lacks depth in exploring institutional complexity or ethical dilemmas.\nCRITERION_5|Investigative Drive & Clue Architecture|4|The plot includes elements of discovery and exploration, but lacks a structured investigative drive. Clues and revelations are straightforward, with limited suspense or layered complexity.\nCRITERION_6|Multi-layered Conflict|6|The story incorporates internal, interpersonal, and extra-personal conflicts, such as Eileen's fears, team dynamics, and the alien threat. These conflicts are present but could be more intricately woven to amplify tension.\nCRITERION_7|Value Turns & Causal Cohesion|5|The narrative includes value shifts, such as fear to courage, but these transitions are often predictable and lack causal depth. The plot progression relies on straightforward action rather than complex motivation-action-effect chains.\nCRITERION_8|Hierarchy of Beats & Midpoint/Climax Design|6|The narrative structure includes a clear climax with Eileen's sacrifice, but the escalation towards this point lacks a compelling midpoint reversal. The climax is impactful but somewhat expected.\nCRITERION_9|Emotional Punch & Aftershock|5|Key scenes, such as Eileen's sacrifice, aim for emotional impact but do not fully resonate in subsequent text. The emotional aftershocks are limited, with the focus shifting quickly to rebuilding efforts.\nCRITERION_10|Dual Resonance of Ending: Personal & Public|7|The ending addresses both personal and public dimensions, with Eileen's sacrifice impacting survivors and societal rebuilding. While the resolution is satisfying, it lacks moral ambiguity or open-ended complexity.\n===EVALUATION_END===",
+  "created_at": "2025-08-30T03:04:16.764811+00:00"
+}

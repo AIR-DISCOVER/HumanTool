@@ -1,0 +1,86 @@
+{
+  "user_name": "杨婉乔",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在外星人入侵导致人类数量骤减后，幸存者们发现古老的魔法力量重新觉醒，并成为抵抗外星侵略的关键，然而在胜利的曙光中，他们面临着信任与背叛的重大转折。\r\n第二部分：第一幕\r\n\r\n故事开始于一个古老的传说，讲述人类曾经拥有强大的魔法力量，但随着人口增长，魔力逐渐消散。随着外星人入侵，地球陷入混乱，人口锐减，幸存者们在废墟中挣扎求生。主角艾琳在一次逃亡中偶然发现自己能够使用魔法，她意识到这种力量可能是对抗外星人的唯一希望。\r\n第三部分：第二幕\r\n\r\n艾琳开始寻找其他幸存者，希望能组建一个抵抗力量。她遇到了同样拥有魔法能力的几位伙伴，他们决定一起探索古老的魔法遗迹，以增强自己的力量。在旅途中，他们面临外星人的追捕和内部的信任危机，尤其是当一位伙伴被怀疑是外星人的间谍时，团队的团结受到严重考验，但随着魔法的逐渐觉醒，他们的力量也在不断增强。\r\n第四部分：第三幕\r\n\r\n在最终的决战中，艾琳和她的伙伴们利用觉醒的魔法力量与外星人展开激烈对抗。在关键时刻，曾被怀疑的伙伴挺身而出，牺牲自己以确保团队的胜利，揭示了他真正的忠诚。通过智慧和勇气，他们成功击退了外星人，保护了地球的幸存者。随着胜利的到来，古老的魔法力量重新成为人类的一部分，艾琳和她的伙伴们开始重建家园，迎接新的未来。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 8,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist, Aileen, faces a complex task of mastering her newfound magical abilities while leading a group against alien invaders. Her internal conflict and growth are evident as she navigates trust issues within her team. However, the depth of her psychological evolution could be further explored.",
+    "Memory Anchors & Sensory Specificity": "The theme of rediscovering ancient magic as a means of survival is consistently woven throughout the narrative. The story effectively echoes themes of trust and betrayal, culminating in a resolution that reflects the initial thematic motifs.",
+    "Intergenerational Span & Long-term Causality": "The central conflict between humans and aliens is clear and escalates throughout the narrative. The tension is heightened by internal team dynamics and suspicions of betrayal, although the resolution of these conflicts could be more nuanced.",
+    "Institutional & Tech Ethical Complexity": "The narrative touches on the ethical implications of using magic against technologically advanced aliens but lacks a detailed exploration of institutional motives or technological ethics.",
+    "Investigative Drive & Clue Architecture": "The story includes elements of discovery and exploration, particularly in the search for magical relics. However, the investigative aspect could be more pronounced with a clearer architecture of clues and risks.",
+    "Multi-layered Conflict": "The narrative successfully integrates interpersonal trust issues with the overarching alien threat, creating multi-layered conflicts. The suspicion of a team member being an alien spy adds depth to the interpersonal dynamics.",
+    "Value Turns & Causal Cohesion": "The story demonstrates shifts in values, particularly in the characters' trust and loyalty, driven by the unfolding events. The causal relationships between actions and consequences are generally well-maintained.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The structure follows a clear progression from discovery to confrontation, with effective turning points such as the revelation of a spy within the team. The pacing maintains tension, though some transitions could be smoother.",
+    "Emotional Punch & Aftershock": "Key scenes, such as the sacrifice of a suspected spy, deliver strong emotional impact and resonate throughout the narrative, affecting relationships and values.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses personal and social dimensions, with the reintegration of magic into human society. However, the moral ambiguity could be more pronounced, as the resolution leans towards a simplistic victory."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "The protagonist, Aileen, faces a complex task of mastering her newfound magical abilities while leading a group against alien invaders. Her internal conflict and growth are evident as she navigates trust issues within her team. However, the depth of her psychological evolution could be further explored."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 8,
+      "justification": "The theme of rediscovering ancient magic as a means of survival is consistently woven throughout the narrative. The story effectively echoes themes of trust and betrayal, culminating in a resolution that reflects the initial thematic motifs."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The central conflict between humans and aliens is clear and escalates throughout the narrative. The tension is heightened by internal team dynamics and suspicions of betrayal, although the resolution of these conflicts could be more nuanced."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The narrative touches on the ethical implications of using magic against technologically advanced aliens but lacks a detailed exploration of institutional motives or technological ethics."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The story includes elements of discovery and exploration, particularly in the search for magical relics. However, the investigative aspect could be more pronounced with a clearer architecture of clues and risks."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The narrative successfully integrates interpersonal trust issues with the overarching alien threat, creating multi-layered conflicts. The suspicion of a team member being an alien spy adds depth to the interpersonal dynamics."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The story demonstrates shifts in values, particularly in the characters' trust and loyalty, driven by the unfolding events. The causal relationships between actions and consequences are generally well-maintained."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The structure follows a clear progression from discovery to confrontation, with effective turning points such as the revelation of a spy within the team. The pacing maintains tension, though some transitions could be smoother."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "Key scenes, such as the sacrifice of a suspected spy, deliver strong emotional impact and resonate throughout the narrative, affecting relationships and values."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The ending addresses personal and social dimensions, with the reintegration of magic into human society. However, the moral ambiguity could be more pronounced, as the resolution leans towards a simplistic victory."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling framework of a post-apocalyptic world where ancient magic resurfaces as a tool against alien invaders. The story is structured around the protagonist, Aileen, who discovers her magical abilities and leads a group of survivors in a fight for humanity's survival. The plot explores themes of trust, betrayal, and sacrifice, culminating in a climactic battle that tests the characters' loyalty and courage.",
+  "total_score": 68,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling framework of a post-apocalyptic world where ancient magic resurfaces as a tool against alien invaders. The story is structured around the protagonist, Aileen, who discovers her magical abilities and leads a group of survivors in a fight for humanity's survival. The plot explores themes of trust, betrayal, and sacrifice, culminating in a climactic battle that tests the characters' loyalty and courage.\n\nCRITERION_SCORES:\nCRITERION_1|Task Depth & Character Development|7|The protagonist, Aileen, faces a complex task of mastering her newfound magical abilities while leading a group against alien invaders. Her internal conflict and growth are evident as she navigates trust issues within her team. However, the depth of her psychological evolution could be further explored.\nCRITERION_2|Thematic Coherence|8|The theme of rediscovering ancient magic as a means of survival is consistently woven throughout the narrative. The story effectively echoes themes of trust and betrayal, culminating in a resolution that reflects the initial thematic motifs.\nCRITERION_3|Central Conflict & Dramatic Tension|7|The central conflict between humans and aliens is clear and escalates throughout the narrative. The tension is heightened by internal team dynamics and suspicions of betrayal, although the resolution of these conflicts could be more nuanced.\nCRITERION_4|Complexity of Institutional & Technological Ethics|5|The narrative touches on the ethical implications of using magic against technologically advanced aliens but lacks a detailed exploration of institutional motives or technological ethics.\nCRITERION_5|Investigative Drive & Clue Architecture|6|The story includes elements of discovery and exploration, particularly in the search for magical relics. However, the investigative aspect could be more pronounced with a clearer architecture of clues and risks.\nCRITERION_6|Multi-layered Conflict|7|The narrative successfully integrates interpersonal trust issues with the overarching alien threat, creating multi-layered conflicts. The suspicion of a team member being an alien spy adds depth to the interpersonal dynamics.\nCRITERION_7|Value Shifts & Causal Cohesion|7|The story demonstrates shifts in values, particularly in the characters' trust and loyalty, driven by the unfolding events. The causal relationships between actions and consequences are generally well-maintained.\nCRITERION_8|Structural Hierarchy, Pacing & Effective Turning Points|7|The structure follows a clear progression from discovery to confrontation, with effective turning points such as the revelation of a spy within the team. The pacing maintains tension, though some transitions could be smoother.\nCRITERION_9|Emotional Impact & Aftershock|8|Key scenes, such as the sacrifice of a suspected spy, deliver strong emotional impact and resonate throughout the narrative, affecting relationships and values.\nCRITERION_10|Dual Resonance & Moral Ambiguity of the Ending|6|The ending addresses personal and social dimensions, with the reintegration of magic into human society. However, the moral ambiguity could be more pronounced, as the resolution leans towards a simplistic victory.\n===EVALUATION_END===",
+  "created_at": "2025-09-01T12:40:01.572446+00:00"
+}

@@ -1,0 +1,86 @@
+{
+  "user_name": "zbx3",
+  "user_group": "writing_b2",
+  "user_group_display": "写作 B-2",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个因永生药物引发社会不平等的未来，85岁的主角揭露药物的致命副作用，挑战不公制度，唤醒被遗忘的“迷失的一代”，最终推动社会变革，呼唤人们重新审视生命的真正价值。\r\n第二部分：第一幕\r\n\r\n故事开始于主角28岁时，科学界宣布发现一种能阻止衰老的药物，但政府只将其提供给26岁以下的公民，主角和“迷失的一代”被排除在外。面对教育、医疗、住房等方面的巨大压力，政府推出永生药物作为缓解社会矛盾的解决方案，然而，主角心怀不满却无能为力，只能看着年轻一代享受永生的特权。随着时间推移，主角逐渐接受了自己的命运，直到85岁时，药物的副作用开始显现，年轻一代的健康状况急剧恶化，社会陷入恐慌。\r\n第三部分：第二幕\r\n\r\n主角意识到这是揭露真相的机会，他开始调查药物的真实影响，并与其他“迷失的一代”成员联手，收集证据。随着调查深入，主角发现政府和制药公司早已知晓副作用，却选择隐瞒真相以维持权力和利益。药物的副作用不仅导致身体机能的崩溃，还引发了严重的心理问题，年轻一代的精神状态逐渐恶化。主角面临内心的挣扎，是否要冒险揭露真相，最终在一次公共演讲中，他勇敢地揭示了药物的危害，引发社会的广泛关注和抗议。\r\n第四部分：第三幕\r\n\r\n在社会动荡中，主角和他的盟友们面临来自政府和制药公司的强烈反击，但他们坚定不移，继续推动真相的传播。最终，随着越来越多的证据曝光，政府被迫承认错误，停止药物的分发，并开始研究解决方案。主角在这一过程中找到了内心的平衡，虽然无法获得永生，但他通过自己的努力改变了社会的不公，迎来了一个更加公平的未来。结尾处，人们开始反思生命的意义，意识到真正的永生在于对生命价值的理解和珍惜。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 5,
+    "Hierarchy of Beats & Midpoint/Climax Design": 5,
+    "Emotional Punch & Aftershock": 5,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The story offers a unique thematic perspective by exploring the implications of immortality on societal inequality and the true value of life. It goes beyond simple critique to propose a deeper reflection on life's meaning.",
+    "Memory Anchors & Sensory Specificity": "The plot is driven by the protagonist's investigation into the drug's effects, creating a narrative tension based on uncovering hidden truths rather than resolving a crisis, which is effectively executed.",
+    "Intergenerational Span & Long-term Causality": "The protagonist demonstrates significant agency and growth, evolving from a passive observer to an active definer of his destiny, using his unique perspective to challenge societal norms and drive change.",
+    "Institutional & Tech Ethical Complexity": "The setting is based on a thought-provoking concept of a society divided by access to immortality. This core idea is integral to the story's appeal, sparking curiosity and intellectual engagement.",
+    "Investigative Drive & Clue Architecture": "The structure supports the core concept adequately, with a clear progression from the protagonist's initial acceptance of fate to his eventual role in societal change. However, it could further enhance the protagonist's journey with more unconventional pacing.",
+    "Multi-layered Conflict": "The ethical dilemma of exposing the drug's truth versus maintaining societal stability is well-explored, with the protagonist's choice reflecting long-term wisdom and responsibility beyond simple right or wrong.",
+    "Value Turns & Causal Cohesion": "The emotional depth is conveyed through the protagonist's internal struggle and eventual acceptance of his role in societal change. However, it could benefit from more sensory details and daily routines to deepen the emotional resonance.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The story contains moments of inspiration, particularly in the protagonist's public revelation of the drug's effects. These moments could be more vividly detailed to enhance their impact.",
+    "Emotional Punch & Aftershock": "The narrative voice effectively conveys the protagonist's journey and the societal issues at play. However, it could further reflect the uniqueness of the protagonist's perspective and the world-view.",
+    "Dual Resonance of Ending: Personal & Public": "The ending opens up new possibilities by prompting a societal reflection on the true value of life, offering a constructive shift in values and leaving the reader with a hopeful imaginative space."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "The story offers a unique thematic perspective by exploring the implications of immortality on societal inequality and the true value of life. It goes beyond simple critique to propose a deeper reflection on life's meaning."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The plot is driven by the protagonist's investigation into the drug's effects, creating a narrative tension based on uncovering hidden truths rather than resolving a crisis, which is effectively executed."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The protagonist demonstrates significant agency and growth, evolving from a passive observer to an active definer of his destiny, using his unique perspective to challenge societal norms and drive change."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "The setting is based on a thought-provoking concept of a society divided by access to immortality. This core idea is integral to the story's appeal, sparking curiosity and intellectual engagement."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "The structure supports the core concept adequately, with a clear progression from the protagonist's initial acceptance of fate to his eventual role in societal change. However, it could further enhance the protagonist's journey with more unconventional pacing."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The ethical dilemma of exposing the drug's truth versus maintaining societal stability is well-explored, with the protagonist's choice reflecting long-term wisdom and responsibility beyond simple right or wrong."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 5,
+      "justification": "The emotional depth is conveyed through the protagonist's internal struggle and eventual acceptance of his role in societal change. However, it could benefit from more sensory details and daily routines to deepen the emotional resonance."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 5,
+      "justification": "The story contains moments of inspiration, particularly in the protagonist's public revelation of the drug's effects. These moments could be more vividly detailed to enhance their impact."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 5,
+      "justification": "The narrative voice effectively conveys the protagonist's journey and the societal issues at play. However, it could further reflect the uniqueness of the protagonist's perspective and the world-view."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The ending opens up new possibilities by prompting a societal reflection on the true value of life, offering a constructive shift in values and leaving the reader with a hopeful imaginative space."
+    }
+  ],
+  "overall_summary": "The story presents a compelling narrative set in a dystopian future where a drug for immortality creates societal inequality. The protagonist, initially powerless, becomes a catalyst for change by exposing the drug's harmful effects. The narrative explores themes of justice, the value of life, and societal responsibility, with a strong focus on the protagonist's growth and the ethical dilemmas faced.",
+  "total_score": 58,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The story presents a compelling narrative set in a dystopian future where a drug for immortality creates societal inequality. The protagonist, initially powerless, becomes a catalyst for change by exposing the drug's harmful effects. The narrative explores themes of justice, the value of life, and societal responsibility, with a strong focus on the protagonist's growth and the ethical dilemmas faced.\n\nCRITERION_SCORES:\nCRITERION_1|Originality of Thematic Perspective|7|The story offers a unique thematic perspective by exploring the implications of immortality on societal inequality and the true value of life. It goes beyond simple critique to propose a deeper reflection on life's meaning.\nCRITERION_2|The Creative Engine / Driving Force of the Core Concept|6|The plot is driven by the protagonist's investigation into the drug's effects, creating a narrative tension based on uncovering hidden truths rather than resolving a crisis, which is effectively executed.\nCRITERION_3|Protagonist's Agency and Growth Arc|7|The protagonist demonstrates significant agency and growth, evolving from a passive observer to an active definer of his destiny, using his unique perspective to challenge societal norms and drive change.\nCRITERION_4|Conceptual Setting & The Thought Experiment|6|The setting is based on a thought-provoking concept of a society divided by access to immortality. This core idea is integral to the story's appeal, sparking curiosity and intellectual engagement.\nCRITERION_5|Fit Between Concept and Structure|5|The structure supports the core concept adequately, with a clear progression from the protagonist's initial acceptance of fate to his eventual role in societal change. However, it could further enhance the protagonist's journey with more unconventional pacing.\nCRITERION_6|Speculative Depth of the Ethical Dilemma|6|The ethical dilemma of exposing the drug's truth versus maintaining societal stability is well-explored, with the protagonist's choice reflecting long-term wisdom and responsibility beyond simple right or wrong.\nCRITERION_7|Emotional Penetration of the Core Concept|5|The emotional depth is conveyed through the protagonist's internal struggle and eventual acceptance of his role in societal change. However, it could benefit from more sensory details and daily routines to deepen the emotional resonance.\nCRITERION_8|Presentation of 'Inspired Moments' / Creative Sparks|5|The story contains moments of inspiration, particularly in the protagonist's public revelation of the drug's effects. These moments could be more vividly detailed to enhance their impact.\nCRITERION_9|Narrative Voice as a Vehicle for the Concept|5|The narrative voice effectively conveys the protagonist's journey and the societal issues at play. However, it could further reflect the uniqueness of the protagonist's perspective and the world-view.\nCRITERION_10|The Generative Nature and Imaginative Space of the Ending|6|The ending opens up new possibilities by prompting a societal reflection on the true value of life, offering a constructive shift in values and leaving the reader with a hopeful imaginative space.\n===EVALUATION_END===",
+  "created_at": "2025-09-01T02:27:12.803019+00:00"
+}

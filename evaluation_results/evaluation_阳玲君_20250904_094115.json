@@ -1,0 +1,86 @@
+{
+  "user_name": "阳玲君",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n在外星人入侵后，人类逐渐恢复失去的魔法力量，通过艰难的斗争，最终重建家园。\r\n第二部分：第一幕\r\n故事开始于一个混乱的地球，人口过多导致魔力消失，外星人入侵并占据上风。男女主角慕华和沈玉在小镇上生活，外星人将军阿尔法的军队开始大规模屠杀人类。幸存者们在绝望中发现，随着人口减少，古老的魔法力量开始重新觉醒。李明和王晓决定联合其他幸存者，寻找恢复魔力的方法，并遇到了性格较弱的男配角张继和父母双亡的少年萧萧，冷漠其实心软，大家一起组成了小队，张继他的力量提升缓慢，但大家对勇敢的鼓励他。\r\n第三部分：第二幕\r\n在寻找魔力恢复的方法过程中，慕华和沈玉与张继一起穿越废墟，寻找传说中的魔法遗迹，期间他们的感情逐渐升温，意识到彼此的重要性。然而，他们的计划被外星人将军阿尔法发现，导致一次失败的偷袭。张继在激烈的战斗中牺牲，激励慕华和沈玉继续前行。随着魔力逐渐恢复，慕华掌握了雷系力量，沈玉也获得了新的能力治愈，他们准备与外星人展开最终对决。\r\n第四部分：第三幕\r\n在地球母亲的帮助下，幸存者们的力量被全面提升，爆发出自然的量。男二萧萧在古武世家的隐士高人的引导下，召唤出黑洞，与外星人将军阿尔法同归于尽。慕华带领幸存者们利用恢复的魔法力量击败了其他外星人，虽然胜利来之不易，但他们意识到自然需要被好好保护，以防止未来的灾难。故事结尾，慕华和沈玉和幸存者们开始重建家园，承诺不再重蹈覆辙，珍惜自然与魔法的平衡。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 6,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 5,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 5
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of regaining lost magic to fight alien invaders is compelling and poses an interesting \"what if?\" scenario. However, it lacks unique elements that could further distinguish it from similar narratives.",
+    "Memory Anchors & Sensory Specificity": "Characters are introduced with basic traits, but they lack depth and complexity. The protagonist's development under pressure is not fully explored, and secondary characters are underdeveloped.",
+    "Intergenerational Span & Long-term Causality": "The story hints at a controlling idea about the importance of balancing nature and magic, but this theme is not consistently reinforced throughout the narrative.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates effectively through the acts, with increasing stakes and challenges. However, the progression could benefit from more unexpected twists and deeper exploration of internal conflicts.",
+    "Investigative Drive & Clue Architecture": "The narrative includes external conflicts with aliens and some interpersonal dynamics, but internal struggles are not sufficiently explored, limiting the conflict's depth.",
+    "Multi-layered Conflict": "Turning points are present, such as the awakening of magic and character sacrifices, but they lack the impact needed to create a dynamic rhythm and drive the narrative forward compellingly.",
+    "Value Turns & Causal Cohesion": "The protagonist faces challenges, but genuine dilemmas are not clearly presented. Decisions often seem straightforward, lacking the complexity and consistency needed for deeper character exploration.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax involves significant events, such as the sacrifice of a character and the defeat of the alien general, but it lacks profound meaning and emotional impact, focusing more on action than thematic depth.",
+    "Emotional Punch & Aftershock": "The conclusion attempts to convey the controlling idea of preserving nature and magic, but it feels somewhat forced and lacks a strong, satisfying resolution.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative relies on familiar tropes and lacks originality in its details. Dialogue and imagery are functional but not particularly rich or evocative, missing opportunities for deeper engagement."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "The premise of regaining lost magic to fight alien invaders is compelling and poses an interesting \"what if?\" scenario. However, it lacks unique elements that could further distinguish it from similar narratives."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "Characters are introduced with basic traits, but they lack depth and complexity. The protagonist's development under pressure is not fully explored, and secondary characters are underdeveloped."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 6,
+      "justification": "The story hints at a controlling idea about the importance of balancing nature and magic, but this theme is not consistently reinforced throughout the narrative."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The conflict escalates effectively through the acts, with increasing stakes and challenges. However, the progression could benefit from more unexpected twists and deeper exploration of internal conflicts."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The narrative includes external conflicts with aliens and some interpersonal dynamics, but internal struggles are not sufficiently explored, limiting the conflict's depth."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "Turning points are present, such as the awakening of magic and character sacrifices, but they lack the impact needed to create a dynamic rhythm and drive the narrative forward compellingly."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 5,
+      "justification": "The protagonist faces challenges, but genuine dilemmas are not clearly presented. Decisions often seem straightforward, lacking the complexity and consistency needed for deeper character exploration."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The climax involves significant events, such as the sacrifice of a character and the defeat of the alien general, but it lacks profound meaning and emotional impact, focusing more on action than thematic depth."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "The conclusion attempts to convey the controlling idea of preserving nature and magic, but it feels somewhat forced and lacks a strong, satisfying resolution."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 5,
+      "justification": "The narrative relies on familiar tropes and lacks originality in its details. Dialogue and imagery are functional but not particularly rich or evocative, missing opportunities for deeper engagement."
+    }
+  ],
+  "overall_summary": "The narrative presents a post-apocalyptic scenario where humanity regains lost magical powers to combat alien invaders. The story is structured into three acts, each escalating the conflict and exploring themes of resilience, sacrifice, and the balance between nature and magic. While the premise is intriguing, the execution lacks depth in character development and originality in narrative details.",
+  "total_score": 59,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a post-apocalyptic scenario where humanity regains lost magical powers to combat alien invaders. The story is structured into three acts, each escalating the conflict and exploring themes of resilience, sacrifice, and the balance between nature and magic. While the premise is intriguing, the execution lacks depth in character development and originality in narrative details.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|7|The premise of regaining lost magic to fight alien invaders is compelling and poses an interesting \"what if?\" scenario. However, it lacks unique elements that could further distinguish it from similar narratives.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|5|Characters are introduced with basic traits, but they lack depth and complexity. The protagonist's development under pressure is not fully explored, and secondary characters are underdeveloped.\nCRITERION_3|Preliminary Direction of the Controlling Idea|6|The story hints at a controlling idea about the importance of balancing nature and magic, but this theme is not consistently reinforced throughout the narrative.\nCRITERION_4|Progressive Escalation of Conflict|7|The conflict escalates effectively through the acts, with increasing stakes and challenges. However, the progression could benefit from more unexpected twists and deeper exploration of internal conflicts.\nCRITERION_5|Breadth and Levels of Conflict|6|The narrative includes external conflicts with aliens and some interpersonal dynamics, but internal struggles are not sufficiently explored, limiting the conflict's depth.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|6|Turning points are present, such as the awakening of magic and character sacrifices, but they lack the impact needed to create a dynamic rhythm and drive the narrative forward compellingly.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|5|The protagonist faces challenges, but genuine dilemmas are not clearly presented. Decisions often seem straightforward, lacking the complexity and consistency needed for deeper character exploration.\nCRITERION_8| Impact and Depth of Meaning in the Climax|6|The climax involves significant events, such as the sacrifice of a character and the defeat of the alien general, but it lacks profound meaning and emotional impact, focusing more on action than thematic depth.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|6|The conclusion attempts to convey the controlling idea of preserving nature and magic, but it feels somewhat forced and lacks a strong, satisfying resolution.\nCRITERION_10|Refinement and Originality of Narrative Details|5|The narrative relies on familiar tropes and lacks originality in its details. Dialogue and imagery are functional but not particularly rich or evocative, missing opportunities for deeper engagement.\n===EVALUATION_END===",
+  "created_at": "2025-09-04T09:41:15.751398+00:00"
+}

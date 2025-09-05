@@ -1,0 +1,86 @@
+{
+  "user_name": "唐苑容92",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n在人类魔法力量因人口过多而消散的世界中，随着外星入侵者的袭击，人口骤减，幸存者中魔法力量重新觉醒，一个年轻士兵在亲眼目睹弟弟被屠杀后，揭露政府阴谋并在强权和强敌之下无奈地选择默许。\r\n\r\n第二部分：第一幕\r\n故事开始于一个被外星入侵者摧毁的地球，年轻的士兵哥哥为了保护盲人弟弟，选择参军。政府承诺将老弱妇孺转移到安全区，弟弟被送走后却杳无音讯。哥哥在战斗中逐渐感受到自己魔法力量的增强，意识到这与人口减少有关。\r\n\r\n第三部分：第二幕\r\n哥哥开始怀疑政府的真实意图，调查过程中发现所谓的安全区其实是屠杀场，政府通过减少人口来增强幸存者的魔法力量。在赶去救援弟弟的过程中，哥哥亲眼目睹弟弟被屠杀，痛苦与愤怒促使他揭露政府的阴谋。在此过程中，他遇到了一位政府高官，该高官试图阻止他揭露真相，并告诉他：“如果没有这样的牺牲，全人类将灭亡。你要亲手毁灭全人类吗？”\r\n\r\n第四部分：第三幕\r\n在最终对抗中，哥哥选择联合其他觉醒者对抗外星人和腐败的政府，但面对强权和强敌的压迫，他意识到自己的力量不足以改变现状，最终选择默许现状，保留希望等待未来的机会，同时内心深处对牺牲的必要性产生了深刻的反思，个体和群体的利益如何平衡成为他永恒的困惑。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 9,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 8,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 9
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The protagonist's journey from protecting his brother to confronting government corruption and alien threats shows significant psychological growth. His internal conflict is driven by personal motivations, and his arc is supported by temporal evidence as he grapples with the necessity of sacrifice.",
+    "Memory Anchors & Sensory Specificity": "The theme of sacrifice and the balance between individual and collective interests is consistently explored throughout the narrative. The protagonist's evolving beliefs reflect the theme, and the ending sublimates the initial motif of sacrifice.",
+    "Intergenerational Span & Long-term Causality": "The central conflict between the protagonist and the corrupt government, as well as the alien threat, is clear and escalates throughout the story. The tension is maintained as the protagonist faces irreconcilable opposition and moral dilemmas.",
+    "Institutional & Tech Ethical Complexity": "The government is depicted as having complex motives, using population control to enhance magic. This institutional complexity propels the protagonist's choices, though further exploration of technological ethics could enhance depth.",
+    "Investigative Drive & Clue Architecture": "The protagonist's investigation into the government's true intentions drives the plot, with clues revealed at escalating costs. The narrative payoff is evident, though the rhythm of disclosure could be more varied.",
+    "Multi-layered Conflict": "The story effectively combines internal, interpersonal, and social conflicts. The protagonist's personal loss, government corruption, and alien invasion create diverse antagonistic forces that reinforce each other.",
+    "Value Turns & Causal Cohesion": "The narrative demonstrates clear shifts in value, particularly in the protagonist's beliefs about sacrifice. Events logically drive the story forward, avoiding coincidences and maintaining causal cohesion.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The structure is clear, with effective turning points such as the protagonist's realization of the government's intentions. Pacing is generally effective, though the climax could have more irreversible consequences.",
+    "Emotional Punch & Aftershock": "Key scenes, such as the brother's death, produce strong emotional impact and resonate throughout the narrative. These emotions change relationships and values, contributing to long-term narrative effects.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and social dimensions, leaving moral ambiguity regarding sacrifice and survival. It avoids simplistic resolutions, providing emotional closure while maintaining open-ended questions."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The protagonist's journey from protecting his brother to confronting government corruption and alien threats shows significant psychological growth. His internal conflict is driven by personal motivations, and his arc is supported by temporal evidence as he grapples with the necessity of sacrifice."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 9,
+      "justification": "The theme of sacrifice and the balance between individual and collective interests is consistently explored throughout the narrative. The protagonist's evolving beliefs reflect the theme, and the ending sublimates the initial motif of sacrifice."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The central conflict between the protagonist and the corrupt government, as well as the alien threat, is clear and escalates throughout the story. The tension is maintained as the protagonist faces irreconcilable opposition and moral dilemmas."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The government is depicted as having complex motives, using population control to enhance magic. This institutional complexity propels the protagonist's choices, though further exploration of technological ethics could enhance depth."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The protagonist's investigation into the government's true intentions drives the plot, with clues revealed at escalating costs. The narrative payoff is evident, though the rhythm of disclosure could be more varied."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 8,
+      "justification": "The story effectively combines internal, interpersonal, and social conflicts. The protagonist's personal loss, government corruption, and alien invasion create diverse antagonistic forces that reinforce each other."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The narrative demonstrates clear shifts in value, particularly in the protagonist's beliefs about sacrifice. Events logically drive the story forward, avoiding coincidences and maintaining causal cohesion."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The structure is clear, with effective turning points such as the protagonist's realization of the government's intentions. Pacing is generally effective, though the climax could have more irreversible consequences."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "Key scenes, such as the brother's death, produce strong emotional impact and resonate throughout the narrative. These emotions change relationships and values, contributing to long-term narrative effects."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 9,
+      "justification": "The ending addresses both personal and social dimensions, leaving moral ambiguity regarding sacrifice and survival. It avoids simplistic resolutions, providing emotional closure while maintaining open-ended questions."
+    }
+  ],
+  "overall_summary": "The narrative presents a dystopian world where magic resurfaces due to population decline caused by alien invasions. The protagonist, a young soldier, faces moral dilemmas and institutional corruption, ultimately choosing to wait for future opportunities while reflecting on the balance between individual and collective interests. The story explores themes of sacrifice, power, and ethical ambiguity, with a focus on character development and thematic coherence.",
+  "total_score": 79,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a dystopian world where magic resurfaces due to population decline caused by alien invasions. The protagonist, a young soldier, faces moral dilemmas and institutional corruption, ultimately choosing to wait for future opportunities while reflecting on the balance between individual and collective interests. The story explores themes of sacrifice, power, and ethical ambiguity, with a focus on character development and thematic coherence.\n\nCRITERION_SCORES:\nCRITERION_1|Task Depth & Character Development|8|The protagonist's journey from protecting his brother to confronting government corruption and alien threats shows significant psychological growth. His internal conflict is driven by personal motivations, and his arc is supported by temporal evidence as he grapples with the necessity of sacrifice.\nCRITERION_2|Thematic Coherence|9|The theme of sacrifice and the balance between individual and collective interests is consistently explored throughout the narrative. The protagonist's evolving beliefs reflect the theme, and the ending sublimates the initial motif of sacrifice.\nCRITERION_3|Central Conflict & Dramatic Tension|8|The central conflict between the protagonist and the corrupt government, as well as the alien threat, is clear and escalates throughout the story. The tension is maintained as the protagonist faces irreconcilable opposition and moral dilemmas.\nCRITERION_4|Complexity of Institutional & Technological Ethics|7|The government is depicted as having complex motives, using population control to enhance magic. This institutional complexity propels the protagonist's choices, though further exploration of technological ethics could enhance depth.\nCRITERION_5|Investigative Drive & Clue Architecture|7|The protagonist's investigation into the government's true intentions drives the plot, with clues revealed at escalating costs. The narrative payoff is evident, though the rhythm of disclosure could be more varied.\nCRITERION_6|Multi-layered Conflict|8|The story effectively combines internal, interpersonal, and social conflicts. The protagonist's personal loss, government corruption, and alien invasion create diverse antagonistic forces that reinforce each other.\nCRITERION_7|Value Shifts & Causal Cohesion|8|The narrative demonstrates clear shifts in value, particularly in the protagonist's beliefs about sacrifice. Events logically drive the story forward, avoiding coincidences and maintaining causal cohesion.\nCRITERION_8|Structural Hierarchy, Pacing & Effective Turning Points|7|The structure is clear, with effective turning points such as the protagonist's realization of the government's intentions. Pacing is generally effective, though the climax could have more irreversible consequences.\nCRITERION_9|Emotional Impact & Aftershock|8|Key scenes, such as the brother's death, produce strong emotional impact and resonate throughout the narrative. These emotions change relationships and values, contributing to long-term narrative effects.\nCRITERION_10|Dual Resonance & Moral Ambiguity of the Ending|9|The ending addresses both personal and social dimensions, leaving moral ambiguity regarding sacrifice and survival. It avoids simplistic resolutions, providing emotional closure while maintaining open-ended questions.\n===EVALUATION_END===",
+  "created_at": "2025-09-02T05:02:53.114560+00:00"
+}

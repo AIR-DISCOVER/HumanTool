@@ -1,0 +1,86 @@
+{
+  "user_name": "赵欣",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括\r\n在一个科技高度发达的未来，永生药物的发现引发了伦理和权力的深刻考验，一位科学家与秘密联盟对抗压迫政策，揭示人类在面对永生诱惑时的真实面貌。\r\n\r\n第二部分：第一幕\r\n故事开始于一个科技高度发达的国家，科学家“我”在实验室中发现永生药物的真实副作用，并面临是否公开的道德抉择。与此同时，国家领导人之间的政治意图产生冲突，有些人希望通过永生药物实现个人野心，而“我”逐渐意识到永生药物背后的阴谋和压迫政策。\r\n\r\n第三部分：第二幕\r\n“我”与来自不同背景的科学家形成秘密联盟，共同对抗发达国家的压迫政策，试图揭露永生药物的真实副作用。随着联盟的行动逐步升级，领导人之间的内斗加剧，国家内部的矛盾和人民的反抗逐渐显现，推动故事向高潮发展。\r\n\r\n第四部分：第三幕\r\n在最终的危机时刻，“我”面临来自内部的道德挣扎和外部的权力压迫，必须做出是否公开永生药物副作用的选择。通过个人成长与觉醒，“我”揭示了科技与人性的复杂关系，永生药物的真相被揭露，国家的压迫政策被动摇，故事以对人类面对永生诱惑的深刻反思结束。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 8,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 8,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of a future where immortality is possible poses a compelling \"what if?\" question, exploring deep ethical and societal implications. It has the potential to sustain a long narrative with its rich thematic possibilities.",
+    "Memory Anchors & Sensory Specificity": "The protagonist is portrayed with depth, facing moral dilemmas and internal struggles. However, more development of secondary characters could enhance the multi-dimensionality of the cast.",
+    "Intergenerational Span & Long-term Causality": "The story clearly aims to express a worldview about the ethical implications of immortality and the power dynamics involved. This direction is consistently reflected in the plot.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates effectively as the protagonist's alliance challenges oppressive policies, leading to increased tension and complexity. However, the escalation could be more nuanced in certain areas.",
+    "Investigative Drive & Clue Architecture": "The narrative spans multiple levels of conflict, including internal moral struggles, interpersonal alliances, and societal power dynamics, showcasing a variety of opposing forces.",
+    "Multi-layered Conflict": "The story has clear turning points, particularly in the protagonist's moral decisions and the alliance's actions. The rhythm is dynamic, though some transitions could be smoother.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a genuine dilemma, consistent with their character development. The decision to reveal the drug's side effects is convincingly portrayed as a culmination of their growth.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is impactful, revealing the truth about the immortality drug and challenging oppressive policies. It offers profound reflections on technology and human nature.",
+    "Emotional Punch & Aftershock": "The controlling idea is clearly conveyed through the climax, leaving the audience with a deep understanding of the ethical and societal implications of immortality.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are generally well-crafted, with purposeful scenes and authentic dialogue. Some areas could benefit from more originality to avoid clichés."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of a future where immortality is possible poses a compelling \"what if?\" question, exploring deep ethical and societal implications. It has the potential to sustain a long narrative with its rich thematic possibilities."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The protagonist is portrayed with depth, facing moral dilemmas and internal struggles. However, more development of secondary characters could enhance the multi-dimensionality of the cast."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The story clearly aims to express a worldview about the ethical implications of immortality and the power dynamics involved. This direction is consistently reflected in the plot."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The conflict escalates effectively as the protagonist's alliance challenges oppressive policies, leading to increased tension and complexity. However, the escalation could be more nuanced in certain areas."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 8,
+      "justification": "The narrative spans multiple levels of conflict, including internal moral struggles, interpersonal alliances, and societal power dynamics, showcasing a variety of opposing forces."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story has clear turning points, particularly in the protagonist's moral decisions and the alliance's actions. The rhythm is dynamic, though some transitions could be smoother."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The protagonist faces a genuine dilemma, consistent with their character development. The decision to reveal the drug's side effects is convincingly portrayed as a culmination of their growth."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 8,
+      "justification": "The climax is impactful, revealing the truth about the immortality drug and challenging oppressive policies. It offers profound reflections on technology and human nature."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "The controlling idea is clearly conveyed through the climax, leaving the audience with a deep understanding of the ethical and societal implications of immortality."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The narrative details are generally well-crafted, with purposeful scenes and authentic dialogue. Some areas could benefit from more originality to avoid clichés."
+    }
+  ],
+  "overall_summary": "The narrative presents a futuristic scenario where the discovery of an immortality drug leads to ethical dilemmas and power struggles. The protagonist, a scientist, faces moral decisions and forms a secret alliance to combat oppressive policies, ultimately revealing the complex relationship between technology and humanity. The story effectively explores themes of power, ethics, and human nature in the face of immortality.",
+  "total_score": 76,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a futuristic scenario where the discovery of an immortality drug leads to ethical dilemmas and power struggles. The protagonist, a scientist, faces moral decisions and forms a secret alliance to combat oppressive policies, ultimately revealing the complex relationship between technology and humanity. The story effectively explores themes of power, ethics, and human nature in the face of immortality.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of a future where immortality is possible poses a compelling \"what if?\" question, exploring deep ethical and societal implications. It has the potential to sustain a long narrative with its rich thematic possibilities.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|7|The protagonist is portrayed with depth, facing moral dilemmas and internal struggles. However, more development of secondary characters could enhance the multi-dimensionality of the cast.\nCRITERION_3|Preliminary Direction of the Controlling Idea|8|The story clearly aims to express a worldview about the ethical implications of immortality and the power dynamics involved. This direction is consistently reflected in the plot.\nCRITERION_4|Progressive Escalation of Conflict|7|The conflict escalates effectively as the protagonist's alliance challenges oppressive policies, leading to increased tension and complexity. However, the escalation could be more nuanced in certain areas.\nCRITERION_5|Breadth and Levels of Conflict|8|The narrative spans multiple levels of conflict, including internal moral struggles, interpersonal alliances, and societal power dynamics, showcasing a variety of opposing forces.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|7|The story has clear turning points, particularly in the protagonist's moral decisions and the alliance's actions. The rhythm is dynamic, though some transitions could be smoother.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|8|The protagonist faces a genuine dilemma, consistent with their character development. The decision to reveal the drug's side effects is convincingly portrayed as a culmination of their growth.\nCRITERION_8| Impact and Depth of Meaning in the Climax|8|The climax is impactful, revealing the truth about the immortality drug and challenging oppressive policies. It offers profound reflections on technology and human nature.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|8|The controlling idea is clearly conveyed through the climax, leaving the audience with a deep understanding of the ethical and societal implications of immortality.\nCRITERION_10|Refinement and Originality of Narrative Details|7|The narrative details are generally well-crafted, with purposeful scenes and authentic dialogue. Some areas could benefit from more originality to avoid clichés.\n===EVALUATION_END===",
+  "created_at": "2025-09-03T02:28:31.597969+00:00"
+}

@@ -1,0 +1,86 @@
+{
+  "user_name": "钟文瑞",
+  "user_group": "writing_b2",
+  "user_group_display": "写作 B-2",
+  "submitted_text": "工具结果执行结果\r\n第一部分：故事概括\r\n\r\n在一个未来社会中，一群未能获得永生药物的人们从自己努力研发永生药物，到过程中逐步发现和揭露已有药物的副作用，最终意识到人类不需要长生不老药。\r\n第二部分：第一幕\r\n\r\n故事发生在人口生育率低的未来社会，人类因为人口生育率过低而不得不研发长生不老药物来保存人类，部分科学家研究出了一种永生药，根据政府和科学家评估后，只能投放给26岁以下人群。主人公是一位28岁的生物学家，他因为年龄未能获得药物，和一群其他年满28岁的医生、经济学家、历史学家等，因为都没有药物，而聚在一起尝试通过各种手段获取一种能阻止衰老的药物，他们从科学研发、翻阅历史出发研发。\r\n第三部分：第二幕\r\n\r\n主人公和他的朋友们在接下来的几十年中尝试各种方法来延缓衰老，包括自制药物和科学实验，一步一步开始了解永生药研发的机理和过程。期间，他们与现有成功的药物研发团队有过几次的接触，试图获取更多信息，但始终被拒之门外。随着时间的推移，他们的团队中加入了一些年轻的26岁以下的人，这些人希望帮助更多人获得药物，他们尝试分享自己服用药物的感受，药物形状等来帮助鞥多人。这个过程中因为药物研发需要大量人力物力，也面临着巨大的压力，团队成员也对于研发方向有矛盾争执，有人离开也有人加入。也有好心的政府官员试图帮助他们，但也因为立场问题，在这个过程中有所反复。\r\n第四部分：第三幕\r\n他们奋斗的过程持续到主人公85岁时，药物的副作用开始显现，年轻一代出现了无法解释的健康问题。主人公和他的朋友们运用自己几十年来的经验，尝试解释并解决药物的副作用，身边聚合到越来越多的人，他们的努力终于引起了足够的关注。尽管药物公司继续掩盖事实，过程中政府也试图维稳压制药物负面信息，但大家本着初心不断向前，最终探究出了自然留给人类的永恒命题：长生不老是有巨大代价的，人类文明传承的最好方法不是长生不老，自然不允许有人长生不老，而是繁衍生息。故事以长生不老的思考和对各方利益的权衡，留下许多探讨话题。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 6,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 8,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of a future society dealing with immortality drugs is compelling and poses a strong \"what if?\" question about the consequences of eternal life, providing a rich ground for exploration.",
+    "Memory Anchors & Sensory Specificity": "The protagonist and his group are given clear motivations, but their multi-dimensionality under pressure is not fully explored. More depth in their personal struggles and desires would enhance authenticity.",
+    "Intergenerational Span & Long-term Causality": "The story has a clear direction, questioning the value of immortality and advocating for natural human progression. This controlling idea is consistently reflected throughout the narrative.",
+    "Institutional & Tech Ethical Complexity": "Conflict escalates as the protagonist's group faces challenges in drug development and societal pressures, but the escalation could be more intense and complex to push characters into deeper crises.",
+    "Investigative Drive & Clue Architecture": "The story includes internal struggles, interpersonal dynamics, and societal pressures, showcasing various opposing forces. However, the internal conflicts could be more pronounced.",
+    "Multi-layered Conflict": "Turning points are present, such as the revelation of drug side effects, but the rhythm could be more dynamic with clearer transitions and heightened tension.",
+    "Value Turns & Causal Cohesion": "The protagonist faces dilemmas regarding drug development and ethical considerations, and his decisions are consistent with his character, though they could be more deeply explored.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax effectively reveals the drug's side effects and the realization of the natural order, providing a profound shift in values and meaning.",
+    "Emotional Punch & Aftershock": "The story concludes with a clear expression of the controlling idea, emphasizing the natural cycle of life over artificial immortality, leaving a satisfying resolution.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are purposeful and avoid clichés, with authentic dialogue and imagery, though further refinement could enhance originality and depth."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of a future society dealing with immortality drugs is compelling and poses a strong \"what if?\" question about the consequences of eternal life, providing a rich ground for exploration."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The protagonist and his group are given clear motivations, but their multi-dimensionality under pressure is not fully explored. More depth in their personal struggles and desires would enhance authenticity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The story has a clear direction, questioning the value of immortality and advocating for natural human progression. This controlling idea is consistently reflected throughout the narrative."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 6,
+      "justification": "Conflict escalates as the protagonist's group faces challenges in drug development and societal pressures, but the escalation could be more intense and complex to push characters into deeper crises."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The story includes internal struggles, interpersonal dynamics, and societal pressures, showcasing various opposing forces. However, the internal conflicts could be more pronounced."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "Turning points are present, such as the revelation of drug side effects, but the rhythm could be more dynamic with clearer transitions and heightened tension."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The protagonist faces dilemmas regarding drug development and ethical considerations, and his decisions are consistent with his character, though they could be more deeply explored."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 8,
+      "justification": "The climax effectively reveals the drug's side effects and the realization of the natural order, providing a profound shift in values and meaning."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "The story concludes with a clear expression of the controlling idea, emphasizing the natural cycle of life over artificial immortality, leaving a satisfying resolution."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The narrative details are purposeful and avoid clichés, with authentic dialogue and imagery, though further refinement could enhance originality and depth."
+    }
+  ],
+  "overall_summary": "The narrative explores a futuristic society grappling with the implications of immortality drugs, focusing on a group of individuals excluded from receiving the drug due to age restrictions. The story delves into their quest to develop their own solutions, ultimately uncovering the adverse effects of existing drugs and concluding that immortality is not the answer to human survival. The text presents a thought-provoking premise with a clear controlling idea, though it could benefit from deeper character development and more dynamic conflict escalation.",
+  "total_score": 71,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative explores a futuristic society grappling with the implications of immortality drugs, focusing on a group of individuals excluded from receiving the drug due to age restrictions. The story delves into their quest to develop their own solutions, ultimately uncovering the adverse effects of existing drugs and concluding that immortality is not the answer to human survival. The text presents a thought-provoking premise with a clear controlling idea, though it could benefit from deeper character development and more dynamic conflict escalation.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of a future society dealing with immortality drugs is compelling and poses a strong \"what if?\" question about the consequences of eternal life, providing a rich ground for exploration.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|6|The protagonist and his group are given clear motivations, but their multi-dimensionality under pressure is not fully explored. More depth in their personal struggles and desires would enhance authenticity.\nCRITERION_3|Preliminary Direction of the Controlling Idea|8|The story has a clear direction, questioning the value of immortality and advocating for natural human progression. This controlling idea is consistently reflected throughout the narrative.\nCRITERION_4|Progressive Escalation of Conflict|6|Conflict escalates as the protagonist's group faces challenges in drug development and societal pressures, but the escalation could be more intense and complex to push characters into deeper crises.\nCRITERION_5|Breadth and Levels of Conflict|7|The story includes internal struggles, interpersonal dynamics, and societal pressures, showcasing various opposing forces. However, the internal conflicts could be more pronounced.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|6|Turning points are present, such as the revelation of drug side effects, but the rhythm could be more dynamic with clearer transitions and heightened tension.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|7|The protagonist faces dilemmas regarding drug development and ethical considerations, and his decisions are consistent with his character, though they could be more deeply explored.\nCRITERION_8| Impact and Depth of Meaning in the Climax|8|The climax effectively reveals the drug's side effects and the realization of the natural order, providing a profound shift in values and meaning.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|8|The story concludes with a clear expression of the controlling idea, emphasizing the natural cycle of life over artificial immortality, leaving a satisfying resolution.\nCRITERION_10|Refinement and Originality of Narrative Details|7|The narrative details are purposeful and avoid clichés, with authentic dialogue and imagery, though further refinement could enhance originality and depth.\n===EVALUATION_END===",
+  "created_at": "2025-09-04T03:36:21.350684+00:00"
+}

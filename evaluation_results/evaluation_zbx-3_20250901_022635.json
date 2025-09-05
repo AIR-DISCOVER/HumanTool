@@ -1,0 +1,86 @@
+{
+  "user_name": "zbx-3",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括 在一个科学发现永生药物的世界中，28岁的陈嘉如被排除在外，成为“迷失的一代”。随着时间推移，她发现药物的副作用和背后的阴谋，最终在85岁时，她揭露真相并找到预防副作用的方法，重新定义生命的意义。\r\n\r\n第二部分：第一幕 在28岁时，陈嘉如得知政府将永生药物提供给26岁以下的公民，她感到震惊和失落。她努力争取机会，却被告知风险过高而被拒绝。随着时间的推移，她开始怀疑药物的真正效果，并发现科学家们隐藏了一个关于药物副作用的秘密。她的生活在这个秘密的阴影下逐渐失去平衡。\r\n\r\n第三部分：第二幕 陈嘉如开始深入调查药物的真相，结识了一群同样被排除在外的“迷失的一代”成员，他们共同发现药物的副作用正在悄然显现。她面临着内心的挣扎和社会的压力，逐渐揭开政府和科学家之间的阴谋。随着调查的深入，她发现了一种可能预防副作用的方法，但这需要她做出艰难的选择。\r\n\r\n第四部分：第三幕 在85岁时，陈嘉如面临着最终的对决，她必须在揭露真相和保护自己之间做出选择。她决定公开药物的副作用和阴谋，冒着生命危险将真相公之于众。最终，她成功地揭露了真相，并通过自己的研究找到了预防副作用的方法，帮助“迷失的一代”重新获得对生命的掌控，世界也因此发生了改变",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 6,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 6,
+    "Value Turns & Causal Cohesion": 4,
+    "Hierarchy of Beats & Midpoint/Climax Design": 5,
+    "Emotional Punch & Aftershock": 4,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The story offers a unique thematic perspective by exploring the societal and personal implications of a drug that grants immortality, focusing on those excluded from its benefits. It goes beyond simple critique by contemplating the meaning of life and the consequences of exclusion.",
+    "Memory Anchors & Sensory Specificity": "The narrative is driven by a strong creative engine centered around the mystery and investigation of the immortality drug's side effects and the conspiracy behind it. The plot is propelled by curiosity and exploration rather than mere crisis resolution.",
+    "Intergenerational Span & Long-term Causality": "Chen Jiaru exhibits significant agency as she transitions from a victim of circumstance to a proactive investigator and truth-seeker. Her growth arc is well-defined, showcasing her transformation into a definer and creator of her destiny.",
+    "Institutional & Tech Ethical Complexity": "The setting is based on a thought-provoking \"what if\" scenario involving a world with an immortality drug. The concept is integral to the story, sparking curiosity and intellectual engagement throughout the narrative.",
+    "Investigative Drive & Clue Architecture": "The structure aligns well with the core concept, using a long time-span to illustrate the protagonist's lifelong dedication. However, the pacing could be more dynamic to enhance the protagonist's spiritual journey.",
+    "Multi-layered Conflict": "The ethical dilemma of exposing the truth about the immortality drug's side effects is explored with depth, presenting a choice that transcends simple right or wrong. The protagonist's decision reflects long-term wisdom and responsibility.",
+    "Value Turns & Causal Cohesion": "While the story addresses the emotional impact of exclusion and discovery, it lacks depth in conveying the protagonist's internalization of her unique destiny. More sensory details and emotional reflection could enhance this aspect.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The narrative contains moments of intrigue and revelation, particularly in the protagonist's discoveries. However, it could benefit from more vivid, memorable scenes that ignite the reader's imagination.",
+    "Emotional Punch & Aftershock": "The narrative voice is functional but lacks distinctiveness. A more unique voice could better reflect the protagonist's perspective and the story's thematic depth, enhancing the reader's immersion.",
+    "Dual Resonance of Ending: Personal & Public": "The ending successfully opens new possibilities by redefining life and offering a solution to the drug's side effects. It leaves the reader with a sense of hope and a broader imaginative space for the future."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "The story offers a unique thematic perspective by exploring the societal and personal implications of a drug that grants immortality, focusing on those excluded from its benefits. It goes beyond simple critique by contemplating the meaning of life and the consequences of exclusion."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The narrative is driven by a strong creative engine centered around the mystery and investigation of the immortality drug's side effects and the conspiracy behind it. The plot is propelled by curiosity and exploration rather than mere crisis resolution."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 6,
+      "justification": "Chen Jiaru exhibits significant agency as she transitions from a victim of circumstance to a proactive investigator and truth-seeker. Her growth arc is well-defined, showcasing her transformation into a definer and creator of her destiny."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The setting is based on a thought-provoking \"what if\" scenario involving a world with an immortality drug. The concept is integral to the story, sparking curiosity and intellectual engagement throughout the narrative."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "The structure aligns well with the core concept, using a long time-span to illustrate the protagonist's lifelong dedication. However, the pacing could be more dynamic to enhance the protagonist's spiritual journey."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 6,
+      "justification": "The ethical dilemma of exposing the truth about the immortality drug's side effects is explored with depth, presenting a choice that transcends simple right or wrong. The protagonist's decision reflects long-term wisdom and responsibility."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 4,
+      "justification": "While the story addresses the emotional impact of exclusion and discovery, it lacks depth in conveying the protagonist's internalization of her unique destiny. More sensory details and emotional reflection could enhance this aspect."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 5,
+      "justification": "The narrative contains moments of intrigue and revelation, particularly in the protagonist's discoveries. However, it could benefit from more vivid, memorable scenes that ignite the reader's imagination."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 4,
+      "justification": "The narrative voice is functional but lacks distinctiveness. A more unique voice could better reflect the protagonist's perspective and the story's thematic depth, enhancing the reader's immersion."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The ending successfully opens new possibilities by redefining life and offering a solution to the drug's side effects. It leaves the reader with a sense of hope and a broader imaginative space for the future."
+    }
+  ],
+  "overall_summary": "The story presents a compelling narrative set in a world where a drug for immortality creates a \"lost generation\" excluded from its benefits. The protagonist, Chen Jiaru, embarks on a journey of discovery and revelation, ultimately redefining the meaning of life. The framework effectively explores themes of exclusion, truth, and the ethical implications of scientific advancements, though it could benefit from deeper emotional exploration and more distinctive narrative voice.",
+  "total_score": 56,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The story presents a compelling narrative set in a world where a drug for immortality creates a \"lost generation\" excluded from its benefits. The protagonist, Chen Jiaru, embarks on a journey of discovery and revelation, ultimately redefining the meaning of life. The framework effectively explores themes of exclusion, truth, and the ethical implications of scientific advancements, though it could benefit from deeper emotional exploration and more distinctive narrative voice.\n\nCRITERION_SCORES:\nCRITERION_1|Originality of Thematic Perspective|6|The story offers a unique thematic perspective by exploring the societal and personal implications of a drug that grants immortality, focusing on those excluded from its benefits. It goes beyond simple critique by contemplating the meaning of life and the consequences of exclusion.\nCRITERION_2|The Creative Engine / Driving Force of the Core Concept|7|The narrative is driven by a strong creative engine centered around the mystery and investigation of the immortality drug's side effects and the conspiracy behind it. The plot is propelled by curiosity and exploration rather than mere crisis resolution.\nCRITERION_3|Protagonist's Agency and Growth Arc|6|Chen Jiaru exhibits significant agency as she transitions from a victim of circumstance to a proactive investigator and truth-seeker. Her growth arc is well-defined, showcasing her transformation into a definer and creator of her destiny.\nCRITERION_4|Conceptual Setting & The Thought Experiment|7|The setting is based on a thought-provoking \"what if\" scenario involving a world with an immortality drug. The concept is integral to the story, sparking curiosity and intellectual engagement throughout the narrative.\nCRITERION_5|Fit Between Concept and Structure|5|The structure aligns well with the core concept, using a long time-span to illustrate the protagonist's lifelong dedication. However, the pacing could be more dynamic to enhance the protagonist's spiritual journey.\nCRITERION_6|Speculative Depth of the Ethical Dilemma|6|The ethical dilemma of exposing the truth about the immortality drug's side effects is explored with depth, presenting a choice that transcends simple right or wrong. The protagonist's decision reflects long-term wisdom and responsibility.\nCRITERION_7|Emotional Penetration of the Core Concept|4|While the story addresses the emotional impact of exclusion and discovery, it lacks depth in conveying the protagonist's internalization of her unique destiny. More sensory details and emotional reflection could enhance this aspect.\nCRITERION_8|Presentation of 'Inspired Moments' / Creative Sparks|5|The narrative contains moments of intrigue and revelation, particularly in the protagonist's discoveries. However, it could benefit from more vivid, memorable scenes that ignite the reader's imagination.\nCRITERION_9|Narrative Voice as a Vehicle for the Concept|4|The narrative voice is functional but lacks distinctiveness. A more unique voice could better reflect the protagonist's perspective and the story's thematic depth, enhancing the reader's immersion.\nCRITERION_10|The Generative Nature and Imaginative Space of the Ending|6|The ending successfully opens new possibilities by redefining life and offering a solution to the drug's side effects. It leaves the reader with a sense of hope and a broader imaginative space for the future.\n===EVALUATION_END===",
+  "created_at": "2025-09-01T02:26:35.366913+00:00"
+}

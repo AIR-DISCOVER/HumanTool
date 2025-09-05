@@ -1,0 +1,86 @@
+{
+  "user_name": "彭慧玲 0903",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在人类被外星人入侵后，幸存者们发现古老的魔法力量重新觉醒，他们必须团结起来，利用这股力量对抗外星侵略者，拯救地球。\r\n第二部分：第一幕\r\n\r\n地球上的人口因外星人的入侵而急剧减少，曾经强大的魔法力量因人口过多而消散，如今随着人口的减少，魔法力量开始重新显现。幸存者中的一位年轻女子艾莉丝无意中发现自己能够操控魔法，她意识到这可能是人类反击的唯一希望。在一场小规模的抵抗战中，她的魔法力量首次被激发，震惊了她的同伴们。\r\n第三部分：第二幕\r\n\r\n艾莉丝和其他幸存者开始探索古老的魔法遗迹，寻找增强魔法力量的方法，同时也在学习如何更好地运用这股力量。随着他们的力量逐渐增强，外星人也开始意识到人类的反抗能力正在恢复，并加紧了对地球的压制。艾莉丝面临着内心的挣扎，她必须克服对自己力量的恐惧，并在一场关键的战斗中证明自己的价值。\r\n第四部分：第三幕\r\n\r\n在最终的对决中，艾莉丝和她的同伴们联合使用他们所掌握的魔法力量，与外星人展开了一场史诗般的战斗。艾莉丝在战斗中领悟到了魔法的真正本质，并利用这股力量逆转了战局，最终击退了外星入侵者。随着战斗的胜利，地球上的幸存者们开始重建家园，而艾莉丝也意识到，魔法不仅仅是一种力量，更是一种责任。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 6,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 6,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 5,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 5
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of an alien invasion countered by ancient magic is intriguing and poses a compelling \"what if?\" question. However, it is a familiar concept in science fiction and fantasy, which limits its originality and depth.",
+    "Memory Anchors & Sensory Specificity": "The protagonist, Alice, shows potential for depth, particularly in her internal struggle with her newfound powers. However, her character arc follows a predictable path, and other characters lack sufficient development.",
+    "Intergenerational Span & Long-term Causality": "The story hints at a controlling idea of responsibility and unity through magic, but this theme could be more consistently woven into the narrative to provide clearer direction.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates effectively from small-scale skirmishes to an epic final battle, with Alice's growing powers adding complexity. However, the escalation could benefit from more unexpected twists.",
+    "Investigative Drive & Clue Architecture": "The narrative includes internal, interpersonal, and external conflicts, but the focus remains primarily on the external battle against aliens, with less emphasis on deeper interpersonal or internal struggles.",
+    "Multi-layered Conflict": "The story has clear turning points, such as Alice discovering her powers and the final battle. These moments drive the plot forward, but the rhythm could be more dynamic with varied pacing.",
+    "Value Turns & Causal Cohesion": "Alice faces a dilemma regarding her fear of her powers, but the resolution feels somewhat straightforward. Her decisions align with her character, yet lack the complexity of a true crisis.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is intense and memorable, with Alice's realization of magic's true nature. However, the depth of meaning could be enhanced by exploring the implications of this realization more thoroughly.",
+    "Emotional Punch & Aftershock": "The story concludes with a sense of responsibility tied to magic, but the controlling idea could be more explicitly confirmed and expressed throughout the narrative for greater impact.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are functional but rely on familiar tropes and imagery. Dialogue and scenes serve their purpose but lack originality and subtext, which could enrich the story."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 6,
+      "justification": "The premise of an alien invasion countered by ancient magic is intriguing and poses a compelling \"what if?\" question. However, it is a familiar concept in science fiction and fantasy, which limits its originality and depth."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "The protagonist, Alice, shows potential for depth, particularly in her internal struggle with her newfound powers. However, her character arc follows a predictable path, and other characters lack sufficient development."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 6,
+      "justification": "The story hints at a controlling idea of responsibility and unity through magic, but this theme could be more consistently woven into the narrative to provide clearer direction."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The conflict escalates effectively from small-scale skirmishes to an epic final battle, with Alice's growing powers adding complexity. However, the escalation could benefit from more unexpected twists."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The narrative includes internal, interpersonal, and external conflicts, but the focus remains primarily on the external battle against aliens, with less emphasis on deeper interpersonal or internal struggles."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story has clear turning points, such as Alice discovering her powers and the final battle. These moments drive the plot forward, but the rhythm could be more dynamic with varied pacing."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 5,
+      "justification": "Alice faces a dilemma regarding her fear of her powers, but the resolution feels somewhat straightforward. Her decisions align with her character, yet lack the complexity of a true crisis."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The climax is intense and memorable, with Alice's realization of magic's true nature. However, the depth of meaning could be enhanced by exploring the implications of this realization more thoroughly."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "The story concludes with a sense of responsibility tied to magic, but the controlling idea could be more explicitly confirmed and expressed throughout the narrative for greater impact."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 5,
+      "justification": "The narrative details are functional but rely on familiar tropes and imagery. Dialogue and scenes serve their purpose but lack originality and subtext, which could enrich the story."
+    }
+  ],
+  "overall_summary": "The narrative presents a classic science fiction premise of an alien invasion countered by the resurgence of ancient magic. While the story offers a compelling \"what if?\" scenario, it relies heavily on familiar tropes. The characters, particularly the protagonist, show potential for depth, but their development is somewhat predictable. The plot progresses logically with clear turning points, yet lacks the complexity and originality needed to elevate the narrative. The climax is impactful, but the controlling idea could be more explicitly articulated throughout the story.",
+  "total_score": 60,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a classic science fiction premise of an alien invasion countered by the resurgence of ancient magic. While the story offers a compelling \"what if?\" scenario, it relies heavily on familiar tropes. The characters, particularly the protagonist, show potential for depth, but their development is somewhat predictable. The plot progresses logically with clear turning points, yet lacks the complexity and originality needed to elevate the narrative. The climax is impactful, but the controlling idea could be more explicitly articulated throughout the story.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|6|The premise of an alien invasion countered by ancient magic is intriguing and poses a compelling \"what if?\" question. However, it is a familiar concept in science fiction and fantasy, which limits its originality and depth.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|5|The protagonist, Alice, shows potential for depth, particularly in her internal struggle with her newfound powers. However, her character arc follows a predictable path, and other characters lack sufficient development.\nCRITERION_3|Preliminary Direction of the Controlling Idea|6|The story hints at a controlling idea of responsibility and unity through magic, but this theme could be more consistently woven into the narrative to provide clearer direction.\nCRITERION_4|Progressive Escalation of Conflict|7|The conflict escalates effectively from small-scale skirmishes to an epic final battle, with Alice's growing powers adding complexity. However, the escalation could benefit from more unexpected twists.\nCRITERION_5|Breadth and Levels of Conflict|6|The narrative includes internal, interpersonal, and external conflicts, but the focus remains primarily on the external battle against aliens, with less emphasis on deeper interpersonal or internal struggles.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|7|The story has clear turning points, such as Alice discovering her powers and the final battle. These moments drive the plot forward, but the rhythm could be more dynamic with varied pacing.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|5|Alice faces a dilemma regarding her fear of her powers, but the resolution feels somewhat straightforward. Her decisions align with her character, yet lack the complexity of a true crisis.\nCRITERION_8| Impact and Depth of Meaning in the Climax|7|The climax is intense and memorable, with Alice's realization of magic's true nature. However, the depth of meaning could be enhanced by exploring the implications of this realization more thoroughly.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|6|The story concludes with a sense of responsibility tied to magic, but the controlling idea could be more explicitly confirmed and expressed throughout the narrative for greater impact.\nCRITERION_10|Refinement and Originality of Narrative Details|5|The narrative details are functional but rely on familiar tropes and imagery. Dialogue and scenes serve their purpose but lack originality and subtext, which could enrich the story.\n===EVALUATION_END===",
+  "created_at": "2025-09-03T08:17:54.845960+00:00"
+}

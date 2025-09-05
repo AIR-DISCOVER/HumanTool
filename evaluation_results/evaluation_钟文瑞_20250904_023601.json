@@ -1,0 +1,86 @@
+{
+  "user_name": "钟文瑞",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个科技发达但魔力稀薄的未来，人类因外星侵略者的袭击被迫面对种族存亡危机，少数幸存者在危难中重新唤醒古老的魔法力量，通过团结与合作，成功反击外敌，并为人类的未来开辟新篇章。\r\n第二部分：第一幕\r\n\r\n在外星侵略者的大规模袭击下，地球人口骤减，幸存者们在混乱中挣扎求生。在一处神秘的古代遗址中，一个年轻的工程师意外觉醒魔法能力，成为首批发现者之一。与此同时，幸存的多元化人类团队，包括科学家、战士、医生、厨师和语言学家等角色，各自意识到魔力的复苏，并在废墟中汇集。他们在废墟中相遇，形成一个多元化的小团队，开始探索如何利用魔法来生存和抵抗外星人。他们不仅要应对生存的挑战，还需要围绕魔法的用途展开讨论，试图找出击退外星人的方法。\r\n第三部分：第二幕\r\n\r\n外星人的攻击愈演愈烈，科技手段显得不够，团队内部出现理念分歧，如何有效结合魔法和科技，以及面对彼此的差异化观点，成员们在争执中逐渐建立关系。通过一次危机事件，他们决心放下成见、共同合作，其中的历史学家揭示出遗址可能蕴含的远古秘密，科学家则提出结合魔法与科技的新方法，这成为对抗外星人的关键契机。面临牺牲个人利益与团队利益的选择，成员之间的友情与爱情悄然萌芽，逐步化解内部矛盾。\r\n第四部分：第三幕\r\n\r\n在最终决战中，团队成员选择牺牲一切，使用科学家与工程师设计的魔法-科技结合装置发起反攻，最终成功击退外星侵略者，并解开古代遗址与魔法力量复苏的秘密。领袖在这过程中看到团结与合作的价值，选择摈弃权力欲望，团队决定以更紧密的合作方式探索和重建家的未来，故事在全体成员对未来的无限希望与信心中结束。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 6,
+    "Intergenerational Span & Long-term Causality": 7,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 6,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 7,
+    "Dual Resonance of Ending: Personal & Public": 6
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise is attractive, combining futuristic technology with ancient magic, posing a compelling \"what if?\" scenario about humanity's survival and the rediscovery of lost powers.",
+    "Memory Anchors & Sensory Specificity": "The characters are diverse and have potential for depth, but the narrative summary lacks detailed exploration of their multi-dimensionality and personal growth under pressure.",
+    "Intergenerational Span & Long-term Causality": "The story has a clear direction centered on the value of unity and cooperation, though the controlling idea could be more explicitly woven into the narrative's progression.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates from survival struggles to ideological differences and finally to a climactic battle, though the escalation could be more intricately developed.",
+    "Investigative Drive & Clue Architecture": "The story spans multiple levels of conflict, including internal team dynamics and external alien threats, but could delve deeper into individual internal struggles.",
+    "Multi-layered Conflict": "The narrative has clear turning points, such as the awakening of magic and the final battle, but the rhythm could be more dynamic with varied pacing.",
+    "Value Turns & Causal Cohesion": "The characters face dilemmas, such as personal vs. team interests, but these could be more deeply explored to highlight character consistency and growth.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is impactful, with the team using a magic-tech device to defeat the aliens, but the depth of meaning could be enhanced by focusing on individual sacrifices.",
+    "Emotional Punch & Aftershock": "The story concludes with a reaffirmation of unity and cooperation, though the expression of the controlling idea could be more profound and satisfying.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are functional but could be more refined and original, with richer dialogue and imagery to enhance the story's expression."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise is attractive, combining futuristic technology with ancient magic, posing a compelling \"what if?\" scenario about humanity's survival and the rediscovery of lost powers."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 6,
+      "justification": "The characters are diverse and have potential for depth, but the narrative summary lacks detailed exploration of their multi-dimensionality and personal growth under pressure."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 7,
+      "justification": "The story has a clear direction centered on the value of unity and cooperation, though the controlling idea could be more explicitly woven into the narrative's progression."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The conflict escalates from survival struggles to ideological differences and finally to a climactic battle, though the escalation could be more intricately developed."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The story spans multiple levels of conflict, including internal team dynamics and external alien threats, but could delve deeper into individual internal struggles."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The narrative has clear turning points, such as the awakening of magic and the final battle, but the rhythm could be more dynamic with varied pacing."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 6,
+      "justification": "The characters face dilemmas, such as personal vs. team interests, but these could be more deeply explored to highlight character consistency and growth."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "The climax is impactful, with the team using a magic-tech device to defeat the aliens, but the depth of meaning could be enhanced by focusing on individual sacrifices."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 7,
+      "justification": "The story concludes with a reaffirmation of unity and cooperation, though the expression of the controlling idea could be more profound and satisfying."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 6,
+      "justification": "The narrative details are functional but could be more refined and original, with richer dialogue and imagery to enhance the story's expression."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling blend of science fiction and fantasy, set in a future where humanity must rediscover ancient magic to fend off alien invaders. The story effectively explores themes of unity and cooperation, with a diverse cast of characters who must overcome internal conflicts to achieve a common goal. While the premise is intriguing and the plot structure is clear, the narrative could benefit from deeper character development and more nuanced conflict escalation.",
+  "total_score": 68,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling blend of science fiction and fantasy, set in a future where humanity must rediscover ancient magic to fend off alien invaders. The story effectively explores themes of unity and cooperation, with a diverse cast of characters who must overcome internal conflicts to achieve a common goal. While the premise is intriguing and the plot structure is clear, the narrative could benefit from deeper character development and more nuanced conflict escalation.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise is attractive, combining futuristic technology with ancient magic, posing a compelling \"what if?\" scenario about humanity's survival and the rediscovery of lost powers.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|6|The characters are diverse and have potential for depth, but the narrative summary lacks detailed exploration of their multi-dimensionality and personal growth under pressure.\nCRITERION_3|Preliminary Direction of the Controlling Idea|7|The story has a clear direction centered on the value of unity and cooperation, though the controlling idea could be more explicitly woven into the narrative's progression.\nCRITERION_4|Progressive Escalation of Conflict|7|The conflict escalates from survival struggles to ideological differences and finally to a climactic battle, though the escalation could be more intricately developed.\nCRITERION_5|Breadth and Levels of Conflict|7|The story spans multiple levels of conflict, including internal team dynamics and external alien threats, but could delve deeper into individual internal struggles.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|7|The narrative has clear turning points, such as the awakening of magic and the final battle, but the rhythm could be more dynamic with varied pacing.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|6|The characters face dilemmas, such as personal vs. team interests, but these could be more deeply explored to highlight character consistency and growth.\nCRITERION_8| Impact and Depth of Meaning in the Climax|7|The climax is impactful, with the team using a magic-tech device to defeat the aliens, but the depth of meaning could be enhanced by focusing on individual sacrifices.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|7|The story concludes with a reaffirmation of unity and cooperation, though the expression of the controlling idea could be more profound and satisfying.\nCRITERION_10|Refinement and Originality of Narrative Details|6|The narrative details are functional but could be more refined and original, with richer dialogue and imagery to enhance the story's expression.\n===EVALUATION_END===",
+  "created_at": "2025-09-04T02:36:01.608836+00:00"
+}

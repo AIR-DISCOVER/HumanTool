@@ -1,0 +1,86 @@
+{
+  "user_name": "唐苑容91",
+  "user_group": "writing_a1",
+  "user_group_display": "写作 A-1",
+  "submitted_text": "第一部分：故事概括\r\n在外星人入侵后，地球人口急剧减少，曾经分散的魔法力量开始重新凝聚。幸存者们发现，古老的魔法力量以牺牲生命为代价重新觉醒。主角艾琳面临着内心的道德冲突，她必须在利用这股力量保护幸存者和避免重蹈历史覆辙之间做出艰难选择。\r\n\r\n第二部分：第一幕\r\n在外星人入侵后的废墟中，幸存者们艰难求生，资源匮乏，秩序崩溃，社会陷入混乱。年轻的艾琳无意中发现自己拥有了强大的魔法力量，这种力量源于一种古老而狂暴的巫术，需要以牺牲生命为代价来增强。面对外星人的威胁和人类内部的争斗，艾琳陷入了深刻的道德两难：是使用这股力量来保护幸存者，还是放弃它以避免重蹈覆辙？\r\n\r\n第三部分：第二幕\r\n随着时间的推移，越来越多的幸存者开始觉醒魔法力量，社会秩序进一步崩溃，内部冲突加剧。艾琳在废墟中发现了一本古老的魔法书，揭示了魔法的起源和其背后血腥的历史：这种力量曾被用来对抗外敌，但代价是无数生命的牺牲。面对不断升级的内外冲突，艾琳意识到她必须找到一种方法来平衡使用力量的责任与保护人类的使命。\r\n\r\n第三部分：第三幕\r\n在与其他幸存者的对抗中，艾琳逐渐意识到，力量的真正意义在于团结与合作，而非个人的欲望和权力的争夺。她成功地说服其他拥有力量的幸存者放下仇恨，共同对抗外星入侵者。最终，艾琳带领大家利用重新觉醒的魔法力量，成功击退了外星人。然而，她也明白到力量的危险，决定与其他幸存者一起将这股力量封存，以免未来再次引发人类自相残杀的悲剧。故事在艾琳的内心独白中结束，她反思着力量的本质和人类的未来，留下深刻的道德余韵。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 7,
+    "Memory Anchors & Sensory Specificity": 5,
+    "Intergenerational Span & Long-term Causality": 6,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 7,
+    "Hierarchy of Beats & Midpoint/Climax Design": 6,
+    "Emotional Punch & Aftershock": 7,
+    "Dual Resonance of Ending: Personal & Public": 8
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "Aileen's moral conflict is well-defined, as she must choose between using magic to protect survivors or avoiding its historical pitfalls. Her internal transformation is evident as she shifts from individual power to collective action.",
+    "Memory Anchors & Sensory Specificity": "The narrative lacks specific sensory details or recurring objects that trigger memories or decisions. The magic book serves as a plot device but does not evoke sensory specificity.",
+    "Intergenerational Span & Long-term Causality": "The story hints at long-term consequences of using magic, but lacks explicit generational markers or detailed repercussions over time. Aileen's decision to seal the magic suggests awareness of future costs.",
+    "Institutional & Tech Ethical Complexity": "The narrative briefly touches on societal collapse and internal conflicts but lacks depth in exploring institutional ethics or technological implications beyond the alien invasion.",
+    "Investigative Drive & Clue Architecture": "Aileen's discovery of the magic book provides a clue to the origins of magic, driving the plot forward. However, the investigation lacks complexity and layered clues.",
+    "Multi-layered Conflict": "The story presents internal, interpersonal, and external conflicts, with Aileen's moral dilemma, societal chaos, and alien threats interwoven effectively.",
+    "Value Turns & Causal Cohesion": "The narrative shows clear value shifts, such as Aileen's transition from individual power to collective unity. The causal chain is logical, though some transitions could be more nuanced.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The structure follows a clear three-act progression, with turning points at each act. However, the pacing could be more dynamic, and the climax, while effective, lacks surprise.",
+    "Emotional Punch & Aftershock": "Key scenes, such as Aileen's decision to unite survivors, have emotional resonance. Her final reflection provides a lasting impact, though earlier scenes could heighten emotional peaks.",
+    "Dual Resonance of Ending: Personal & Public": "The ending addresses both personal and societal issues, with Aileen's internal reflection and the decision to seal magic. It retains moral ambiguity, avoiding simplistic resolutions."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 7,
+      "justification": "Aileen's moral conflict is well-defined, as she must choose between using magic to protect survivors or avoiding its historical pitfalls. Her internal transformation is evident as she shifts from individual power to collective action."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 5,
+      "justification": "The narrative lacks specific sensory details or recurring objects that trigger memories or decisions. The magic book serves as a plot device but does not evoke sensory specificity."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 6,
+      "justification": "The story hints at long-term consequences of using magic, but lacks explicit generational markers or detailed repercussions over time. Aileen's decision to seal the magic suggests awareness of future costs."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The narrative briefly touches on societal collapse and internal conflicts but lacks depth in exploring institutional ethics or technological implications beyond the alien invasion."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "Aileen's discovery of the magic book provides a clue to the origins of magic, driving the plot forward. However, the investigation lacks complexity and layered clues."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story presents internal, interpersonal, and external conflicts, with Aileen's moral dilemma, societal chaos, and alien threats interwoven effectively."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 7,
+      "justification": "The narrative shows clear value shifts, such as Aileen's transition from individual power to collective unity. The causal chain is logical, though some transitions could be more nuanced."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 6,
+      "justification": "The structure follows a clear three-act progression, with turning points at each act. However, the pacing could be more dynamic, and the climax, while effective, lacks surprise."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 7,
+      "justification": "Key scenes, such as Aileen's decision to unite survivors, have emotional resonance. Her final reflection provides a lasting impact, though earlier scenes could heighten emotional peaks."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 8,
+      "justification": "The ending addresses both personal and societal issues, with Aileen's internal reflection and the decision to seal magic. It retains moral ambiguity, avoiding simplistic resolutions."
+    }
+  ],
+  "overall_summary": "The narrative presents a post-apocalyptic scenario where magic resurfaces as a means of survival against alien invaders. The protagonist, Aileen, faces a moral dilemma regarding the use of this power, which requires life sacrifices. The story explores themes of unity, sacrifice, and the ethical implications of power, culminating in a resolution that balances personal and societal needs.",
+  "total_score": 64,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a post-apocalyptic scenario where magic resurfaces as a means of survival against alien invaders. The protagonist, Aileen, faces a moral dilemma regarding the use of this power, which requires life sacrifices. The story explores themes of unity, sacrifice, and the ethical implications of power, culminating in a resolution that balances personal and societal needs.\n\nCRITERION_SCORES:\nCRITERION_1|Character Depth & Dilemma Arc|7|Aileen's moral conflict is well-defined, as she must choose between using magic to protect survivors or avoiding its historical pitfalls. Her internal transformation is evident as she shifts from individual power to collective action.\nCRITERION_2|Memory Anchors & Sensory Specificity|5|The narrative lacks specific sensory details or recurring objects that trigger memories or decisions. The magic book serves as a plot device but does not evoke sensory specificity.\nCRITERION_3|Intergenerational Span & Long-term Causality|6|The story hints at long-term consequences of using magic, but lacks explicit generational markers or detailed repercussions over time. Aileen's decision to seal the magic suggests awareness of future costs.\nCRITERION_4|Complexity of Institutional & Technological Ethics|5|The narrative briefly touches on societal collapse and internal conflicts but lacks depth in exploring institutional ethics or technological implications beyond the alien invasion.\nCRITERION_5|Investigative Drive & Clue Architecture|6|Aileen's discovery of the magic book provides a clue to the origins of magic, driving the plot forward. However, the investigation lacks complexity and layered clues.\nCRITERION_6|Multi-layered Conflict|7|The story presents internal, interpersonal, and external conflicts, with Aileen's moral dilemma, societal chaos, and alien threats interwoven effectively.\nCRITERION_7|Value Shifts & Causal Cohesion|7|The narrative shows clear value shifts, such as Aileen's transition from individual power to collective unity. The causal chain is logical, though some transitions could be more nuanced.\nCRITERION_8|Structural Hierarchy, Pacing & Effective Turning Points|6|The structure follows a clear three-act progression, with turning points at each act. However, the pacing could be more dynamic, and the climax, while effective, lacks surprise.\nCRITERION_9|Emotional Impact & Aftershock|7|Key scenes, such as Aileen's decision to unite survivors, have emotional resonance. Her final reflection provides a lasting impact, though earlier scenes could heighten emotional peaks.\nCRITERION_10|Dual Resonance & Moral Ambiguity of the Ending|8|The ending addresses both personal and societal issues, with Aileen's internal reflection and the decision to seal magic. It retains moral ambiguity, avoiding simplistic resolutions.\n===EVALUATION_END===",
+  "created_at": "2025-09-01T08:44:33.207520+00:00"
+}

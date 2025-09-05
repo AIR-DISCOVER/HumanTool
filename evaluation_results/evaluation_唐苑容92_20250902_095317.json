@@ -1,0 +1,86 @@
+{
+  "user_name": "唐苑容92",
+  "user_group": "writing_a2",
+  "user_group_display": "写作 A-2",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个魔力稀薄的世界中，主角在恐惧与道德困境中挣扎，最终因力量的诱惑走向黑暗，成为被追捕的逃亡者。\r\n第二部分：第一幕\r\n\r\n主角生活在一个强者为尊的社会，感到无力和恐惧，目睹了有力量的人通过杀害同类获取力量的秘密。她将这个秘密告诉了自己的伴侣，却在外星人袭击时面临伴侣垂死的请求：杀了他以获取力量。最终，她在痛苦与不甘中选择了下手，获得了强大的魔力。\r\n第三部分：第二幕\r\n\r\n在获得力量后，主角开始变得混乱邪恶，逐渐沉迷于杀害弱小的人以增强自己的力量。她的行为引起了社会的关注和恐慌，司法系统试图审判她，但普通的暴力机关难以对抗她的魔力，主角在道德的深渊中越陷越深。\r\n第四部分：第三幕\r\n\r\n主角的行径最终被揭露，她成为社会的公敌，面临着被审判的命运。她利用自己的魔力逃脱了司法系统的追捕，成为一个逃亡者，故事以开放性结局结束，留下她在逃亡中继续挣扎的命运。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 6,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 6,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 0,
+    "Hierarchy of Beats & Midpoint/Climax Design": 7,
+    "Emotional Punch & Aftershock": 6,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The core concept of a protagonist struggling with moral dilemmas in a world where power is gained through dark means is intriguing and offers depth. The character's drive is clear, motivated by fear and the temptation of power, providing a strong foundation for the narrative.",
+    "Memory Anchors & Sensory Specificity": "The setting of a world with scarce magic and a society ruled by strength is specific and coherent. The inciting incident, where the protagonist is faced with a moral choice during an alien attack, effectively sets the stage for her transformation, though more detail on the world could enhance immersion.",
+    "Intergenerational Span & Long-term Causality": "The protagonist's descent into chaos and evil is clear, with escalating conflict as she becomes a societal threat. However, the progression could be more nuanced, with deeper exploration of antagonistic forces and the protagonist's internal struggle.",
+    "Institutional & Tech Ethical Complexity": "The climax, where the protagonist becomes a fugitive, offers an irreversible shift in values. The open-ended conclusion leaves room for reflection on the controlling idea of power's corruptive nature, though a more definitive resolution could enhance satisfaction.",
+    "Investigative Drive & Clue Architecture": "The narrative structure is generally effective, but could benefit from tighter pacing and more intricate plot twists to maintain engagement throughout.",
+    "Multi-layered Conflict": "Character development is strong, particularly in the protagonist's transformation, though secondary characters could be more fleshed out to enrich the narrative.",
+    "Value Turns & Causal Cohesion": "",
+    "Hierarchy of Beats & Midpoint/Climax Design": "Dialogue and interactions effectively convey character motivations and societal dynamics, though could be more varied to enhance realism.",
+    "Emotional Punch & Aftershock": "The narrative voice is consistent, but could be more distinctive to elevate the storytelling.",
+    "Dual Resonance of Ending: Personal & Public": "Imagery and descriptive elements are vivid, contributing to the fantastical atmosphere, though more sensory details could enhance the setting further."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The core concept of a protagonist struggling with moral dilemmas in a world where power is gained through dark means is intriguing and offers depth. The character's drive is clear, motivated by fear and the temptation of power, providing a strong foundation for the narrative."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The setting of a world with scarce magic and a society ruled by strength is specific and coherent. The inciting incident, where the protagonist is faced with a moral choice during an alien attack, effectively sets the stage for her transformation, though more detail on the world could enhance immersion."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 6,
+      "justification": "The protagonist's descent into chaos and evil is clear, with escalating conflict as she becomes a societal threat. However, the progression could be more nuanced, with deeper exploration of antagonistic forces and the protagonist's internal struggle."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The climax, where the protagonist becomes a fugitive, offers an irreversible shift in values. The open-ended conclusion leaves room for reflection on the controlling idea of power's corruptive nature, though a more definitive resolution could enhance satisfaction."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 6,
+      "justification": "The narrative structure is generally effective, but could benefit from tighter pacing and more intricate plot twists to maintain engagement throughout."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "Character development is strong, particularly in the protagonist's transformation, though secondary characters could be more fleshed out to enrich the narrative."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 0,
+      "justification": ""
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 7,
+      "justification": "Dialogue and interactions effectively convey character motivations and societal dynamics, though could be more varied to enhance realism."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 6,
+      "justification": "The narrative voice is consistent, but could be more distinctive to elevate the storytelling."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "Imagery and descriptive elements are vivid, contributing to the fantastical atmosphere, though more sensory details could enhance the setting further."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling exploration of moral dilemmas and the corrupting influence of power within a fantastical setting. The protagonist's journey from fear to darkness is well-articulated, though certain structural elements could benefit from further development to enhance tension and resolution.",
+  "total_score": 61,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling exploration of moral dilemmas and the corrupting influence of power within a fantastical setting. The protagonist's journey from fear to darkness is well-articulated, though certain structural elements could benefit from further development to enhance tension and resolution.\n\nCRITERION_SCORES:\nCRITERION_1|Phase one -- Core Concept & Character Drive|8|The core concept of a protagonist struggling with moral dilemmas in a world where power is gained through dark means is intriguing and offers depth. The character's drive is clear, motivated by fear and the temptation of power, providing a strong foundation for the narrative.\nCRITERION_2|Phase two -- World Setting & Inciting Incident|7|The setting of a world with scarce magic and a society ruled by strength is specific and coherent. The inciting incident, where the protagonist is faced with a moral choice during an alien attack, effectively sets the stage for her transformation, though more detail on the world could enhance immersion.\nCRITERION_3|Phase three -- Structural Development & Conflict Escalation)|6|The protagonist's descent into chaos and evil is clear, with escalating conflict as she becomes a societal threat. However, the progression could be more nuanced, with deeper exploration of antagonistic forces and the protagonist's internal struggle.\nCRITERION_4|Phase four -- Crisis, Climax & Controlling Idea Confirmation|7|The climax, where the protagonist becomes a fugitive, offers an irreversible shift in values. The open-ended conclusion leaves room for reflection on the controlling idea of power's corruptive nature, though a more definitive resolution could enhance satisfaction.\nCRITERION_5| |6|The narrative structure is generally effective, but could benefit from tighter pacing and more intricate plot twists to maintain engagement throughout.\nCRITERION_6| |7|Character development is strong, particularly in the protagonist's transformation, though secondary characters could be more fleshed out to enrich the narrative.\nCRITERION_7||6|The thematic exploration of power and morality is compelling, but could be deepened with more philosophical or ethical considerations.\nCRITERION_8| |7|Dialogue and interactions effectively convey character motivations and societal dynamics, though could be more varied to enhance realism.\nCRITERION_9| |6|The narrative voice is consistent, but could be more distinctive to elevate the storytelling.\nCRITERION_10| |7|Imagery and descriptive elements are vivid, contributing to the fantastical atmosphere, though more sensory details could enhance the setting further.\n===EVALUATION_END===",
+  "created_at": "2025-09-02T09:53:17.043520+00:00"
+}

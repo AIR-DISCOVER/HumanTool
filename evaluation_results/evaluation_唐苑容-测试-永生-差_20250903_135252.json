@@ -1,0 +1,86 @@
+{
+  "user_name": "唐苑容-测试-永生-差",
+  "user_group": "writing_b1",
+  "user_group_display": "写作 B-1",
+  "submitted_text": "当你28岁时，科学发现了一种阻止所有衰老效应的药物，创造了不朽。你的政府决定将药物提供给所有公民，免费。\"永生快乐！\"当你85岁时，副作用被发现了。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 4,
+    "Intergenerational Span & Long-term Causality": 6,
+    "Institutional & Tech Ethical Complexity": 5,
+    "Investigative Drive & Clue Architecture": 5,
+    "Multi-layered Conflict": 4,
+    "Value Turns & Causal Cohesion": 3,
+    "Hierarchy of Beats & Midpoint/Climax Design": 4,
+    "Emotional Punch & Aftershock": 4,
+    "Dual Resonance of Ending: Personal & Public": 5
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of a drug that halts aging and grants immortality is highly compelling and poses a powerful \"what if?\" question about the consequences of eternal life.",
+    "Memory Anchors & Sensory Specificity": "The text lacks character development, providing no insight into the protagonist's personality or desires beyond the context of the premise.",
+    "Intergenerational Span & Long-term Causality": "The story hints at a controlling idea regarding the unforeseen consequences of immortality, but it remains underdeveloped due to the text's brevity.",
+    "Institutional & Tech Ethical Complexity": "The conflict is introduced with the discovery of side effects, but the escalation is not fully realized within the short text.",
+    "Investigative Drive & Clue Architecture": "The potential for internal, interpersonal, and societal conflict is present, but the text does not explore these dimensions in depth.",
+    "Multi-layered Conflict": "The text lacks clear structural turning points and dynamic rhythm, as it quickly jumps from the introduction of immortality to the discovery of side effects.",
+    "Value Turns & Causal Cohesion": "There is no evident crisis decision or character consistency due to the absence of developed characters and a detailed plot.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The discovery of side effects serves as a climax, but its impact is limited by the lack of preceding narrative development.",
+    "Emotional Punch & Aftershock": "The controlling idea is not fully expressed or confirmed, as the narrative ends abruptly without exploring the consequences of the side effects.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative is original in its premise, but the details are sparse, lacking depth and refinement in character and plot development."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of a drug that halts aging and grants immortality is highly compelling and poses a powerful \"what if?\" question about the consequences of eternal life."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 4,
+      "justification": "The text lacks character development, providing no insight into the protagonist's personality or desires beyond the context of the premise."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 6,
+      "justification": "The story hints at a controlling idea regarding the unforeseen consequences of immortality, but it remains underdeveloped due to the text's brevity."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 5,
+      "justification": "The conflict is introduced with the discovery of side effects, but the escalation is not fully realized within the short text."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 5,
+      "justification": "The potential for internal, interpersonal, and societal conflict is present, but the text does not explore these dimensions in depth."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 4,
+      "justification": "The text lacks clear structural turning points and dynamic rhythm, as it quickly jumps from the introduction of immortality to the discovery of side effects."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 3,
+      "justification": "There is no evident crisis decision or character consistency due to the absence of developed characters and a detailed plot."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 4,
+      "justification": "The discovery of side effects serves as a climax, but its impact is limited by the lack of preceding narrative development."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 4,
+      "justification": "The controlling idea is not fully expressed or confirmed, as the narrative ends abruptly without exploring the consequences of the side effects."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 5,
+      "justification": "The narrative is original in its premise, but the details are sparse, lacking depth and refinement in character and plot development."
+    }
+  ],
+  "overall_summary": "The narrative presents a compelling premise of immortality through a scientific breakthrough, which is later complicated by unforeseen side effects. The story hints at a deep exploration of the implications of eternal life, both on a personal and societal level. However, the brevity of the text limits the development of characters, conflict, and thematic depth.",
+  "total_score": 48,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative presents a compelling premise of immortality through a scientific breakthrough, which is later complicated by unforeseen side effects. The story hints at a deep exploration of the implications of eternal life, both on a personal and societal level. However, the brevity of the text limits the development of characters, conflict, and thematic depth.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of a drug that halts aging and grants immortality is highly compelling and poses a powerful \"what if?\" question about the consequences of eternal life.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|4|The text lacks character development, providing no insight into the protagonist's personality or desires beyond the context of the premise.\nCRITERION_3|Preliminary Direction of the Controlling Idea|6|The story hints at a controlling idea regarding the unforeseen consequences of immortality, but it remains underdeveloped due to the text's brevity.\nCRITERION_4|Progressive Escalation of Conflict|5|The conflict is introduced with the discovery of side effects, but the escalation is not fully realized within the short text.\nCRITERION_5|Breadth and Levels of Conflict|5|The potential for internal, interpersonal, and societal conflict is present, but the text does not explore these dimensions in depth.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|4|The text lacks clear structural turning points and dynamic rhythm, as it quickly jumps from the introduction of immortality to the discovery of side effects.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|3|There is no evident crisis decision or character consistency due to the absence of developed characters and a detailed plot.\nCRITERION_8| Impact and Depth of Meaning in the Climax|4|The discovery of side effects serves as a climax, but its impact is limited by the lack of preceding narrative development.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|4|The controlling idea is not fully expressed or confirmed, as the narrative ends abruptly without exploring the consequences of the side effects.\nCRITERION_10|Refinement and Originality of Narrative Details|5|The narrative is original in its premise, but the details are sparse, lacking depth and refinement in character and plot development.\n===EVALUATION_END===",
+  "created_at": "2025-09-03T13:52:52.743013+00:00"
+}

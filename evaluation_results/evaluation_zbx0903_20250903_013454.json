@@ -1,0 +1,86 @@
+{
+  "user_name": "zbx0903",
+  "user_group": "writing_b2",
+  "user_group_display": "写作 B-2",
+  "submitted_text": "第一部分：故事概括\r\n\r\n在一个追求永生的时代，一位错过长生不老药物的28岁主角经历了从失望到庆幸的心路历程，最终领悟生命的真正意义。\r\n第二部分：第一幕\r\n\r\n故事开始于主角28岁时，科学界宣布发现了一种能够阻止衰老的药物，但政府规定只有26岁以下的公民才能获得这种药物。主角感到失望和遗憾，目睹身边的年轻人纷纷接受药物，自己却被排除在外，心中充满了对未来的焦虑和对失去机会的不甘，他尝试通过各种手段争取服药机会，包括游说政府官员、参与抗议活动，甚至寻求非法途径，但最终未果，陷入了消极沮丧的情绪中，沉迷于对青春永驻的幻想。\r\n第三部分：第二幕\r\n\r\n随着时间的推移，主角逐渐适应了没有药物的生活，努力在有限的生命中寻找意义。他开始关注健康生活方式，珍惜与家人和朋友的时光，并在事业上取得了成就。尽管内心仍有遗憾，但他发现自己在自然的生命进程中获得了意想不到的满足感，与此同时，服用药物的年轻一代逐渐显露出一些微妙的变化，尽管他们看似永葆青春，但内心的空虚和对未来的迷茫开始显现。\r\n第四部分：第三幕\r\n\r\n在主角85岁时，他意外获得了服用长生不老药的机会，面临着是否要抓住这次机会的抉择。经过深思熟虑，他选择不服用药物，随后科学家们发现了药物的严重副作用，服用者的身体和心理健康受到不可逆的损害。主角意识到自己当初的遗憾竟成为了幸运，他庆幸自己没有服用药物，反而在自然的生命进程中找到了内心的平和与满足，故事以主角对生命的敬畏和对过往得失的包容心态结束，传达出生命的代价与两面性，以及遵从自然法则的重要性。",
+  "scores": {
+    "Character Depth & Moral Dilemma Arc": 8,
+    "Memory Anchors & Sensory Specificity": 7,
+    "Intergenerational Span & Long-term Causality": 8,
+    "Institutional & Tech Ethical Complexity": 7,
+    "Investigative Drive & Clue Architecture": 7,
+    "Multi-layered Conflict": 7,
+    "Value Turns & Causal Cohesion": 8,
+    "Hierarchy of Beats & Midpoint/Climax Design": 8,
+    "Emotional Punch & Aftershock": 8,
+    "Dual Resonance of Ending: Personal & Public": 7
+  },
+  "justifications": {
+    "Character Depth & Moral Dilemma Arc": "The premise of a society pursuing immortality and the protagonist's journey from disappointment to enlightenment is compelling and poses a strong \"what if?\" question about the value of natural life versus artificial longevity.",
+    "Memory Anchors & Sensory Specificity": "The protagonist is well-developed, showing a range of emotions from regret to acceptance. His desires are clear and drive the narrative, though secondary characters could be more fleshed out.",
+    "Intergenerational Span & Long-term Causality": "The story has a clear direction, emphasizing the value of natural life and the dangers of artificial interventions. This is consistently reflected in the protagonist's journey and ultimate decision.",
+    "Institutional & Tech Ethical Complexity": "The conflict escalates from personal disappointment to societal pressures and finally to a moral dilemma, effectively pushing the protagonist to a point of no return.",
+    "Investigative Drive & Clue Architecture": "The narrative includes internal struggles, societal pressures, and ethical dilemmas, providing a well-rounded depiction of conflict across different levels.",
+    "Multi-layered Conflict": "The story's turning points, such as the protagonist's adaptation to life without the drug and his final decision, are impactful and drive the narrative forward, maintaining a dynamic rhythm.",
+    "Value Turns & Causal Cohesion": "The protagonist faces a genuine dilemma at the climax, choosing between immortality and natural life. His decision is consistent with his character development throughout the story.",
+    "Hierarchy of Beats & Midpoint/Climax Design": "The climax is impactful, revealing the drug's severe side effects and affirming the protagonist's choice. It provides a profound commentary on the value of natural life.",
+    "Emotional Punch & Aftershock": "The controlling idea is clearly expressed through the protagonist's final decision and the revelation of the drug's consequences, leaving the audience with a deep understanding of the story's message.",
+    "Dual Resonance of Ending: Personal & Public": "The narrative details are well-crafted, with purposeful scenes and authentic dialogue. While the imagery system is effective, some elements could be more original to enhance expression further."
+  },
+  "metrics": [
+    {
+      "name": "Character Depth & Moral Dilemma Arc",
+      "score": 8,
+      "justification": "The premise of a society pursuing immortality and the protagonist's journey from disappointment to enlightenment is compelling and poses a strong \"what if?\" question about the value of natural life versus artificial longevity."
+    },
+    {
+      "name": "Memory Anchors & Sensory Specificity",
+      "score": 7,
+      "justification": "The protagonist is well-developed, showing a range of emotions from regret to acceptance. His desires are clear and drive the narrative, though secondary characters could be more fleshed out."
+    },
+    {
+      "name": "Intergenerational Span & Long-term Causality",
+      "score": 8,
+      "justification": "The story has a clear direction, emphasizing the value of natural life and the dangers of artificial interventions. This is consistently reflected in the protagonist's journey and ultimate decision."
+    },
+    {
+      "name": "Institutional & Tech Ethical Complexity",
+      "score": 7,
+      "justification": "The conflict escalates from personal disappointment to societal pressures and finally to a moral dilemma, effectively pushing the protagonist to a point of no return."
+    },
+    {
+      "name": "Investigative Drive & Clue Architecture",
+      "score": 7,
+      "justification": "The narrative includes internal struggles, societal pressures, and ethical dilemmas, providing a well-rounded depiction of conflict across different levels."
+    },
+    {
+      "name": "Multi-layered Conflict",
+      "score": 7,
+      "justification": "The story's turning points, such as the protagonist's adaptation to life without the drug and his final decision, are impactful and drive the narrative forward, maintaining a dynamic rhythm."
+    },
+    {
+      "name": "Value Turns & Causal Cohesion",
+      "score": 8,
+      "justification": "The protagonist faces a genuine dilemma at the climax, choosing between immortality and natural life. His decision is consistent with his character development throughout the story."
+    },
+    {
+      "name": "Hierarchy of Beats & Midpoint/Climax Design",
+      "score": 8,
+      "justification": "The climax is impactful, revealing the drug's severe side effects and affirming the protagonist's choice. It provides a profound commentary on the value of natural life."
+    },
+    {
+      "name": "Emotional Punch & Aftershock",
+      "score": 8,
+      "justification": "The controlling idea is clearly expressed through the protagonist's final decision and the revelation of the drug's consequences, leaving the audience with a deep understanding of the story's message."
+    },
+    {
+      "name": "Dual Resonance of Ending: Personal & Public",
+      "score": 7,
+      "justification": "The narrative details are well-crafted, with purposeful scenes and authentic dialogue. While the imagery system is effective, some elements could be more original to enhance expression further."
+    }
+  ],
+  "overall_summary": "The narrative explores the theme of immortality versus natural life, focusing on a protagonist who misses the chance to take an anti-aging drug and ultimately finds peace and meaning in a natural life. The story effectively conveys the idea that true fulfillment comes from accepting life's natural course rather than seeking artificial means to extend it.",
+  "total_score": 75,
+  "ai_response": "===EVALUATION_START===\nOVERALL_SUMMARY: The narrative explores the theme of immortality versus natural life, focusing on a protagonist who misses the chance to take an anti-aging drug and ultimately finds peace and meaning in a natural life. The story effectively conveys the idea that true fulfillment comes from accepting life's natural course rather than seeking artificial means to extend it.\n\nCRITERION_SCORES:\nCRITERION_1| Attractiveness and Depth of the Premise|8|The premise of a society pursuing immortality and the protagonist's journey from disappointment to enlightenment is compelling and poses a strong \"what if?\" question about the value of natural life versus artificial longevity.\nCRITERION_2|Authenticity and Multi-dimensionality of Characters|7|The protagonist is well-developed, showing a range of emotions from regret to acceptance. His desires are clear and drive the narrative, though secondary characters could be more fleshed out.\nCRITERION_3|Preliminary Direction of the Controlling Idea|8|The story has a clear direction, emphasizing the value of natural life and the dangers of artificial interventions. This is consistently reflected in the protagonist's journey and ultimate decision.\nCRITERION_4|Progressive Escalation of Conflict|7|The conflict escalates from personal disappointment to societal pressures and finally to a moral dilemma, effectively pushing the protagonist to a point of no return.\nCRITERION_5|Breadth and Levels of Conflict|7|The narrative includes internal struggles, societal pressures, and ethical dilemmas, providing a well-rounded depiction of conflict across different levels.\nCRITERION_6|Effectiveness of Structural Turning Points and Dynamic Rhythm|7|The story's turning points, such as the protagonist's adaptation to life without the drug and his final decision, are impactful and drive the narrative forward, maintaining a dynamic rhythm.\nCRITERION_7|Dilemma of Crisis Decision and Character Consistency|8|The protagonist faces a genuine dilemma at the climax, choosing between immortality and natural life. His decision is consistent with his character development throughout the story.\nCRITERION_8| Impact and Depth of Meaning in the Climax|8|The climax is impactful, revealing the drug's severe side effects and affirming the protagonist's choice. It provides a profound commentary on the value of natural life.\nCRITERION_9|Final Confirmation and Expression of the Controlling Idea|8|The controlling idea is clearly expressed through the protagonist's final decision and the revelation of the drug's consequences, leaving the audience with a deep understanding of the story's message.\nCRITERION_10|Refinement and Originality of Narrative Details|7|The narrative details are well-crafted, with purposeful scenes and authentic dialogue. While the imagery system is effective, some elements could be more original to enhance expression further.\n===EVALUATION_END===",
+  "created_at": "2025-09-03T01:34:54.793211+00:00"
+}
