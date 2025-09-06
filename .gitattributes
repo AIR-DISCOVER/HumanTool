@@ -1,0 +1,2 @@
+TravelPlanningTaskSystem/agent/TravelPlanner/images/*.mp4 filter=lfs diff=lfs merge=lfs -text
+TravelPlanningTaskSystem/agent/TravelPlanner/database/flights/*.csv filter=lfs diff=lfs merge=lfs -text
