@@ -1,0 +1,109 @@
+services:
+  # MySQL数据库
+  mysql:
+    image: mysql:8.0
+    container_name: tata-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: tata
+      MYSQL_USER: tata_user
+      MYSQL_PASSWORD: tata_pass
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - tata-network
+    command: --default-authentication-plugin=mysql_native_password --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 20s
+      retries: 10
+
+  profile-manager:
+    build:
+      context: ./profile_manager
+      dockerfile: Dockerfile
+    image: tata-profile-manager-exp:latest  # 添加唯一镜像名
+    container_name: tata-profile-manager
+    restart: unless-stopped
+    ports:
+      - "3005:5000"
+    environment:
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_USER=root
+      - DB_PASSWORD=123456
+      - DB_NAME=tata
+    networks:
+      - tata-network
+    depends_on:
+      mysql:
+        condition: service_healthy
+
+  # 后端服务
+  backend:
+    build: .
+    image: tata-backend-exp:latest  # 添加唯一镜像名
+    container_name: tata-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_USER=root
+      - DB_PASSWORD=123456
+      - DB_NAME=tata
+    volumes:
+      - ./agent/.env:/app/agent/.env
+    networks:
+      - tata-network
+    depends_on:
+      mysql:
+        condition: service_healthy
+
+  # 前端服务
+  frontend:
+    build: 
+      context: .
+      dockerfile: tata-frontend/Dockerfile
+    image: tata-frontend-exp:latest  # 添加唯一镜像名
+    container_name: tata-frontend
+    restart: unless-stopped
+    ports:
+      - "3001:80"
+    environment:
+      - REACT_APP_API_URL=http://118.145.144.155:8000
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    networks:
+      - tata-network
+    depends_on:
+      - backend
+
+  # Metabase可视化工具
+  metabase:
+    image: metabase/metabase:v0.47.0
+    container_name: tata-metabase
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      MB_DB_TYPE: h2
+      MB_DB_FILE: /metabase-data/metabase.db
+    volumes:
+      - metabase_data:/metabase-data
+    networks:
+      - tata-network
+    depends_on:
+      - mysql
+
+volumes:
+  mysql_data:
+  metabase_data:
+
+networks:
+  tata-network:
+    driver: bridge

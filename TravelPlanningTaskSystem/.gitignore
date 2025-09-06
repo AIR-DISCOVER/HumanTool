@@ -1,0 +1,167 @@
+# Python虚拟环境
+tata_env/
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 分发/打包
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# 单元测试 / 覆盖率报告
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+
+
+# 日志文件
+*.log
+logs/
+log/
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# 前端依赖和构建文件
+tata-frontend/node_modules/
+tata-frontend/build/
+tata-frontend/dist/
+tata-frontend/.env.local
+tata-frontend/.env.development.local
+tata-frontend/.env.test.local
+tata-frontend/.env.production.local
+tata-frontend/npm-debug.log*
+tata-frontend/yarn-debug.log*
+tata-frontend/yarn-error.log*
+
+# 临时文件和备份
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Docker相关
+docker-compose.override.yml
+
+# 项目特定文件
+# 生成的requirements文件
+requirements_generated.txt
+requirements_freeze.txt
+
+# 数据库备份
+*.sql.backup
+database_backup/
+
+# 上传文件
+uploads/
+temp_files/
+
+# 开发工具生成的文件
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# 锁文件（可选择性忽略）
+# poetry.lock
+# pipfile.lock
+
+# 忽略 profile_manager 下的 app.py 和 index.html
+profile_manager/app.py
+profile_manager/templates/index.html
