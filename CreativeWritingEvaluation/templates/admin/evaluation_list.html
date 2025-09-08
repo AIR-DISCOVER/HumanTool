@@ -1,0 +1,307 @@
+{% extends 'admin/base.html' %}
+
+{% block title %}评估结果列表{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h4 class="mb-0">
+                    <i class="fas fa-list me-2"></i>评估结果列表
+                </h4>
+                <div>
+                    <a href="{% url 'admin_views:export_evaluations' %}{% if request.GET %}?{{ request.GET.urlencode }}{% endif %}" class="btn btn-success">
+                        <i class="fas fa-download me-1"></i>导出当前筛选结果
+                    </a>
+                    <button type="button" class="btn btn-danger" onclick="batchDelete()">
+                        <i class="fas fa-trash me-1"></i>批量删除
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 筛选表单 -->
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0">
+                    <i class="fas fa-filter me-2"></i>筛选条件
+                </h5>
+            </div>
+            <div class="card-body">
+                <form method="get" class="row g-3">
+                    <div class="col-md-3">
+                        <label class="form-label">搜索</label>
+                        <input type="text" class="form-control" name="search" value="{{ search_query }}" placeholder="姓名或内容">
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label">组别</label>
+                        <select class="form-select" name="group">
+                            <option value="">全部组别</option>
+                            {% for choice in group_choices %}
+                                <option value="{{ choice.0 }}" {% if group_filter == choice.0 %}selected{% endif %}>
+                                    {{ choice.1 }}
+                                </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label">开始日期</label>
+                        <input type="date" class="form-control" name="date_from" value="{{ date_from }}">
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label">结束日期</label>
+                        <input type="date" class="form-control" name="date_to" value="{{ date_to }}">
+                    </div>
+                    <div class="col-md-1">
+                        <label class="form-label">最低分</label>
+                        <input type="number" class="form-control" name="score_min" value="{{ score_min }}" min="0" max="100">
+                    </div>
+                    <div class="col-md-1">
+                        <label class="form-label">最高分</label>
+                        <input type="number" class="form-control" name="score_max" value="{{ score_max }}" min="0" max="100">
+                    </div>
+                    <div class="col-md-1 d-flex align-items-end">
+                        <button type="submit" class="btn btn-primary w-100">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 评估结果表格 -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">
+                    <i class="fas fa-table me-2"></i>评估结果 (共 {{ page_obj.paginator.count }} 条)
+                </h5>
+                <div class="btn-group" role="group">
+                    <input type="radio" class="btn-check" name="sort" id="sort-date" value="-created_at" {% if sort_by == '-created_at' %}checked{% endif %}>
+                    <label class="btn btn-outline-primary btn-sm" for="sort-date">按时间</label>
+                    
+                    <input type="radio" class="btn-check" name="sort" id="sort-score" value="-total_score" {% if sort_by == '-total_score' %}checked{% endif %}>
+                    <label class="btn btn-outline-primary btn-sm" for="sort-score">按分数</label>
+                    
+                    <input type="radio" class="btn-check" name="sort" id="sort-name" value="user_name" {% if sort_by == 'user_name' %}checked{% endif %}>
+                    <label class="btn btn-outline-primary btn-sm" for="sort-name">按姓名</label>
+                </div>
+            </div>
+            <div class="card-body p-0">
+                <div class="table-responsive">
+                    <table class="table table-hover mb-0">
+                        <thead>
+                            <tr>
+                                <th width="40">
+                                    <input type="checkbox" id="selectAll" class="form-check-input">
+                                </th>
+                                <th>ID</th>
+                                <th>姓名</th>
+                                <th>组别</th>
+                                <th>总分</th>
+                                <th>各指标分数</th>
+                                <th>创建时间</th>
+                                <th width="120">操作</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for evaluation in page_obj %}
+                            <tr>
+                                <td>
+                                    <input type="checkbox" class="form-check-input evaluation-checkbox" value="{{ evaluation.id }}">
+                                </td>
+                                <td>{{ evaluation.id }}</td>
+                                <td>
+                                    <strong>{{ evaluation.user_name }}</strong>
+                                </td>
+                                <td>
+                                    <span class="badge bg-info">{{ evaluation.get_user_group_display }}</span>
+                                </td>
+                                <td>
+                                    <span class="badge score-badge {% if evaluation.total_score >= 28 %}score-high{% elif evaluation.total_score >= 20 %}score-medium{% else %}score-low{% endif %}">
+                                        {{ evaluation.total_score }}
+                                    </span>
+                                </td>
+                                <td>
+                                    <div class="d-flex gap-1 flex-wrap">
+                                        {% for metric in evaluation.get_all_metrics %}
+                                        <span class="badge bg-secondary" title="{{ metric.name }}">{{ metric.score }}</span>
+                                        {% endfor %}
+                                    </div>
+                                </td>
+                                <td>
+                                    <small>{{ evaluation.created_at|date:"Y-m-d H:i" }}</small>
+                                </td>
+                                <td>
+                                    <div class="btn-group btn-group-sm" role="group">
+                                        <a href="{% url 'admin_views:evaluation_detail' evaluation.id %}" class="btn btn-outline-primary" title="查看详情">
+                                            <i class="fas fa-eye"></i>
+                                        </a>
+                                        <a href="{% url 'admin_views:export_single_evaluation' evaluation.id %}" class="btn btn-outline-success" title="导出">
+                                            <i class="fas fa-download"></i>
+                                        </a>
+                                        <button type="button" class="btn btn-outline-danger" onclick="deleteEvaluation({{ evaluation.id }}, '{{ evaluation.user_name }}')" title="删除">
+                                            <i class="fas fa-trash"></i>
+                                        </button>
+                                    </div>
+                                </td>
+                            </tr>
+                            {% empty %}
+                            <tr>
+                                <td colspan="8" class="text-center text-muted py-4">
+                                    <i class="fas fa-inbox fa-3x mb-3 d-block"></i>
+                                    暂无符合条件的评估结果
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 分页 -->
+{% if page_obj.has_other_pages %}
+<div class="row mt-4">
+    <div class="col-12">
+        <nav aria-label="分页导航">
+            <ul class="pagination justify-content-center">
+                {% if page_obj.has_previous %}
+                    <li class="page-item">
+                        <a class="page-link" href="?page=1{% if request.GET %}&{{ request.GET.urlencode }}{% endif %}">首页</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="?page={{ page_obj.previous_page_number }}{% if request.GET %}&{{ request.GET.urlencode }}{% endif %}">上一页</a>
+                    </li>
+                {% endif %}
+                
+                {% for num in page_obj.paginator.page_range %}
+                    {% if page_obj.number == num %}
+                        <li class="page-item active">
+                            <span class="page-link">{{ num }}</span>
+                        </li>
+                    {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+                        <li class="page-item">
+                            <a class="page-link" href="?page={{ num }}{% if request.GET %}&{{ request.GET.urlencode }}{% endif %}">{{ num }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+                
+                {% if page_obj.has_next %}
+                    <li class="page-item">
+                        <a class="page-link" href="?page={{ page_obj.next_page_number }}{% if request.GET %}&{{ request.GET.urlencode }}{% endif %}">下一页</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="?page={{ page_obj.paginator.num_pages }}{% if request.GET %}&{{ request.GET.urlencode }}{% endif %}">末页</a>
+                    </li>
+                {% endif %}
+            </ul>
+        </nav>
+    </div>
+</div>
+{% endif %}
+{% endblock %}
+
+{% block extra_js %}
+<script>
+// 全选/取消全选
+document.getElementById('selectAll').addEventListener('change', function() {
+    const checkboxes = document.querySelectorAll('.evaluation-checkbox');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = this.checked;
+    });
+});
+
+// 排序功能
+document.querySelectorAll('input[name="sort"]').forEach(radio => {
+    radio.addEventListener('change', function() {
+        const url = new URL(window.location);
+        url.searchParams.set('sort', this.value);
+        window.location.href = url.toString();
+    });
+});
+
+// 删除单个评估结果
+function deleteEvaluation(id, userName) {
+    if (confirm(`确定要删除用户 "${userName}" 的评估结果吗？此操作不可恢复！`)) {
+        fetch(`/management/evaluations/${id}/delete/`, {
+            method: 'POST',
+            headers: {
+                'X-CSRFToken': getCookie('csrftoken'),
+                'Content-Type': 'application/json',
+            },
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                location.reload();
+            } else {
+                alert('删除失败：' + data.error);
+            }
+        })
+        .catch(error => {
+            alert('删除失败：' + error);
+        });
+    }
+}
+
+// 批量删除
+function batchDelete() {
+    const selectedIds = Array.from(document.querySelectorAll('.evaluation-checkbox:checked')).map(cb => cb.value);
+    
+    if (selectedIds.length === 0) {
+        alert('请选择要删除的评估结果');
+        return;
+    }
+    
+    if (confirm(`确定要删除选中的 ${selectedIds.length} 条评估结果吗？此操作不可恢复！`)) {
+        const form = document.createElement('form');
+        form.method = 'POST';
+        form.action = '/management/evaluations/batch-delete/';
+        
+        const csrfToken = document.createElement('input');
+        csrfToken.type = 'hidden';
+        csrfToken.name = 'csrfmiddlewaretoken';
+        csrfToken.value = getCookie('csrftoken');
+        form.appendChild(csrfToken);
+        
+        selectedIds.forEach(id => {
+            const input = document.createElement('input');
+            input.type = 'hidden';
+            input.name = 'evaluation_ids';
+            input.value = id;
+            form.appendChild(input);
+        });
+        
+        document.body.appendChild(form);
+        form.submit();
+    }
+}
+
+// 获取CSRF Token
+function getCookie(name) {
+    let cookieValue = null;
+    if (document.cookie && document.cookie !== '') {
+        const cookies = document.cookie.split(';');
+        for (let i = 0; i < cookies.length; i++) {
+            const cookie = cookies[i].trim();
+            if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                break;
+            }
+        }
+    }
+    return cookieValue;
+}
+</script>
+{% endblock %}
