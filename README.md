@@ -101,16 +101,7 @@ Taking `StoryWritingTaskSystem/agent/` as an example, its internal structure mig
     cd HumanTool
     ```
 
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Set up your API keys:**
-    * Create a `.env` file in the root directory.
-    * Add your Large Language Model API key to the file: `LLM_API_KEY='your-api-key-here'`
-
-4.  **Run a system:**
+2.  **Run a system:**
     * Please refer to the specific README files for detailed instructions on each system:
     * For the Story Writing Task System: See [StoryWritingTaskSystem/README.md](StoryWritingTaskSystem/README.md)
     * For the Travel Planning Task System: [TravelPlanningTaskSystem/README.md](TravelPlanningTaskSystem/README.md)
