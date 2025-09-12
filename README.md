@@ -53,7 +53,7 @@ This includes evaluation criteria for planning quality, constraint satisfaction 
 ## 📁 Code Structure
 
 The repository is organized with separate modules for each task system.
-
+```plaintext
 /
 ├── 📂 StoryWritingTaskSystem/
 │   ├── agent/
@@ -92,7 +92,7 @@ Taking `StoryWritingTaskSystem/agent/` as an example, its internal structure mig
 │   └── 📄 json_parser.py
 │
 └── 📄 graph.py
-
+```
 ## 🚀 Getting Started
 
 1.  **Clone the repository:**
