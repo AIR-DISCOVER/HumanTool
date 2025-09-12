@@ -220,7 +220,7 @@ def main():
     
     # 要删除的用户ID列表
     users_to_delete = [
-        'user_tyr',      # 专业创作者
+        'user_1',      # 专业创作者
         'web_user',     # Web用户
         # 'user_intermediate', # 进阶创作者  
         # 'user_novice'       # 新手创作者

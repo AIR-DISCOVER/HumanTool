@@ -362,7 +362,7 @@ async def get_user_accounts():
                                 'description': '通用创作协作者',
                                 'user_type': 'general'
                             })
-                        elif user[0] == 'user_tyr':
+                        elif user[0] == 'user_1':
                             accounts.append({
                                 'id': user[0], 
                                 'name': '唐苑容',
@@ -413,7 +413,7 @@ async def get_user_accounts():
                 "user_type": "general"
             },
             {
-                "id": "user_tyr", 
+                "id": "user_1", 
                 "name": "唐苑容", 
                 "experiment_group": "A",
                 "description": "创作老手，擅长文学创作和故事构建",

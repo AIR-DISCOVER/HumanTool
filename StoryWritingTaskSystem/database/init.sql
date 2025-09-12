@@ -124,7 +124,7 @@ INSERT INTO users (
     overall_profile, information_capabilities, reasoning_capabilities, 
     last_updated, `accessible`, preferences, created_at, updated_at
 ) VALUES (
-    'user_tyr1', '刘彦淞', '刘彦淞', 'admin', 'admin',
+    'user_11', '刘彦淞', '刘彦淞', 'admin', 'admin',
     '经常能想出有趣的故事设定，对角色和情节价值的判断通常比较准确。掌握一些基本写作技能，能完成简单故事的构思与表达',
     JSON_ARRAY(
         '认知判断与创造力：经常能想出有趣的故事设定，对角色和情节价值的判断通常比较准确',

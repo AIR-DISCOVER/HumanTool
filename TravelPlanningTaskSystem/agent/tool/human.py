@@ -261,7 +261,7 @@ class HumanToolManager:
         if not overall_profile:
             if user_id == 'user_main':
                 overall_profile = "通用创作协作者，具备多元化背景和灵活适应能力"
-            elif user_id == 'user_tyr':
+            elif user_id == 'user_1':
                 overall_profile = "创作老手，擅长文学创作和故事构建，具有丰富的创作经验"
             else:
                 overall_profile = f"专业协作者 {display_name}，具备专业的协作能力"

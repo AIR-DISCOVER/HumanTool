@@ -94,9 +94,9 @@ def migrate_user_profiles(connection):
             
             # 🎯 新的专业用户档案数据
             enhanced_user_profiles = {
-                'user_tyr1': {
-                    'name': '唐旋',
-                    'display_name': '唐旋',
+                'user_11': {
+                    'name': 'Alice',
+                    'display_name': 'Alice',
                     'user_type': 'admin',
                     'experiment_group': 'admin',
                     "overall_profile": "具有3年视觉设计经验的海报设计师，擅长品牌视觉表达和创意概念呈现，对平面设计和视觉传达有深度理解",
