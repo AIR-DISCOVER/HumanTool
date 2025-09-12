@@ -29,55 +29,69 @@ This repository contains the two core experimental systems used in the paper to 
 
 ## 📊 Evaluation
 
+### Story Writing Task Evaluation
 The **CreativeWritingEvaluation** module provides tools for assessing the Human "Tool" framework's effectiveness in creative domains:
+- Automated and human evaluation of narrative quality across dimensions like structure, character development, and originality
+- Analysis of collaboration patterns between AI and human
+- User experience assessment through standardized surveys (NASA-TLX, SUS)
+- Scripts for quantitative and qualitative analysis of experimental data
 
-Automated and human evaluation of narrative quality across dimensions like structure, character development, and originality
-Analysis of collaboration patterns between AI and human
-User experience assessment through standardized surveys (NASA-TLX, SUS)
-Scripts for quantitative and qualitative analysis of experimental data
+### Travel Planning Task Evaluation
+For evaluating the Travel Planning Task System, please refer to the evaluation protocols and metrics established in the original TravelPlanner benchmark paper:
+
+```bibtex
+@inproceedings{xie2024travelplanner,
+  title={TravelPlanner: A Benchmark for Real-World Planning with Language Agents},
+  author={Xie, Jian and Zhang, Kai and Chen, Jiangjie and Zhu, Tinghui and Lou, Renze and Tian, Yuandong and Xiao, Yanghua and Su, Yu},
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
+}
+```
+
+This includes evaluation criteria for planning quality, constraint satisfaction (environment, commonsense, and hard constraints), and overall task completion effectiveness as defined in the TravelPlanner framework.
 
 ## 📁 Code Structure
 
 The repository is organized with separate modules for each task system.
 
 /
-├── StoryWritingTaskSystem/      # The story writing task system
-│   ├── agent/                   # Core agent logic
-│   └── web_ui/                  # Frontend user interface
+├── 📂 StoryWritingTaskSystem/
+│   ├── agent/
+│   └── web_ui/
 │
-├── TravelPlanningTaskSystem/    # The travel planning task system
-│   ├── agent/                   # Core agent logic
-│   └── web_ui/                  # Frontend user interface
+├── 📂 TravelPlanningTaskSystem/
+│   ├── agent/
+│   └── web_ui/
 │
-├── CreativeWritingEvaluation/   # Story Writing Evaluation System & User Study
-│   ├── analysis_scripts/        # Scripts for analyzing experimental data (Python/R)
-│   └── survey_materials/        # Survey materials (e.g., NASA-TLX, SUS)
+├── 📂 CreativeWritingEvaluation/
+│   ├── analysis_scripts/
+│   └── survey_materials/
 │
-├── common/                      # Shared modules or utilities
+├── 📂 common/
 │
-├── requirements.txt             # Project dependencies
-└── README.md                    # This file
+├── 📄 requirements.txt
+└── 📄 README.md
 
 Taking `StoryWritingTaskSystem/agent/` as an example, its internal structure might look like this:
 
 /agent
-├── core/                        # Core system components
-│   ├── agent.py                 # Main agent logic and initialization
-│   ├── prompts.py               # System prompts defining agent behavior and structure
-│   └── nodes.py                 # Workflow node management
+├── 📂 core/
+│   ├── 📄 agent.py
+│   ├── 📄 prompts.py
+│   └── 📄 nodes.py
 │
-├── tool/                        # Tool implementations
-│   ├── human.py                 # Human tool modeling and interaction logic
-│   ├── llm.py                   # LLM-based tools (KnowledgeAnalyzer, Thinking, General)
-│   ├── writing.py               # Creative writing tools (for story system)
-│   ├── travel_plan.py           # Travel-specific planning tools
-│   └── tool_manager.py          # Tool management and caching
+├── 📂 tool/
+│   ├── 📄 human.py
+│   ├── 📄 llm.py
+│   ├── 📄 writing.py
+│   ├── 📄 travel_plan.py
+│   └── 📄 tool_manager.py
 │
-├── utils/                       # Utility modules
-│   ├── logger.py                # Logging functionality
-│   └── json_parser.py           # JSON parsing and validation
+├── 📂 utils/
+│   ├── 📄 logger.py
+│   └── 📄 json_parser.py
 │
-└── graph.py                     # Workflow graph definition and executio
+└── 📄 graph.py
 
 ## 🚀 Getting Started
 
