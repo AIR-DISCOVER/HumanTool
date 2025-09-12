@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用户Profile管理中台</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .actions {
+            margin-bottom: 20px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+            margin-right: 10px;
+        }
+
+        .btn-primary {
+            background-color: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background-color: #2980b9;
+        }
+
+        .btn-success {
+            background-color: #27ae60;
+            color: white;
+        }
+
+        .btn-success:hover {
+            background-color: #219a52;
+        }
+
+        .btn-warning {
+            background-color: #f39c12;
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background-color: #e67e22;
+        }
+
+        .btn-danger {
+            background-color: #e74c3c;
+            color: white;
+        }
+
+        .btn-danger:hover {
+            background-color: #c0392b;
+        }
+
+        .btn-secondary {
+            background-color: #95a5a6;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background-color: #7f8c8d;
+        }
+
+        .users-table {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        th {
+            background-color: #f8f9fa;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        tr:hover {
+            background-color: #f8f9fa;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+        }
+
+        .modal-content {
+            background-color: white;
+            margin: 5% auto;
+            padding: 20px;
+            border-radius: 8px;
+            width: 80%;
+            max-width: 800px;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .close:hover {
+            color: black;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .form-group textarea {
+            resize: vertical;
+            min-height: 80px;
+        }
+
+        .form-section {
+            margin-bottom: 25px;
+            padding: 15px;
+            border: 1px solid #e3e3e3;
+            border-radius: 6px;
+            background-color: #fafafa;
+        }
+
+        .form-section h3 {
+            margin-bottom: 15px;
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+
+        .profile-preview {
+            max-width: 300px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+
+        .error {
+            color: #e74c3c;
+            padding: 10px;
+            background-color: #fdf2f2;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+
+        .success {
+            color: #27ae60;
+            padding: 10px;
+            background-color: #f2fdf2;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+
+        .status-message {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+
+        .status-error {
+            background-color: #fdf2f2;
+            color: #e74c3c;
+            border: 1px solid #fadbd8;
+        }
+
+        .status-success {
+            background-color: #f2fdf2;
+            color: #27ae60;
+            border: 1px solid #d5f4e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>用户Profile管理中台</h1>
+            <p>管理和编辑用户档案信息</p>
+        </div>
+
+        <div class="actions">
+            <button class="btn btn-primary" onclick="showCreateModal()">新增用户</button>
+            <button class="btn btn-success" onclick="loadUsers()">刷新列表</button>
+            <button class="btn btn-secondary" onclick="testConnection()">测试连接</button>
+        </div>
+
+        <div id="statusMessage"></div>
+
+        <div class="users-table">
+            <table>
+                <thead>
+                    <tr>
+                        <th>用户ID</th>
+                        <th>显示名称</th>
+                        <th>用户类型</th>
+                        <th>实验组</th>
+                        <th>Profile预览</th>
+                        <th>最后更新</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody id="usersTableBody">
+                    <tr>
+                        <td colspan="7" class="loading">加载中...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- 用户编辑/新增模态框 -->
+    <div id="userModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2 id="modalTitle">新增用户</h2>
+            <form id="userForm">
+                <div class="form-group">
+                    <label for="name">用户名:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="display_name">显示名称:</label>
+                    <input type="text" id="display_name" name="display_name" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="user_type">用户类型:</label>
+                    <select id="user_type" name="user_type">
+                        <option value="general">一般用户</option>
+                        <option value="admin">管理员</option>
+                        <option value="expert">专家</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="experiment_group">实验组:</label>
+                    <select id="experiment_group" name="experiment_group">
+                        <option value="A">A组</option>
+                        <option value="B">B组</option>
+                        <option value="admin">管理组</option>
+                    </select>
+                </div>
+
+                <div class="form-section">
+                    <h3>Capabilities (能力)</h3>
+                    <div class="form-group">
+                        <label for="cognitive_judgment">Cognitive judgment and creativity (认知判断与创造力):</label>
+                        <textarea id="cognitive_judgment" name="cognitive_judgment" placeholder="描述用户的认知判断和创造力能力..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="specialized_skill">Specialized skill and competency (专业技能与能力):</label>
+                        <textarea id="specialized_skill" name="specialized_skill" placeholder="描述用户的专业技能和能力..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="external_interaction">External world interaction (外部世界交互):</label>
+                        <textarea id="external_interaction" name="external_interaction" placeholder="描述用户与外部世界的交互能力..."></textarea>
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h3>Information (信息)</h3>
+                    <div class="form-group">
+                        <label for="domain_expertise">Domain expertise knowledge (领域专业知识):</label>
+                        <textarea id="domain_expertise" name="domain_expertise" placeholder="描述用户的领域专业知识..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="private_domain">Private domain information (私有领域信息):</label>
+                        <textarea id="private_domain" name="private_domain" placeholder="描述用户的私有领域信息..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="preference_constraints">Preference constraints (偏好约束):</label>
+                        <textarea id="preference_constraints" name="preference_constraints" placeholder="描述用户的偏好约束..."></textarea>
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h3>Authority (权限)</h3>
+                    <div class="form-group">
+                        <label for="responsibility_scope">Responsibility scope definition (责任范围定义):</label>
+                        <textarea id="responsibility_scope" name="responsibility_scope" placeholder="定义用户的责任范围..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="authorizable_content">User-authorizable content (用户可授权内容):</label>
+                        <textarea id="authorizable_content" name="authorizable_content" placeholder="描述用户可授权的内容..."></textarea>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>
+                        <input type="checkbox" id="accessible" name="accessible" checked>
+                        用户可访问
+                    </label>
+                </div>
+
+                <div style="margin-top: 20px;">
+                    <button type="submit" class="btn btn-success">保存</button>
+                    <button type="button" class="btn btn-secondary" onclick="closeModal()">取消</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://118.145.144.155:3043/api';
+        let currentUserId = null;
+
+        // 显示状态消息
+        function showStatusMessage(message, type = 'error') {
+            const statusDiv = document.getElementById('statusMessage');
+            statusDiv.innerHTML = `<div class="status-message status-${type}">${message}</div>`;
+            setTimeout(() => {
+                statusDiv.innerHTML = '';
+            }, 5000);
+        }
+
+        // 测试连接
+        async function testConnection() {
+            try {
+                const response = await fetch(`${API_BASE}/test`);
+                const data = await response.json();
+                
+                if (response.ok) {
+                    showStatusMessage('API连接成功!', 'success');
+                } else {
+                    showStatusMessage('API连接失败: ' + data.error, 'error');
+                }
+            } catch (error) {
+                showStatusMessage('无法连接到API服务器: ' + error.message, 'error');
+            }
+        }
+
+        // 加载用户列表
+        async function loadUsers() {
+            try {
+                const response = await fetch(`${API_BASE}/users`);
+                const data = await response.json();
+                
+                const tbody = document.getElementById('usersTableBody');
+                
+                if (!response.ok) {
+                    throw new Error(data.error || '请求失败');
+                }
+                
+                // 检查返回的数据是否是数组
+                if (!Array.isArray(data)) {
+                    throw new Error('服务器返回的数据格式不正确');
+                }
+                
+                tbody.innerHTML = '';
+                
+                if (data.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="7" class="loading">暂无用户数据</td></tr>';
+                    return;
+                }
+                
+                data.forEach(user => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${user.id || ''}</td>
+                        <td>${user.display_name || user.name || ''}</td>
+                        <td>${user.user_type || ''}</td>
+                        <td>${user.experiment_group || ''}</td>
+                        <td class="profile-preview" title="${user.overall_profile || ''}">${user.overall_profile || '暂无'}</td>
+                        <td>${user.last_updated || ''}</td>
+                        <td>
+                            <button class="btn btn-warning" onclick="editUser('${user.id}')">编辑</button>
+                            <button class="btn btn-danger" onclick="deleteUser('${user.id}')">删除</button>
+                        </td>
+                    `;
+                    tbody.appendChild(row);
+                });
+                
+                showStatusMessage(`成功加载 ${data.length} 个用户`, 'success');
+                
+            } catch (error) {
+                console.error('加载用户失败:', error);
+                showStatusMessage('加载用户失败: ' + error.message, 'error');
+                document.getElementById('usersTableBody').innerHTML = '<tr><td colspan="7" class="error">加载失败: ' + error.message + '</td></tr>';
+            }
+        }
+
+        // 显示新增用户模态框
+        function showCreateModal() {
+            currentUserId = null;
+            document.getElementById('modalTitle').textContent = '新增用户';
+            document.getElementById('userForm').reset();
+            document.getElementById('userModal').style.display = 'block';
+        }
+
+        // 编辑用户
+        async function editUser(userId) {
+            try {
+                const response = await fetch(`${API_BASE}/users/${userId}`);
+                const user = await response.json();
+                
+                if (!response.ok) {
+                    throw new Error(user.error || '请求失败');
+                }
+                
+                currentUserId = userId;
+                document.getElementById('modalTitle').textContent = '编辑用户';
+                
+                // 填充基本信息
+                document.getElementById('name').value = user.name || '';
+                document.getElementById('display_name').value = user.display_name || '';
+                document.getElementById('user_type').value = user.user_type || 'general';
+                document.getElementById('experiment_group').value = user.experiment_group || 'A';
+                document.getElementById('accessible').checked = user.accessible !== false;
+                
+                // 解析overall_profile并填充到对应字段
+                // 这里需要根据profile的格式进行解析，暂时留空，用户可以手动填写
+                
+                document.getElementById('userModal').style.display = 'block';
+            } catch (error) {
+                console.error('加载用户信息失败:', error);
+                showStatusMessage('加载用户信息失败: ' + error.message, 'error');
+            }
+        }
+
+        // 删除用户
+        async function deleteUser(userId) {
+            if (!confirm('确定要删除这个用户吗？')) {
+                return;
+            }
+            
+            try {
+                const response = await fetch(`${API_BASE}/users/${userId}`, {
+                    method: 'DELETE'
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    showStatusMessage('用户删除成功', 'success');
+                    loadUsers();
+                } else {
+                    showStatusMessage('删除失败: ' + (data.error || '未知错误'), 'error');
+                }
+            } catch (error) {
+                console.error('删除用户失败:', error);
+                showStatusMessage('删除失败: ' + error.message, 'error');
+            }
+        }
+
+        // 关闭模态框
+        function closeModal() {
+            document.getElementById('userModal').style.display = 'none';
+        }
+
+        // 保存用户
+        document.getElementById('userForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const formData = new FormData(e.target);
+            const userData = {
+                name: formData.get('name'),
+                display_name: formData.get('display_name'),
+                user_type: formData.get('user_type'),
+                experiment_group: formData.get('experiment_group'),
+                accessible: formData.get('accessible') === 'on',
+                capabilities: {
+                    cognitive_judgment: formData.get('cognitive_judgment'),
+                    specialized_skill: formData.get('specialized_skill'),
+                    external_interaction: formData.get('external_interaction')
+                },
+                information: {
+                    domain_expertise: formData.get('domain_expertise'),
+                    private_domain: formData.get('private_domain'),
+                    preference_constraints: formData.get('preference_constraints')
+                },
+                authority: {
+                    responsibility_scope: formData.get('responsibility_scope'),
+                    authorizable_content: formData.get('authorizable_content')
+                }
+            };
+            
+            try {
+                const url = currentUserId ? `${API_BASE}/users/${currentUserId}` : `${API_BASE}/users`;
+                const method = currentUserId ? 'PUT' : 'POST';
+                
+                const response = await fetch(url, {
+                    method: method,
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(userData)
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    showStatusMessage(currentUserId ? '用户更新成功' : '用户创建成功', 'success');
+                    closeModal();
+                    loadUsers();
+                } else {
+                    showStatusMessage(`操作失败: ${data.error || '未知错误'}`, 'error');
+                }
+            } catch (error) {
+                console.error('保存用户失败:', error);
+                showStatusMessage('保存失败: ' + error.message, 'error');
+            }
+        });
+
+        // 页面加载时加载用户列表
+        document.addEventListener('DOMContentLoaded', () => {
+            loadUsers();
+        });
+
+        // 点击模态框外部关闭
+        window.onclick = function(event) {
+            const modal = document.getElementById('userModal');
+            if (event.target == modal) {
+                closeModal();
+            }
+        }
+    </script>
+</body>
+</html>

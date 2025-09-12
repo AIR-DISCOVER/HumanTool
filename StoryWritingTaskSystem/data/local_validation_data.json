@@ -1,0 +1,26 @@
+[
+  {
+    "idx": 1,
+    "query": "Can you help construct a travel plan that begins in Philadelphia and includes visits to 3 different cities in Virginia? The trip duration is for 7 days, from March 15th to March 21st, 2022, with a total budget of $1,800.",
+    "org": "Philadelphia",
+    "dest": "Virginia",
+    "days": 7,
+    "people_number": 1,
+    "budget": 1800,
+    "local_constraint": {},
+    "level": "medium",
+    "reference_information": "Sample reference information for Virginia travel planning..."
+  },
+  {
+    "idx": 2,
+    "query": "Plan a 5-day trip to Texas with a budget of $1500.",
+    "org": "New York",
+    "dest": "Texas",
+    "days": 5,
+    "people_number": 2,
+    "budget": 1500,
+    "local_constraint": {},
+    "level": "easy",
+    "reference_information": "Sample reference information for Texas travel planning..."
+  }
+]
