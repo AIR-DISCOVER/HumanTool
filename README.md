@@ -4,7 +4,6 @@ This repository contains the official implementation for the research paper: **"
 
 This project proposes and implements a novel paradigm for human-AI collaboration called **Human "Tool"**.
 
----
 
 ## 💡 Core Concept
 
@@ -20,7 +19,6 @@ This framework is realized through three key mechanisms:
 2.  **Dynamic Invocation**: The AI intelligently determines when to "call" the human tool based on the current task's needs and its own limitations.
 3.  **Efficient Communication**: Establishing natural and effective communication protocols that allow the AI to clearly request input from the human and seamlessly integrate the feedback.
 
----
 
 ## 💻 About this Repository
 
@@ -29,7 +27,6 @@ This repository contains the two core experimental systems used in the paper to 
 * ✍️ **Story Writing Task System**: An example of a **creative task**. The AI manages the overall story structure and progression, calling upon the human for inspiration on plot twists, character development, and other creative elements.
 * ✈️ **Travel Planning Task System**: An example of a **decision-optimization task**. The AI handles the search and comparison of vast amounts of flight and hotel data using dedicated planning tools, seeking human input when it's time to weigh personal preferences and make final decisions. The system follows a structured workflow with clear task decomposition and user participation markers.
 
----
 ## 📊 Evaluation
 
 The **CreativeWritingEvaluation** module provides tools for assessing the Human "Tool" framework's effectiveness in creative domains:
@@ -39,7 +36,6 @@ Analysis of collaboration patterns between AI and human
 User experience assessment through standardized surveys (NASA-TLX, SUS)
 Scripts for quantitative and qualitative analysis of experimental data
 
----
 
 ## 📁 Code Structure
 
@@ -57,7 +53,6 @@ This repository contains the official implementation for the research paper: **"
 
 This project proposes and implements a novel paradigm for human-AI collaboration called **Human "Tool"**.
 
----
 
 ## 💡 Core Concept
 
@@ -73,7 +68,6 @@ This framework is realized through three key mechanisms:
 2.  **Dynamic Invocation**: The AI intelligently determines when to "call" the human tool based on the current task's needs and its own limitations.
 3.  **Efficient Communication**: Establishing natural and effective communication protocols that allow the AI to clearly request input from the human and seamlessly integrate the feedback.
 
----
 
 ## 💻 About this Repository
 
@@ -82,7 +76,6 @@ This repository contains the two core experimental systems used in the paper to 
 * ✍️ **Story Writing Task System**: An example of a **creative task**. The AI manages the overall story structure and progression, calling upon the human for inspiration on plot twists, character development, and other creative elements.
 * ✈️ **Travel Planning Task System**: An example of a **decision-optimization task**. The AI handles the search and comparison of vast amounts of flight and hotel data, seeking human input when it's time to weigh personal preferences and make final decisions.
 
----
 
 ## 📁 Code Structure
 
@@ -125,8 +118,7 @@ Taking `StoryWritingTaskSystem/agent/` as an example, its internal structure mig
 │   ├── logger.py                # Logging functionality
 │   └── json_parser.py           # JSON parsing and validation
 │
-└── graph.py                     # Workflow graph definition and execution
----
+└── graph.py                     # Workflow graph definition and executio
 
 ## 🚀 Getting Started
 
@@ -152,7 +144,6 @@ Taking `StoryWritingTaskSystem/agent/` as an example, its internal structure mig
     python agent/main.py
     ```
 
----
 
 ## 📄 Citation
 
