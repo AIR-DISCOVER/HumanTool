@@ -1,0 +1,808 @@
+/* 极简树状思维导图样式 */
+:root {
+  --tree-primary: #4f46e5;
+  --tree-bg: #ffffff;
+  --tree-text: #374151;
+  --tree-text-light: #6b7280;
+  --tree-line: #d1d5db;
+  --tree-shadow: rgba(0, 0, 0, 0.05);
+  
+  /* 分支颜色 */
+  --tree-goals: #f59e0b;
+  --tree-progress: #3b82f6;
+  --tree-pending: #6b7280;
+  --tree-completed: #10b981;
+}
+
+/* 思维导图容器 */
+.xmind-panel {
+  background: var(--tree-bg);
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.xmind-panel .panel-header {
+  background: #f9fafb;
+  color: var(--tree-text);
+  padding: 12px 16px;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.xmind-panel .panel-header .header-left {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.xmind-panel .panel-header h3 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.xmind-panel .agenda-stats {
+  display: flex;
+  gap: 8px;
+}
+
+.xmind-panel .stats-item {
+  background: #e5e7eb;
+  color: var(--tree-text);
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 10px;
+  font-weight: 400;
+}
+
+/* 控制按钮组 */
+.mindmap-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.control-btn {
+  width: 28px;
+  height: 28px;
+  border: 1px solid #d1d5db;
+  background: white;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 12px;
+  transition: all 0.2s ease;
+}
+
+.control-btn:hover {
+  background: #f3f4f6;
+  border-color: #9ca3af;
+  transform: translateY(-1px);
+}
+
+.zoom-indicator {
+  font-size: 10px;
+  color: var(--tree-text-light);
+  padding: 2px 6px;
+  background: #f3f4f6;
+  border-radius: 4px;
+  min-width: 40px;
+  text-align: center;
+}
+
+.xmind-panel .panel-content {
+  padding: 0;
+  background: var(--tree-bg);
+  position: relative;
+  overflow: hidden;
+}
+
+/* 可视区域 */
+.xmind-viewport {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 350px;
+  overflow: hidden;
+  cursor: grab;
+  user-select: none;
+}
+
+.xmind-viewport.dragging {
+  cursor: grabbing;
+}
+
+/* 可拖拽画布 - 无过渡版本 */
+.xmind-canvas {
+  position: relative;
+  will-change: transform;
+  transform-origin: 0 0;
+  transition: none; /* 完全移除过渡 */
+}
+
+/* 拖拽时确保无过渡 */
+.xmind-viewport.dragging .xmind-canvas {
+  transition: none !important;
+}
+
+/* 拖拽时禁用所有子元素的动画 */
+.xmind-viewport.dragging * {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* 思维导图节点 - 无动画版本 */
+.xmind-node {
+  opacity: 1; /* 直接可见，无动画 */
+  transform: translateY(0); /* 固定位置 */
+  animation: none; /* 完全无动画 */
+  transition: none; /* 完全无过渡 */
+  background: white;
+  border: 1px solid var(--node-color, var(--tree-primary));
+  border-radius: 4px;
+  padding: 6px 10px;
+  min-width: 60px;
+  box-shadow: 0 1px 2px var(--tree-shadow);
+  position: relative;
+}
+
+/* 悬停效果只在非拖拽时生效，且无transform */
+.xmind-viewport:not(.dragging) .xmind-node:hover {
+  box-shadow: 0 2px 4px var(--tree-shadow);
+  /* 移除所有 transform 避免闪烁 */
+}
+
+/* 拖拽时完全静态 */
+.xmind-viewport.dragging .xmind-node {
+  opacity: 1 !important;
+  animation: none !important;
+  transition: none !important;
+  transform: translateY(0) !important;
+}
+
+/* 主容器 */
+.xmind-container {
+  position: relative;
+  min-height: 350px;
+  padding: 40px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: var(--tree-bg);
+  min-width: 800px;
+}
+
+/* 操作提示 */
+.viewport-hint {
+  position: absolute;
+  bottom: 35px;
+  left: 16px;
+  font-size: 11px;
+  color: #4b5563;
+  background: rgba(255, 255, 255, 0.96);
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  pointer-events: none;
+  opacity: 0.9;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  white-space: nowrap;
+  z-index: 10;
+  backdrop-filter: blur(4px);
+  min-height: 24px;
+  display: flex;
+  align-items: center;
+  line-height: 1.2;
+}
+
+.viewport-hint span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* 树状结构 */
+.xmind-center {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: 0;
+  width: 100%;
+}
+
+/* 根节点 */
+.center-node {
+  background: var(--tree-primary);
+  color: white;
+  border-radius: 6px;
+  padding: 8px 12px;
+  min-width: 80px;
+  text-align: center;
+  box-shadow: 0 1px 3px var(--tree-shadow);
+  flex-shrink: 0;
+}
+
+.center-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.center-icon {
+  display: none;
+}
+
+.center-title {
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.center-progress {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 4px;
+  width: 100%;
+}
+
+.progress-bar {
+  flex: 1;
+  height: 2px;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 1px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #4ade80;
+  border-radius: 1px;
+  transition: width 0.3s ease; /* 只保留进度条的过渡 */
+}
+
+.progress-text {
+  font-size: 8px;
+  font-weight: 400;
+  min-width: 24px;
+  text-align: right;
+}
+
+/* 分支容器 */
+.xmind-branches {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  flex: 1;
+  position: relative;
+}
+
+.xmind-branches::before {
+  content: '';
+  position: absolute;
+  left: -20px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--tree-line);
+}
+
+/* 单个分支 */
+.xmind-branch {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: 0;
+}
+
+.branch-line {
+  position: absolute;
+  left: -20px;
+  top: 15px;
+  width: 20px;
+  height: 1px;
+  background: var(--tree-line);
+}
+
+.branch-main-node {
+  position: relative;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.toggle-icon {
+  position: absolute;
+  right: -6px;
+  top: 6px;
+  width: 12px;
+  height: 12px;
+  background: white;
+  border: 1px solid var(--node-color, var(--tree-primary));
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  font-weight: 400;
+  color: var(--node-color, var(--tree-primary));
+  box-shadow: 0 1px 2px var(--tree-shadow);
+  z-index: 5;
+}
+
+.branch-tasks {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  position: relative;
+}
+
+.branch-tasks::before {
+  content: '';
+  position: absolute;
+  left: -16px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--node-color, var(--tree-primary));
+  opacity: 0.3;
+}
+
+.task-branch {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.task-branch-line {
+  position: absolute;
+  left: -16px;
+  top: 50%;
+  width: 16px;
+  height: 1px;
+  background: var(--node-color, var(--tree-primary));
+  opacity: 0.5;
+}
+
+/* 主节点样式 */
+.xmind-node.main-node {
+  background: var(--node-color, var(--tree-primary));
+  color: white;
+  font-weight: 500;
+  min-width: 80px;
+}
+
+/* 任务节点样式 */
+.xmind-node.task-node {
+  width: 100%;
+  max-width: 150px;
+  background: #fafafa;
+  border-color: var(--node-color, var(--tree-primary));
+}
+
+.xmind-node.more-node {
+  background: #f3f4f6;
+  border-color: #d1d5db;
+  font-style: italic;
+  opacity: 0.8;
+}
+
+/* 节点内容 */
+.xmind-node .node-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  text-align: left;
+}
+
+.xmind-node .node-icon {
+  display: none;
+}
+
+.xmind-node .node-text {
+  flex: 1;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 1.3;
+  color: var(--tree-text);
+}
+
+.xmind-node.main-node .node-text {
+  color: white;
+  font-weight: 500;
+  text-align: center;
+}
+
+.xmind-node .node-count {
+  font-size: 8px;
+  padding: 1px 3px;
+  background: rgba(255,255,255,0.3);
+  border-radius: 4px;
+  font-weight: 400;
+}
+
+.xmind-node.main-node .node-count {
+  background: rgba(255,255,255,0.25);
+  color: rgba(255,255,255,0.9);
+}
+
+.xmind-node .node-result {
+  margin-top: 4px;
+  padding: 4px 6px;
+  background: #f3f4f6;
+  border-radius: 3px;
+  border-left: 2px solid var(--node-color, var(--tree-primary));
+}
+
+.xmind-node .result-text {
+  font-size: 9px;
+  color: var(--tree-text-light);
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* 分支颜色主题 */
+.xmind-branch.goals-branch { --node-color: var(--tree-goals); }
+.xmind-branch.in_progress-branch { --node-color: var(--tree-progress); }
+.xmind-branch.pending-branch { --node-color: var(--tree-pending); }
+.xmind-branch.completed-branch { --node-color: var(--tree-completed); }
+
+/* 空状态样式 */
+.xmind-panel .empty-state.small {
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--tree-text-light);
+  background: var(--tree-bg);
+}
+
+.xmind-panel .empty-state.small .empty-icon {
+  font-size: 40px;
+  margin-bottom: 12px;
+  opacity: 0.4;
+}
+
+.xmind-panel .empty-state.small h4 {
+  margin: 8px 0 4px 0;
+  color: var(--tree-text);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.xmind-panel .empty-state.small p {
+  margin: 0;
+  font-size: 12px;
+  color: var(--tree-text-light);
+}
+
+/* 优化渲染性能 */
+.xmind-viewport {
+  contain: layout style paint;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+.xmind-canvas {
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .xmind-container {
+    padding: 15px;
+    min-height: 300px;
+    min-width: 600px;
+  }
+  
+  .center-node {
+    min-width: 70px;
+    padding: 6px 10px;
+  }
+  
+  .center-title {
+    font-size: 10px;
+  }
+  
+  .xmind-branches {
+    margin-left: 16px;
+    gap: 12px;
+  }
+  
+  .branch-tasks {
+    margin-left: 12px;
+    gap: 6px;
+  }
+  
+  .xmind-node {
+    padding: 5px 8px;
+    min-width: 50px;
+  }
+  
+  .xmind-node.main-node {
+    min-width: 70px;
+  }
+  
+  .xmind-node .node-text {
+    font-size: 9px;
+  }
+  
+  .mindmap-controls {
+    gap: 6px;
+  }
+  
+  .control-btn {
+    width: 24px;
+    height: 24px;
+    font-size: 10px;
+  }
+  
+  .viewport-hint {
+    bottom: 10px;
+    left: 10px;
+    font-size: 10px;
+    padding: 5px 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  .xmind-container {
+    padding: 12px;
+    min-width: 500px;
+  }
+  
+  .center-node {
+    min-width: 60px;
+    padding: 5px 8px;
+  }
+  
+  .xmind-node .node-text {
+    font-size: 8px;
+  }
+  
+  .xmind-node .result-text {
+    font-size: 8px;
+  }
+  
+  .viewport-hint {
+    bottom: 8px;
+    left: 8px;
+    font-size: 9px;
+    padding: 4px 6px;
+  }
+}
+
+/* 三层树结构支持 */
+
+/* 第一层：主分支 */
+
+
+/* 第二层：任务容器 */
+.branch-tasks.depth-2 {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px; /* 增加任务间距 */
+  flex: 1;
+  position: relative;
+}
+
+.task-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.task-main-node {
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.task-toggle-icon {
+  position: absolute;
+  right: -8px;
+  top: 8px;
+  width: 10px;
+  height: 10px;
+  background: white;
+  border: 1px solid var(--node-color, var(--tree-primary));
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7px;
+  font-weight: 400;
+  color: var(--node-color, var(--tree-primary));
+  box-shadow: 0 1px 2px var(--tree-shadow);
+  z-index: 6;
+}
+
+/* 第二层：任务节点样式 */
+.xmind-node.depth-2 {
+  min-width: 120px;
+  max-width: 180px;
+  padding: 8px 12px;
+  font-size: 10px;
+}
+
+/* 第三层：子任务容器 */
+.subtask-list.depth-3 {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  padding-left: 12px;
+}
+
+.subtask-list.depth-3::before {
+  content: '';
+  position: absolute;
+  left: -8px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--node-color, var(--tree-primary));
+  opacity: 0.2;
+}
+
+.subtask-branch {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.subtask-branch-line {
+  position: absolute;
+  left: -20px;
+  top: 50%;
+  width: 20px;
+  height: 1px;
+  background: var(--node-color, var(--tree-primary));
+  opacity: 0.3;
+}
+
+/* 第三层：子任务节点样式 */
+.xmind-node.depth-3,
+.xmind-node.subtask-node {
+  min-width: 80px;
+  max-width: 120px;
+  padding: 6px 8px;
+  font-size: 9px;
+  background: #f8f9fa;
+  border-width: 1px;
+  border-style: dashed; /* 虚线边框区分层级 */
+}
+
+.xmind-node.depth-3 .node-text,
+.xmind-node.subtask-node .node-text {
+  font-size: 8px;
+  line-height: 1.2;
+}
+
+.xmind-node.depth-3 .result-text,
+.xmind-node.subtask-node .result-text {
+  font-size: 7px;
+}
+
+/* 更多子任务节点 */
+.more-subtasks-node {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.more-subtasks-node .xmind-node {
+  background: #f1f3f4;
+  border-color: #d1d5db;
+  border-style: dotted;
+  font-style: italic;
+  opacity: 0.7;
+}
+
+/* 层级视觉区分 */
+.depth-2 {
+  /* 第二层中等线条 */
+  opacity: 0.9;
+}
+
+.depth-3 {
+  /* 第三层细线条 */
+  opacity: 0.8;
+  transform: scale(0.95);
+}
+
+/* 响应式调整三层结构 */
+@media (max-width: 768px) {
+  .branch-tasks.depth-2 {
+    margin-left: 12px;
+    gap: 8px;
+  }
+  
+  .subtask-list.depth-3 {
+    margin-left: 16px;
+    gap: 4px;
+    padding-left: 8px;
+  }
+  
+  .xmind-node.depth-2 {
+    min-width: 100px;
+    max-width: 140px;
+    padding: 6px 8px;
+    font-size: 9px;
+  }
+  
+  .xmind-node.depth-3,
+  .xmind-node.subtask-node {
+    min-width: 70px;
+    max-width: 100px;
+    padding: 4px 6px;
+    font-size: 8px;
+  }
+  
+  .task-toggle-icon {
+    width: 8px;
+    height: 8px;
+    font-size: 6px;
+    right: -6px;
+    top: 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .branch-tasks.depth-2 {
+    margin-left: 10px;
+    gap: 6px;
+  }
+  
+  .subtask-list.depth-3 {
+    margin-left: 12px;
+    gap: 3px;
+    padding-left: 6px;
+  }
+  
+  .xmind-node.depth-2 {
+    min-width: 80px;
+    max-width: 120px;
+    padding: 5px 6px;
+    font-size: 8px;
+  }
+  
+  .xmind-node.depth-3,
+  .xmind-node.subtask-node {
+    min-width: 60px;
+    max-width: 80px;
+    padding: 3px 4px;
+    font-size: 7px;
+  }
+  
+  .xmind-node.depth-3 .node-text,
+  .xmind-node.subtask-node .node-text {
+    font-size: 7px;
+  }
+  
+  .xmind-node.depth-3 .result-text,
+  .xmind-node.subtask-node .result-text {
+    font-size: 6px;
+  }
+}
