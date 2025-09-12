@@ -97,7 +97,7 @@ Taking `StoryWritingTaskSystem/agent/` as an example, its internal structure mig
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AIR-DISCOVER/HumanTool.git](https://github.com/AIR-DISCOVER/HumanTool.git)
+    git clone https://github.com/AIR-DISCOVER/HumanTool.git
     cd HumanTool
     ```
 
