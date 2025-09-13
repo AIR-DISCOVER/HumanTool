@@ -107,7 +107,3 @@ Taking `StoryWritingTaskSystem/agent/` as an example, its internal structure mig
     * For the Travel Planning Task System: [TravelPlanningTaskSystem/README.md](TravelPlanningTaskSystem/README.md)
 
 
-## 📄 Citation
-
-If you use this framework or code in your research, please cite our paper:
-
