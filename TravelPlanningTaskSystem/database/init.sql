@@ -124,7 +124,7 @@ INSERT INTO users (
     overall_profile, information_capabilities, reasoning_capabilities, 
     last_updated, `accessible`, preferences, created_at, updated_at
 ) VALUES (
-    'user_tyr1', '唐旋', '唐旋', 'admin', 'admin',
+    'user_11', 'Alice', 'Alice', 'admin', 'admin',
     '具有3年视觉设计经验的海报设计师，擅长品牌视觉表达和创意概念呈现，对平面设计和视觉传达有深度理解',
     JSON_ARRAY(
         '品牌视觉策略制定：基于3年实践经验，能够提供品牌调性分析、视觉风格定位、色彩搭配建议等专业意见，适用于海报概念设计和视觉风格确认场景',
